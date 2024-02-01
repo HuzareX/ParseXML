@@ -1,0 +1,472 @@
+[
+  {
+    "id": "1294",
+    "article": "a",
+    "name": "small stone",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "360"
+      },
+      {
+        "key": "attack",
+        "value": "5"
+      },
+      {
+        "key": "weaponType",
+        "value": "distance"
+      },
+      {
+        "key": "shootType",
+        "value": "smallstone"
+      },
+      {
+        "key": "maxHitChance",
+        "value": "76"
+      },
+      {
+        "key": "range",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "2111",
+    "article": "a",
+    "name": "snowball",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "80"
+      },
+      {
+        "key": "weaponType",
+        "value": "distance"
+      },
+      {
+        "key": "shootType",
+        "value": "snowball"
+      },
+      {
+        "key": "range",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": "2389",
+    "article": "a",
+    "name": "spear",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2000"
+      },
+      {
+        "key": "attack",
+        "value": "25"
+      },
+      {
+        "key": "weaponType",
+        "value": "distance"
+      },
+      {
+        "key": "shootType",
+        "value": "spear"
+      },
+      {
+        "key": "maxHitChance",
+        "value": "76"
+      },
+      {
+        "key": "range",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "2399",
+    "article": "a",
+    "name": "throwing star",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "200"
+      },
+      {
+        "key": "attack",
+        "value": "30"
+      },
+      {
+        "key": "weaponType",
+        "value": "distance"
+      },
+      {
+        "key": "shootType",
+        "value": "throwingstar"
+      },
+      {
+        "key": "maxHitChance",
+        "value": "76"
+      },
+      {
+        "key": "range",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "2410",
+    "article": "a",
+    "name": "throwing knife",
+    "plural": "throwing knives",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "500"
+      },
+      {
+        "key": "attack",
+        "value": "25"
+      },
+      {
+        "key": "weaponType",
+        "value": "distance"
+      },
+      {
+        "key": "shootType",
+        "value": "throwingknife"
+      },
+      {
+        "key": "maxHitChance",
+        "value": "76"
+      },
+      {
+        "key": "range",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "3965",
+    "article": "a",
+    "name": "hunting spear",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2200"
+      },
+      {
+        "key": "attack",
+        "value": "32"
+      },
+      {
+        "key": "weaponType",
+        "value": "distance"
+      },
+      {
+        "key": "shootType",
+        "value": "huntingspear"
+      },
+      {
+        "key": "maxHitChance",
+        "value": "80"
+      },
+      {
+        "key": "range",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "7366",
+    "article": "a",
+    "name": "viper star",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "200"
+      },
+      {
+        "key": "attack",
+        "value": "28"
+      },
+      {
+        "key": "hitChance",
+        "value": "80"
+      },
+      {
+        "key": "weaponType",
+        "value": "distance"
+      },
+      {
+        "key": "shootType",
+        "value": "greenstar"
+      },
+      {
+        "key": "maxHitChance",
+        "value": "76"
+      },
+      {
+        "key": "range",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "7367",
+    "article": "an",
+    "name": "enchanted spear",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2000"
+      },
+      {
+        "key": "attack",
+        "value": "38"
+      },
+      {
+        "key": "weaponType",
+        "value": "distance"
+      },
+      {
+        "key": "shootType",
+        "value": "enchantedspear"
+      },
+      {
+        "key": "maxHitChance",
+        "value": "80"
+      },
+      {
+        "key": "range",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "7368",
+    "article": "an",
+    "name": "assassin star",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "200"
+      },
+      {
+        "key": "attack",
+        "value": "65"
+      },
+      {
+        "key": "maxHitChance",
+        "value": "96"
+      },
+      {
+        "key": "weaponType",
+        "value": "distance"
+      },
+      {
+        "key": "shootType",
+        "value": "redstar"
+      },
+      {
+        "key": "range",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "7378",
+    "article": "a",
+    "name": "royal spear",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2500"
+      },
+      {
+        "key": "attack",
+        "value": "35"
+      },
+      {
+        "key": "weaponType",
+        "value": "distance"
+      },
+      {
+        "key": "shootType",
+        "value": "royalspear"
+      },
+      {
+        "key": "maxHitChance",
+        "value": "80"
+      },
+      {
+        "key": "range",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "19390",
+    "article": "a",
+    "name": "mean paladin spear",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1000"
+      },
+      {
+        "key": "attack",
+        "value": "15"
+      },
+      {
+        "key": "weaponType",
+        "value": "distance"
+      },
+      {
+        "key": "shootType",
+        "value": "spear"
+      },
+      {
+        "key": "maxHitChance",
+        "value": "76"
+      },
+      {
+        "key": "range",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "23529",
+    "article": "a",
+    "name": "glooth spear",
+    "attributes": [
+      {
+        "key": "attack",
+        "value": "55"
+      },
+      {
+        "key": "weaponType",
+        "value": "distance"
+      },
+      {
+        "key": "shootType",
+        "value": "gloothspear"
+      },
+      {
+        "key": "range",
+        "value": "3"
+      },
+      {
+        "key": "maxHitChance",
+        "value": "80"
+      },
+      {
+        "key": "weight",
+        "value": "2600"
+      }
+    ]
+  },
+  {
+    "id": "25526",
+    "article": "a",
+    "name": "throwing star of Sula",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "200"
+      },
+      {
+        "key": "attack",
+        "value": "250"
+      },
+      {
+        "key": "maxHitChance",
+        "value": "100"
+      },
+      {
+        "key": "weaponType",
+        "value": "distance"
+      },
+      {
+        "key": "shootType",
+        "value": "throwingstar"
+      },
+      {
+        "key": "range",
+        "value": "4"
+      },
+      {
+        "key": "description",
+        "value": "The golden starfish's arms are sharp as razor blades."
+      }
+    ]
+  },
+  {
+    "id": "28391",
+    "article": "a",
+    "name": "leaf star",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "200"
+      },
+      {
+        "key": "weaponType",
+        "value": "distance"
+      },
+      {
+        "key": "attack",
+        "value": "48"
+      },
+      {
+        "key": "range",
+        "value": "4"
+      },
+      {
+        "key": "elementEarth",
+        "value": "2"
+      },
+      {
+        "key": "shootType",
+        "value": "leafstar"
+      }
+    ]
+  },
+  {
+    "id": "28415",
+    "article": "a",
+    "name": "royal star",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "220"
+      },
+      {
+        "key": "weaponType",
+        "value": "distance"
+      },
+      {
+        "key": "attack",
+        "value": "64"
+      },
+      {
+        "key": "range",
+        "value": "4"
+      },
+      {
+        "key": "elementFire",
+        "value": "2"
+      },
+      {
+        "key": "shootType",
+        "value": "royalstar"
+      },
+      {
+        "key": "supply",
+        "value": "true"
+      }
+    ]
+  }
+]

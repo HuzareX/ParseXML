@@ -1,0 +1,2940 @@
+[
+  {
+    "id": "2378",
+    "article": "a",
+    "name": "battle axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5000"
+      },
+      {
+        "key": "defense",
+        "value": "10"
+      },
+      {
+        "key": "attack",
+        "value": "25"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      }
+    ]
+  },
+  {
+    "id": "2380",
+    "article": "a",
+    "name": "hand axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1800"
+      },
+      {
+        "key": "defense",
+        "value": "5"
+      },
+      {
+        "key": "attack",
+        "value": "10"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      }
+    ]
+  },
+  {
+    "id": "2381",
+    "article": "a",
+    "name": "halberd",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "9000"
+      },
+      {
+        "key": "defense",
+        "value": "14"
+      },
+      {
+        "key": "attack",
+        "value": "35"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      }
+    ]
+  },
+  {
+    "id": "2386",
+    "article": "an",
+    "name": "axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4000"
+      },
+      {
+        "key": "defense",
+        "value": "6"
+      },
+      {
+        "key": "attack",
+        "value": "12"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      }
+    ]
+  },
+  {
+    "id": "2387",
+    "article": "a",
+    "name": "double axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "7000"
+      },
+      {
+        "key": "defense",
+        "value": "12"
+      },
+      {
+        "key": "attack",
+        "value": "35"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      }
+    ]
+  },
+  {
+    "id": "2388",
+    "article": "a",
+    "name": "hatchet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "3500"
+      },
+      {
+        "key": "defense",
+        "value": "8"
+      },
+      {
+        "key": "attack",
+        "value": "15"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      }
+    ]
+  },
+  {
+    "id": "2405",
+    "article": "a",
+    "name": "sickle",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1050"
+      },
+      {
+        "key": "defense",
+        "value": "4"
+      },
+      {
+        "key": "attack",
+        "value": "5"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      }
+    ]
+  },
+  {
+    "id": "2414",
+    "article": "a",
+    "name": "dragon lance",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "The extraordinary sharp blade penetrates every armor."
+      },
+      {
+        "key": "weight",
+        "value": "6700"
+      },
+      {
+        "key": "defense",
+        "value": "16"
+      },
+      {
+        "key": "attack",
+        "value": "47"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      }
+    ]
+  },
+  {
+    "id": "2415",
+    "article": "a",
+    "name": "great axe",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "A masterpiece of a dwarven smith."
+      },
+      {
+        "key": "weight",
+        "value": "9000"
+      },
+      {
+        "key": "defense",
+        "value": "22"
+      },
+      {
+        "key": "attack",
+        "value": "52"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      }
+    ]
+  },
+  {
+    "id": "2418",
+    "article": "a",
+    "name": "golden sickle",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1950"
+      },
+      {
+        "key": "defense",
+        "value": "6"
+      },
+      {
+        "key": "attack",
+        "value": "13"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      }
+    ]
+  },
+  {
+    "id": "2425",
+    "article": "an",
+    "name": "obsidian lance",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "8000"
+      },
+      {
+        "key": "defense",
+        "value": "10"
+      },
+      {
+        "key": "attack",
+        "value": "34"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      }
+    ]
+  },
+  {
+    "id": "2426",
+    "article": "a",
+    "name": "naginata",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "7800"
+      },
+      {
+        "key": "defense",
+        "value": "25"
+      },
+      {
+        "key": "attack",
+        "value": "39"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      }
+    ]
+  },
+  {
+    "id": "2427",
+    "article": "a",
+    "name": "guardian halberd",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "11000"
+      },
+      {
+        "key": "defense",
+        "value": "15"
+      },
+      {
+        "key": "attack",
+        "value": "46"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      }
+    ]
+  },
+  {
+    "id": "2428",
+    "article": "an",
+    "name": "orcish axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4500"
+      },
+      {
+        "key": "defense",
+        "value": "12"
+      },
+      {
+        "key": "attack",
+        "value": "23"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      }
+    ]
+  },
+  {
+    "id": "2429",
+    "article": "a",
+    "name": "barbarian axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5100"
+      },
+      {
+        "key": "defense",
+        "value": "18"
+      },
+      {
+        "key": "attack",
+        "value": "28"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "extradef",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "2430",
+    "article": "a",
+    "name": "knight axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5900"
+      },
+      {
+        "key": "defense",
+        "value": "21"
+      },
+      {
+        "key": "attack",
+        "value": "33"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "extradef",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "2431",
+    "article": "a",
+    "name": "stonecutter axe",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "You feel the power of this mighty axe."
+      },
+      {
+        "key": "weight",
+        "value": "9900"
+      },
+      {
+        "key": "defense",
+        "value": "30"
+      },
+      {
+        "key": "attack",
+        "value": "50"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "extradef",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "2432",
+    "article": "a",
+    "name": "fire axe",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "The blade is a magic flame."
+      },
+      {
+        "key": "weight",
+        "value": "4000"
+      },
+      {
+        "key": "defense",
+        "value": "16"
+      },
+      {
+        "key": "attack",
+        "value": "27"
+      },
+      {
+        "key": "elementFire",
+        "value": "11"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "extradef",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "2435",
+    "article": "a",
+    "name": "dwarven axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "8200"
+      },
+      {
+        "key": "defense",
+        "value": "19"
+      },
+      {
+        "key": "attack",
+        "value": "31"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "extradef",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "2440",
+    "article": "a",
+    "name": "daramian waraxe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5250"
+      },
+      {
+        "key": "defense",
+        "value": "15"
+      },
+      {
+        "key": "attack",
+        "value": "39"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      }
+    ]
+  },
+  {
+    "id": "2441",
+    "article": "a",
+    "name": "daramian axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4100"
+      },
+      {
+        "key": "defense",
+        "value": "8"
+      },
+      {
+        "key": "attack",
+        "value": "17"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      }
+    ]
+  },
+  {
+    "id": "2443",
+    "article": "a",
+    "name": "ravager's axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5250"
+      },
+      {
+        "key": "defense",
+        "value": "14"
+      },
+      {
+        "key": "attack",
+        "value": "49"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      }
+    ]
+  },
+  {
+    "id": "2447",
+    "article": "a",
+    "name": "twin axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "6400"
+      },
+      {
+        "key": "defense",
+        "value": "24"
+      },
+      {
+        "key": "attack",
+        "value": "45"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      }
+    ]
+  },
+  {
+    "id": "2454",
+    "article": "a",
+    "name": "war axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "6150"
+      },
+      {
+        "key": "defense",
+        "value": "10"
+      },
+      {
+        "key": "attack",
+        "value": "48"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      }
+    ]
+  },
+  {
+    "id": "2550",
+    "article": "a",
+    "name": "scythe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "3000"
+      },
+      {
+        "key": "defense",
+        "value": "3"
+      },
+      {
+        "key": "attack",
+        "value": "8"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      }
+    ]
+  },
+  {
+    "id": "3962",
+    "article": "a",
+    "name": "beastslayer axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "6150"
+      },
+      {
+        "key": "defense",
+        "value": "12"
+      },
+      {
+        "key": "attack",
+        "value": "35"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "extradef",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "3964",
+    "article": "a",
+    "name": "ripper lance",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "8000"
+      },
+      {
+        "key": "defense",
+        "value": "7"
+      },
+      {
+        "key": "attack",
+        "value": "28"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      }
+    ]
+  },
+  {
+    "id": "6553",
+    "article": "a",
+    "name": "ruthless axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5800"
+      },
+      {
+        "key": "defense",
+        "value": "15"
+      },
+      {
+        "key": "attack",
+        "value": "50"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      }
+    ]
+  },
+  {
+    "id": "7380",
+    "article": "a",
+    "name": "headchopper",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "This axe is only granted to a greenhorn of the Svargrond arena."
+      },
+      {
+        "key": "weight",
+        "value": "4500"
+      },
+      {
+        "key": "defense",
+        "value": "20"
+      },
+      {
+        "key": "attack",
+        "value": "42"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      }
+    ]
+  },
+  {
+    "id": "7388",
+    "article": "a",
+    "name": "vile axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5200"
+      },
+      {
+        "key": "defense",
+        "value": "19"
+      },
+      {
+        "key": "attack",
+        "value": "43"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "extradef",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "7389",
+    "article": "a",
+    "name": "heroic axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "6100"
+      },
+      {
+        "key": "defense",
+        "value": "24"
+      },
+      {
+        "key": "attack",
+        "value": "44"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "extradef",
+        "value": "1"
+      },
+      {
+        "key": "description",
+        "value": "This axe is only granted to a scrapper of the Svargrond arena."
+      }
+    ]
+  },
+  {
+    "id": "7411",
+    "article": "an",
+    "name": "ornamented axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "6150"
+      },
+      {
+        "key": "defense",
+        "value": "22"
+      },
+      {
+        "key": "attack",
+        "value": "42"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "extradef",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "7412",
+    "article": "a",
+    "name": "butcher's axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "6300"
+      },
+      {
+        "key": "defense",
+        "value": "24"
+      },
+      {
+        "key": "attack",
+        "value": "41"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "extradef",
+        "value": "-2"
+      }
+    ]
+  },
+  {
+    "id": "7413",
+    "article": "a",
+    "name": "titan axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "8100"
+      },
+      {
+        "key": "defense",
+        "value": "30"
+      },
+      {
+        "key": "attack",
+        "value": "43"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      }
+    ]
+  },
+  {
+    "id": "7419",
+    "article": "a",
+    "name": "dreaded cleaver",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "3800"
+      },
+      {
+        "key": "defense",
+        "value": "19"
+      },
+      {
+        "key": "attack",
+        "value": "40"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "extradef",
+        "value": "-3"
+      }
+    ]
+  },
+  {
+    "id": "7420",
+    "article": "a",
+    "name": "reaper's axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5900"
+      },
+      {
+        "key": "defense",
+        "value": "25"
+      },
+      {
+        "key": "attack",
+        "value": "46"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "extradef",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "7433",
+    "article": "a",
+    "name": "ravenwing",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5500"
+      },
+      {
+        "key": "defense",
+        "value": "22"
+      },
+      {
+        "key": "attack",
+        "value": "45"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "extradef",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "7434",
+    "article": "a",
+    "name": "royal axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "9200"
+      },
+      {
+        "key": "defense",
+        "value": "25"
+      },
+      {
+        "key": "attack",
+        "value": "47"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "extradef",
+        "value": "3"
+      },
+      {
+        "key": "description",
+        "value": "This axe is only granted to a warlord of the Svargrond arena."
+      }
+    ]
+  },
+  {
+    "id": "7435",
+    "article": "an",
+    "name": "impaler",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "8200"
+      },
+      {
+        "key": "defense",
+        "value": "25"
+      },
+      {
+        "key": "attack",
+        "value": "49"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "extradef",
+        "value": "-2"
+      }
+    ]
+  },
+  {
+    "id": "7436",
+    "article": "an",
+    "name": "angelic axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5600"
+      },
+      {
+        "key": "defense",
+        "value": "24"
+      },
+      {
+        "key": "attack",
+        "value": "44"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      }
+    ]
+  },
+  {
+    "id": "7453",
+    "article": "an",
+    "name": "executioner",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "9900"
+      },
+      {
+        "key": "defense",
+        "value": "20"
+      },
+      {
+        "key": "attack",
+        "value": "51"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      }
+    ]
+  },
+  {
+    "id": "7454",
+    "article": "a",
+    "name": "glorious axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "9500"
+      },
+      {
+        "key": "defense",
+        "value": "23"
+      },
+      {
+        "key": "attack",
+        "value": "40"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      }
+    ]
+  },
+  {
+    "id": "7455",
+    "article": "a",
+    "name": "mythril axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5500"
+      },
+      {
+        "key": "defense",
+        "value": "28"
+      },
+      {
+        "key": "attack",
+        "value": "48"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "extradef",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "7456",
+    "article": "a",
+    "name": "noble axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "3800"
+      },
+      {
+        "key": "defense",
+        "value": "22"
+      },
+      {
+        "key": "attack",
+        "value": "39"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      }
+    ]
+  },
+  {
+    "id": "7749",
+    "article": "a",
+    "name": "fiery barbarian axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5100"
+      },
+      {
+        "key": "defense",
+        "value": "18"
+      },
+      {
+        "key": "attack",
+        "value": "23"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "extradef",
+        "value": "1"
+      },
+      {
+        "key": "elementFire",
+        "value": "5"
+      },
+      {
+        "key": "charges",
+        "value": "1000"
+      },
+      {
+        "key": "showcharges",
+        "value": "true"
+      },
+      {
+        "key": "decayTo",
+        "value": "2429"
+      }
+    ]
+  },
+  {
+    "id": "7750",
+    "article": "a",
+    "name": "fiery knight axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5900"
+      },
+      {
+        "key": "defense",
+        "value": "21"
+      },
+      {
+        "key": "attack",
+        "value": "27"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "extradef",
+        "value": "1"
+      },
+      {
+        "key": "elementFire",
+        "value": "6"
+      },
+      {
+        "key": "charges",
+        "value": "1000"
+      },
+      {
+        "key": "showcharges",
+        "value": "true"
+      },
+      {
+        "key": "decayTo",
+        "value": "2430"
+      }
+    ]
+  },
+  {
+    "id": "7751",
+    "article": "a",
+    "name": "fiery heroic axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "6100"
+      },
+      {
+        "key": "defense",
+        "value": "24"
+      },
+      {
+        "key": "attack",
+        "value": "35"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "extradef",
+        "value": "1"
+      },
+      {
+        "key": "elementFire",
+        "value": "9"
+      },
+      {
+        "key": "charges",
+        "value": "1000"
+      },
+      {
+        "key": "showcharges",
+        "value": "true"
+      },
+      {
+        "key": "decayTo",
+        "value": "7389"
+      }
+    ]
+  },
+  {
+    "id": "7752",
+    "article": "a",
+    "name": "fiery headchopper",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4500"
+      },
+      {
+        "key": "defense",
+        "value": "20"
+      },
+      {
+        "key": "attack",
+        "value": "34"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      },
+      {
+        "key": "elementFire",
+        "value": "8"
+      },
+      {
+        "key": "charges",
+        "value": "1000"
+      },
+      {
+        "key": "showcharges",
+        "value": "true"
+      },
+      {
+        "key": "decayTo",
+        "value": "7380"
+      }
+    ]
+  },
+  {
+    "id": "7753",
+    "article": "a",
+    "name": "fiery war axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "6150"
+      },
+      {
+        "key": "defense",
+        "value": "10"
+      },
+      {
+        "key": "attack",
+        "value": "39"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      },
+      {
+        "key": "elementFire",
+        "value": "9"
+      },
+      {
+        "key": "charges",
+        "value": "1000"
+      },
+      {
+        "key": "showcharges",
+        "value": "true"
+      },
+      {
+        "key": "decayTo",
+        "value": "2454"
+      }
+    ]
+  },
+  {
+    "id": "7768",
+    "article": "an",
+    "name": "icy barbarian axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5100"
+      },
+      {
+        "key": "defense",
+        "value": "18"
+      },
+      {
+        "key": "attack",
+        "value": "23"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "extradef",
+        "value": "1"
+      },
+      {
+        "key": "elementIce",
+        "value": "5"
+      },
+      {
+        "key": "charges",
+        "value": "1000"
+      },
+      {
+        "key": "showcharges",
+        "value": "true"
+      },
+      {
+        "key": "decayTo",
+        "value": "2429"
+      }
+    ]
+  },
+  {
+    "id": "7769",
+    "article": "an",
+    "name": "icy knight axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5900"
+      },
+      {
+        "key": "defense",
+        "value": "21"
+      },
+      {
+        "key": "attack",
+        "value": "27"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "extradef",
+        "value": "1"
+      },
+      {
+        "key": "elementIce",
+        "value": "6"
+      },
+      {
+        "key": "charges",
+        "value": "1000"
+      },
+      {
+        "key": "showcharges",
+        "value": "true"
+      },
+      {
+        "key": "decayTo",
+        "value": "2430"
+      }
+    ]
+  },
+  {
+    "id": "7770",
+    "article": "an",
+    "name": "icy heroic axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "6100"
+      },
+      {
+        "key": "defense",
+        "value": "24"
+      },
+      {
+        "key": "attack",
+        "value": "35"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "extradef",
+        "value": "1"
+      },
+      {
+        "key": "elementIce",
+        "value": "9"
+      },
+      {
+        "key": "charges",
+        "value": "1000"
+      },
+      {
+        "key": "showcharges",
+        "value": "true"
+      },
+      {
+        "key": "decayTo",
+        "value": "7389"
+      }
+    ]
+  },
+  {
+    "id": "7771",
+    "article": "an",
+    "name": "icy headchopper",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4500"
+      },
+      {
+        "key": "defense",
+        "value": "20"
+      },
+      {
+        "key": "attack",
+        "value": "34"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      },
+      {
+        "key": "elementIce",
+        "value": "8"
+      },
+      {
+        "key": "charges",
+        "value": "1000"
+      },
+      {
+        "key": "showcharges",
+        "value": "true"
+      },
+      {
+        "key": "decayTo",
+        "value": "7380"
+      }
+    ]
+  },
+  {
+    "id": "7772",
+    "article": "an",
+    "name": "icy war axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "6150"
+      },
+      {
+        "key": "defense",
+        "value": "10"
+      },
+      {
+        "key": "attack",
+        "value": "39"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      },
+      {
+        "key": "elementIce",
+        "value": "9"
+      },
+      {
+        "key": "charges",
+        "value": "1000"
+      },
+      {
+        "key": "showcharges",
+        "value": "true"
+      },
+      {
+        "key": "decayTo",
+        "value": "2454"
+      }
+    ]
+  },
+  {
+    "id": "7859",
+    "article": "an",
+    "name": "earth barbarian axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5100"
+      },
+      {
+        "key": "defense",
+        "value": "18"
+      },
+      {
+        "key": "attack",
+        "value": "23"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "extradef",
+        "value": "1"
+      },
+      {
+        "key": "elementEarth",
+        "value": "5"
+      },
+      {
+        "key": "charges",
+        "value": "1000"
+      },
+      {
+        "key": "showcharges",
+        "value": "true"
+      },
+      {
+        "key": "decayTo",
+        "value": "2429"
+      }
+    ]
+  },
+  {
+    "id": "7860",
+    "article": "an",
+    "name": "earth knight axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5900"
+      },
+      {
+        "key": "defense",
+        "value": "21"
+      },
+      {
+        "key": "attack",
+        "value": "27"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "extradef",
+        "value": "1"
+      },
+      {
+        "key": "elementEarth",
+        "value": "6"
+      },
+      {
+        "key": "charges",
+        "value": "1000"
+      },
+      {
+        "key": "showcharges",
+        "value": "true"
+      },
+      {
+        "key": "decayTo",
+        "value": "2430"
+      }
+    ]
+  },
+  {
+    "id": "7861",
+    "article": "an",
+    "name": "earth heroic axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "6100"
+      },
+      {
+        "key": "defense",
+        "value": "24"
+      },
+      {
+        "key": "attack",
+        "value": "35"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "extradef",
+        "value": "1"
+      },
+      {
+        "key": "elementEarth",
+        "value": "9"
+      },
+      {
+        "key": "charges",
+        "value": "1000"
+      },
+      {
+        "key": "showcharges",
+        "value": "true"
+      },
+      {
+        "key": "decayTo",
+        "value": "7389"
+      }
+    ]
+  },
+  {
+    "id": "7862",
+    "article": "an",
+    "name": "earth headchopper",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4500"
+      },
+      {
+        "key": "defense",
+        "value": "20"
+      },
+      {
+        "key": "attack",
+        "value": "34"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      },
+      {
+        "key": "elementEarth",
+        "value": "8"
+      },
+      {
+        "key": "charges",
+        "value": "1000"
+      },
+      {
+        "key": "showcharges",
+        "value": "true"
+      },
+      {
+        "key": "decayTo",
+        "value": "7380"
+      }
+    ]
+  },
+  {
+    "id": "7863",
+    "article": "an",
+    "name": "earth war axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "6150"
+      },
+      {
+        "key": "defense",
+        "value": "10"
+      },
+      {
+        "key": "attack",
+        "value": "39"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      },
+      {
+        "key": "elementEarth",
+        "value": "9"
+      },
+      {
+        "key": "charges",
+        "value": "1000"
+      },
+      {
+        "key": "showcharges",
+        "value": "true"
+      },
+      {
+        "key": "decayTo",
+        "value": "2454"
+      }
+    ]
+  },
+  {
+    "id": "7874",
+    "article": "an",
+    "name": "energy barbarian axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5100"
+      },
+      {
+        "key": "defense",
+        "value": "18"
+      },
+      {
+        "key": "attack",
+        "value": "23"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "extradef",
+        "value": "1"
+      },
+      {
+        "key": "elementEnergy",
+        "value": "5"
+      },
+      {
+        "key": "charges",
+        "value": "1000"
+      },
+      {
+        "key": "showcharges",
+        "value": "true"
+      },
+      {
+        "key": "decayTo",
+        "value": "2429"
+      }
+    ]
+  },
+  {
+    "id": "7875",
+    "article": "an",
+    "name": "energy knight axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5900"
+      },
+      {
+        "key": "defense",
+        "value": "21"
+      },
+      {
+        "key": "attack",
+        "value": "27"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "extradef",
+        "value": "1"
+      },
+      {
+        "key": "elementEnergy",
+        "value": "6"
+      },
+      {
+        "key": "charges",
+        "value": "1000"
+      },
+      {
+        "key": "showcharges",
+        "value": "true"
+      },
+      {
+        "key": "decayTo",
+        "value": "2430"
+      }
+    ]
+  },
+  {
+    "id": "7876",
+    "article": "an",
+    "name": "energy heroic axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "6100"
+      },
+      {
+        "key": "defense",
+        "value": "24"
+      },
+      {
+        "key": "attack",
+        "value": "35"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "extradef",
+        "value": "1"
+      },
+      {
+        "key": "elementEnergy",
+        "value": "9"
+      },
+      {
+        "key": "charges",
+        "value": "1000"
+      },
+      {
+        "key": "showcharges",
+        "value": "true"
+      },
+      {
+        "key": "decayTo",
+        "value": "7389"
+      }
+    ]
+  },
+  {
+    "id": "7877",
+    "article": "an",
+    "name": "energy headchopper",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4500"
+      },
+      {
+        "key": "defense",
+        "value": "20"
+      },
+      {
+        "key": "attack",
+        "value": "34"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      },
+      {
+        "key": "elementEnergy",
+        "value": "8"
+      },
+      {
+        "key": "charges",
+        "value": "1000"
+      },
+      {
+        "key": "showcharges",
+        "value": "true"
+      },
+      {
+        "key": "decayTo",
+        "value": "7380"
+      }
+    ]
+  },
+  {
+    "id": "7878",
+    "article": "an",
+    "name": "energy war axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "6150"
+      },
+      {
+        "key": "defense",
+        "value": "10"
+      },
+      {
+        "key": "attack",
+        "value": "39"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      },
+      {
+        "key": "elementEnergy",
+        "value": "9"
+      },
+      {
+        "key": "charges",
+        "value": "1000"
+      },
+      {
+        "key": "showcharges",
+        "value": "true"
+      },
+      {
+        "key": "decayTo",
+        "value": "2454"
+      }
+    ]
+  },
+  {
+    "id": "8601",
+    "article": "a",
+    "name": "steel axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4100"
+      },
+      {
+        "key": "defense",
+        "value": "10"
+      },
+      {
+        "key": "attack",
+        "value": "21"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      }
+    ]
+  },
+  {
+    "id": "8924",
+    "article": "a",
+    "name": "hellforged axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "8800"
+      },
+      {
+        "key": "defense",
+        "value": "28"
+      },
+      {
+        "key": "attack",
+        "value": "51"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "extradef",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "8925",
+    "article": "a",
+    "name": "solar axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "11000"
+      },
+      {
+        "key": "defense",
+        "value": "29"
+      },
+      {
+        "key": "attack",
+        "value": "52"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "extradef",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "8926",
+    "article": "a",
+    "name": "demonwing axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "12000"
+      },
+      {
+        "key": "defense",
+        "value": "20"
+      },
+      {
+        "key": "attack",
+        "value": "53"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      }
+    ]
+  },
+  {
+    "id": "10301",
+    "article": "a",
+    "name": "scythe of the reaper",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "This scythe has harvested countless souls and still hungers for more."
+      },
+      {
+        "key": "weight",
+        "value": "3000"
+      },
+      {
+        "key": "defense",
+        "value": "6"
+      },
+      {
+        "key": "attack",
+        "value": "16"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      }
+    ]
+  },
+  {
+    "id": "11305",
+    "article": "a",
+    "name": "drakinata",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5400"
+      },
+      {
+        "key": "defense",
+        "value": "20"
+      },
+      {
+        "key": "attack",
+        "value": "47"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      }
+    ]
+  },
+  {
+    "id": "11309",
+    "name": "twin hooks",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5000"
+      },
+      {
+        "key": "defense",
+        "value": "22"
+      },
+      {
+        "key": "attack",
+        "value": "32"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      }
+    ]
+  },
+  {
+    "id": "11323",
+    "article": "a",
+    "name": "Zaoan halberd",
+    "attributes": [
+      {
+        "key": "defense",
+        "value": "15"
+      },
+      {
+        "key": "attack",
+        "value": "37"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      },
+      {
+        "key": "weight",
+        "value": "8700"
+      }
+    ]
+  },
+  {
+    "id": "15404",
+    "article": "a",
+    "name": "deepling axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "9100"
+      },
+      {
+        "key": "defense",
+        "value": "29"
+      },
+      {
+        "key": "attack",
+        "value": "49"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      }
+    ]
+  },
+  {
+    "id": "15451",
+    "article": "a",
+    "name": "warrior's axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "8800"
+      },
+      {
+        "key": "attack",
+        "value": "42"
+      },
+      {
+        "key": "defense",
+        "value": "21"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      }
+    ]
+  },
+  {
+    "id": "15454",
+    "article": "a",
+    "name": "guardian axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "11000"
+      },
+      {
+        "key": "attack",
+        "value": "46"
+      },
+      {
+        "key": "defense",
+        "value": "11"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      }
+    ]
+  },
+  {
+    "id": "15492",
+    "article": "a",
+    "name": "hive scythe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "7500"
+      },
+      {
+        "key": "attack",
+        "value": "46"
+      },
+      {
+        "key": "defense",
+        "value": "24"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      }
+    ]
+  },
+  {
+    "id": "18451",
+    "article": "a",
+    "name": "crystalline axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "7600"
+      },
+      {
+        "key": "defense",
+        "value": "29"
+      },
+      {
+        "key": "attack",
+        "value": "51"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "extradef",
+        "value": "3"
+      },
+      {
+        "key": "description",
+        "value": "Even in the light of day, the stars seem to reflect in each facet of this crystalline axe."
+      },
+      {
+        "key": "skillAxe",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "22404",
+    "article": "a",
+    "name": "crude umbral axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "9000"
+      },
+      {
+        "key": "defense",
+        "value": "24"
+      },
+      {
+        "key": "attack",
+        "value": "49"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "extradef",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "22405",
+    "article": "an",
+    "name": "umbral axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "8500"
+      },
+      {
+        "key": "defense",
+        "value": "27"
+      },
+      {
+        "key": "attack",
+        "value": "51"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "extradef",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "22406",
+    "article": "an",
+    "name": "umbral master axe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "8000"
+      },
+      {
+        "key": "defense",
+        "value": "30"
+      },
+      {
+        "key": "attack",
+        "value": "53"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "extradef",
+        "value": "3"
+      },
+      {
+        "key": "skillAxe",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "22407",
+    "article": "a",
+    "name": "crude umbral chopper",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "12000"
+      },
+      {
+        "key": "defense",
+        "value": "27"
+      },
+      {
+        "key": "attack",
+        "value": "51"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      }
+    ]
+  },
+  {
+    "id": "22408",
+    "article": "an",
+    "name": "umbral chopper",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "11500"
+      },
+      {
+        "key": "defense",
+        "value": "30"
+      },
+      {
+        "key": "attack",
+        "value": "52"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      }
+    ]
+  },
+  {
+    "id": "22409",
+    "article": "an",
+    "name": "umbral master chopper",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "11000"
+      },
+      {
+        "key": "defense",
+        "value": "34"
+      },
+      {
+        "key": "attack",
+        "value": "54"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "skillAxe",
+        "value": "3"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      }
+    ]
+  },
+  {
+    "id": "23545",
+    "article": "a",
+    "name": "mino lance",
+    "attributes": [
+      {
+        "key": "defense",
+        "value": "23"
+      },
+      {
+        "key": "attack",
+        "value": "40"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "weight",
+        "value": "6500"
+      }
+    ]
+  },
+  {
+    "id": "23547",
+    "article": "an",
+    "name": "execowtioner axe",
+    "attributes": [
+      {
+        "key": "defense",
+        "value": "18"
+      },
+      {
+        "key": "attack",
+        "value": "46"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      },
+      {
+        "key": "weight",
+        "value": "8200"
+      }
+    ]
+  },
+  {
+    "id": "23551",
+    "article": "a",
+    "name": "glooth axe",
+    "attributes": [
+      {
+        "key": "defense",
+        "value": "1"
+      },
+      {
+        "key": "attack",
+        "value": "39"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      },
+      {
+        "key": "elementEarth",
+        "value": "26"
+      },
+      {
+        "key": "charges",
+        "value": "2"
+      },
+      {
+        "key": "weight",
+        "value": "1900"
+      }
+    ]
+  },
+  {
+    "id": "24828",
+    "article": "an",
+    "name": "ogre choppa",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "7500"
+      },
+      {
+        "key": "defense",
+        "value": "23"
+      },
+      {
+        "key": "attack",
+        "value": "39"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      }
+    ]
+  },
+  {
+    "id": "25383",
+    "article": "a",
+    "name": "rift lance",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "6600"
+      },
+      {
+        "key": "defense",
+        "value": "28"
+      },
+      {
+        "key": "attack",
+        "value": "48"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      }
+    ]
+  },
+  {
+    "id": "25415",
+    "article": "a",
+    "name": "plague bite",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "9900"
+      },
+      {
+        "key": "defense",
+        "value": "31"
+      },
+      {
+        "key": "attack",
+        "value": "26"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "extradef",
+        "value": "3"
+      },
+      {
+        "key": "elementEarth",
+        "value": "26"
+      }
+    ]
+  },
+  {
+    "id": "25881",
+    "article": "an",
+    "name": "axe of mayhem",
+    "attributes": [
+      {
+        "key": "defense",
+        "value": "31"
+      },
+      {
+        "key": "attack",
+        "value": "51"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "weight",
+        "value": "5000"
+      }
+    ]
+  },
+  {
+    "id": "25882",
+    "article": "a",
+    "name": "chopper of mayhem",
+    "attributes": [
+      {
+        "key": "defense",
+        "value": "32"
+      },
+      {
+        "key": "attack",
+        "value": "52"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      },
+      {
+        "key": "weight",
+        "value": "7000"
+      }
+    ]
+  },
+  {
+    "fromid": "25927",
+    "toid": "25930",
+    "article": "an",
+    "name": "axe of remedy",
+    "attributes": [
+      {
+        "key": "defense",
+        "value": "31"
+      },
+      {
+        "key": "attack",
+        "value": "51"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "weight",
+        "value": "5000"
+      }
+    ]
+  },
+  {
+    "fromid": "25931",
+    "toid": "25934",
+    "article": "a",
+    "name": "chopper of remedy",
+    "attributes": [
+      {
+        "key": "defense",
+        "value": "32"
+      },
+      {
+        "key": "attack",
+        "value": "52"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      },
+      {
+        "key": "weight",
+        "value": "7000"
+      }
+    ]
+  },
+  {
+    "fromid": "25967",
+    "toid": "25970",
+    "article": "an",
+    "name": "axe of carving",
+    "attributes": [
+      {
+        "key": "defense",
+        "value": "31"
+      },
+      {
+        "key": "attack",
+        "value": "51"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "weight",
+        "value": "5000"
+      }
+    ]
+  },
+  {
+    "fromid": "25971",
+    "toid": "25974",
+    "article": "a",
+    "name": "chopper of carving",
+    "attributes": [
+      {
+        "key": "defense",
+        "value": "32"
+      },
+      {
+        "key": "attack",
+        "value": "52"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      },
+      {
+        "key": "weight",
+        "value": "7000"
+      }
+    ]
+  },
+  {
+    "id": "30107",
+    "article": "an",
+    "name": "axe of destruction",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5000"
+      },
+      {
+        "key": "defense",
+        "value": "31"
+      },
+      {
+        "key": "attack",
+        "value": "51"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      }
+    ]
+  },
+  {
+    "id": "30108",
+    "article": "a",
+    "name": "chopper of destruction",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "7000"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      },
+      {
+        "key": "defense",
+        "value": "30"
+      },
+      {
+        "key": "attack",
+        "value": "52"
+      },
+      {
+        "key": "weaponType",
+        "value": "axe"
+      }
+    ]
+  }
+]

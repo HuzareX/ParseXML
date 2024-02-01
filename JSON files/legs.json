@@ -1,0 +1,705 @@
+[
+  {
+    "id": "2468",
+    "name": "studded legs",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2600"
+      },
+      {
+        "key": "armor",
+        "value": "2"
+      },
+      {
+        "key": "slotType",
+        "value": "legs"
+      }
+    ]
+  },
+  {
+    "id": "2469",
+    "name": "dragon scale legs",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4800"
+      },
+      {
+        "key": "armor",
+        "value": "10"
+      },
+      {
+        "key": "slotType",
+        "value": "legs"
+      }
+    ]
+  },
+  {
+    "id": "2470",
+    "name": "golden legs",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5600"
+      },
+      {
+        "key": "armor",
+        "value": "9"
+      },
+      {
+        "key": "slotType",
+        "value": "legs"
+      }
+    ]
+  },
+  {
+    "id": "2477",
+    "name": "knight legs",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "7000"
+      },
+      {
+        "key": "armor",
+        "value": "8"
+      },
+      {
+        "key": "slotType",
+        "value": "legs"
+      }
+    ]
+  },
+  {
+    "id": "2478",
+    "name": "brass legs",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "3800"
+      },
+      {
+        "key": "armor",
+        "value": "5"
+      },
+      {
+        "key": "slotType",
+        "value": "legs"
+      }
+    ]
+  },
+  {
+    "id": "2488",
+    "name": "crown legs",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "6500"
+      },
+      {
+        "key": "armor",
+        "value": "8"
+      },
+      {
+        "key": "slotType",
+        "value": "legs"
+      }
+    ]
+  },
+  {
+    "id": "2495",
+    "name": "demon legs",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "7000"
+      },
+      {
+        "key": "armor",
+        "value": "9"
+      },
+      {
+        "key": "slotType",
+        "value": "legs"
+      }
+    ]
+  },
+  {
+    "id": "2504",
+    "name": "dwarven legs",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4900"
+      },
+      {
+        "key": "armor",
+        "value": "7"
+      },
+      {
+        "key": "slotType",
+        "value": "legs"
+      },
+      {
+        "key": "absorbPercentPhysical",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "2507",
+    "name": "elven legs",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "3300"
+      },
+      {
+        "key": "armor",
+        "value": "4"
+      },
+      {
+        "key": "slotType",
+        "value": "legs"
+      }
+    ]
+  },
+  {
+    "id": "2647",
+    "name": "plate legs",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5000"
+      },
+      {
+        "key": "armor",
+        "value": "7"
+      },
+      {
+        "key": "slotType",
+        "value": "legs"
+      }
+    ]
+  },
+  {
+    "id": "2648",
+    "name": "chain legs",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "3500"
+      },
+      {
+        "key": "armor",
+        "value": "3"
+      },
+      {
+        "key": "slotType",
+        "value": "legs"
+      }
+    ]
+  },
+  {
+    "id": "2649",
+    "name": "leather legs",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1800"
+      },
+      {
+        "key": "armor",
+        "value": "1"
+      },
+      {
+        "key": "slotType",
+        "value": "legs"
+      }
+    ]
+  },
+  {
+    "id": "3983",
+    "article": "a",
+    "name": "bast skirt",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "350"
+      },
+      {
+        "key": "slotType",
+        "value": "legs"
+      }
+    ]
+  },
+  {
+    "id": "5918",
+    "name": "pirate knee breeches",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1200"
+      },
+      {
+        "key": "armor",
+        "value": "1"
+      },
+      {
+        "key": "slotType",
+        "value": "legs"
+      }
+    ]
+  },
+  {
+    "id": "7464",
+    "name": "mammoth fur shorts",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "150"
+      },
+      {
+        "key": "armor",
+        "value": "0"
+      },
+      {
+        "key": "slotType",
+        "value": "legs"
+      },
+      {
+        "key": "description",
+        "value": "They offer little protection but will at least provide some comfort and warmth."
+      }
+    ]
+  },
+  {
+    "id": "7730",
+    "name": "blue legs",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1800"
+      },
+      {
+        "key": "armor",
+        "value": "8"
+      },
+      {
+        "key": "slotType",
+        "value": "legs"
+      }
+    ]
+  },
+  {
+    "id": "7885",
+    "name": "terra legs",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1900"
+      },
+      {
+        "key": "armor",
+        "value": "8"
+      },
+      {
+        "key": "slotType",
+        "value": "legs"
+      },
+      {
+        "key": "absorbPercentEarth",
+        "value": "6"
+      },
+      {
+        "key": "absorbPercentFire",
+        "value": "-6"
+      }
+    ]
+  },
+  {
+    "id": "7894",
+    "name": "magma legs",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1900"
+      },
+      {
+        "key": "armor",
+        "value": "8"
+      },
+      {
+        "key": "absorbPercentFire",
+        "value": "6"
+      },
+      {
+        "key": "absorbPercentIce",
+        "value": "-6"
+      },
+      {
+        "key": "slotType",
+        "value": "legs"
+      }
+    ]
+  },
+  {
+    "id": "7895",
+    "name": "lightning legs",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1900"
+      },
+      {
+        "key": "armor",
+        "value": "8"
+      },
+      {
+        "key": "absorbPercentEnergy",
+        "value": "6"
+      },
+      {
+        "key": "absorbPercentEarth",
+        "value": "-6"
+      },
+      {
+        "key": "slotType",
+        "value": "legs"
+      }
+    ]
+  },
+  {
+    "id": "7896",
+    "article": "a",
+    "name": "glacier kilt",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1900"
+      },
+      {
+        "key": "armor",
+        "value": "8"
+      },
+      {
+        "key": "slotType",
+        "value": "legs"
+      },
+      {
+        "key": "absorbPercentIce",
+        "value": "6"
+      },
+      {
+        "key": "absorbPercentEnergy",
+        "value": "-6"
+      }
+    ]
+  },
+  {
+    "id": "8923",
+    "name": "ranger legs",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "3500"
+      },
+      {
+        "key": "armor",
+        "value": "4"
+      },
+      {
+        "key": "slotType",
+        "value": "legs"
+      }
+    ]
+  },
+  {
+    "id": "9777",
+    "article": "a",
+    "name": "yalahari leg piece",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "6500"
+      },
+      {
+        "key": "armor",
+        "value": "8"
+      },
+      {
+        "key": "slotType",
+        "value": "legs"
+      },
+      {
+        "key": "absorbPercentDeath",
+        "value": "5"
+      },
+      {
+        "key": "skillDist",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "9928",
+    "name": "leaf legs",
+    "attributes": [
+      {
+        "key": "slotType",
+        "value": "legs"
+      },
+      {
+        "key": "weight",
+        "value": "1200"
+      }
+    ]
+  },
+  {
+    "id": "10300",
+    "name": "trousers of the ancients",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "These atavistic trousers already served the forefathers of mankind."
+      },
+      {
+        "key": "weight",
+        "value": "30"
+      },
+      {
+        "key": "armor",
+        "value": "2"
+      },
+      {
+        "key": "slotType",
+        "value": "legs"
+      }
+    ]
+  },
+  {
+    "id": "11304",
+    "name": "Zaoan legs",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "6600"
+      },
+      {
+        "key": "armor",
+        "value": "8"
+      },
+      {
+        "key": "slotType",
+        "value": "legs"
+      },
+      {
+        "key": "absorbPercentPhysical",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "15409",
+    "article": "a",
+    "name": "depth ocrea",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4800"
+      },
+      {
+        "key": "armor",
+        "value": "8"
+      },
+      {
+        "key": "slotType",
+        "value": "legs"
+      },
+      {
+        "key": "absorbPercentManaDrain",
+        "value": "15"
+      },
+      {
+        "key": "showattributes",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "15412",
+    "name": "ornate legs",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "7700"
+      },
+      {
+        "key": "armor",
+        "value": "8"
+      },
+      {
+        "key": "slotType",
+        "value": "legs"
+      },
+      {
+        "key": "absorbPercentPhysical",
+        "value": "5"
+      },
+      {
+        "key": "showattributes",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "15490",
+    "name": "grasshopper legs",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "3200"
+      },
+      {
+        "key": "armor",
+        "value": "7"
+      },
+      {
+        "key": "slotType",
+        "value": "legs"
+      },
+      {
+        "key": "speed",
+        "value": "20"
+      },
+      {
+        "key": "showattributes",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "18400",
+    "name": "gill legs",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2800"
+      },
+      {
+        "key": "armor",
+        "value": "7"
+      },
+      {
+        "key": "slotType",
+        "value": "legs"
+      },
+      {
+        "key": "absorbPercentEarth",
+        "value": "8"
+      },
+      {
+        "key": "absorbPercentFire",
+        "value": "-8"
+      },
+      {
+        "key": "magiclevelpoints",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "18405",
+    "name": "prismatic legs",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "7100"
+      },
+      {
+        "key": "armor",
+        "value": "8"
+      },
+      {
+        "key": "slotType",
+        "value": "legs"
+      },
+      {
+        "key": "absorbPercentPhysical",
+        "value": "3"
+      },
+      {
+        "key": "skillDist",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "21700",
+    "name": "icy culottes",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1500"
+      },
+      {
+        "key": "armor",
+        "value": "8"
+      },
+      {
+        "key": "slotType",
+        "value": "legs"
+      },
+      {
+        "key": "absorbPercentIce",
+        "value": "8"
+      }
+    ]
+  },
+  {
+    "id": "23539",
+    "name": "alloy legs",
+    "attributes": [
+      {
+        "key": "armor",
+        "value": "6"
+      },
+      {
+        "key": "slotType",
+        "value": "legs"
+      },
+      {
+        "key": "speed",
+        "value": "20"
+      },
+      {
+        "key": "weight",
+        "value": "4500"
+      }
+    ]
+  },
+  {
+    "id": "24743",
+    "article": "a",
+    "name": "wereboar loincloth",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1300"
+      },
+      {
+        "key": "slotType",
+        "value": "legs"
+      },
+      {
+        "key": "armor",
+        "value": "6"
+      },
+      {
+        "key": "description",
+        "value": "They offer little protection but will at least provide some comfort and warmth."
+      }
+    ]
+  }
+]

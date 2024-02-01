@@ -1,0 +1,2039 @@
+[
+  {
+    "id": "2175",
+    "article": "a",
+    "name": "spellbook",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "It shows your spells and can also shield against attacks when worn."
+      },
+      {
+        "key": "weight",
+        "value": "1800"
+      },
+      {
+        "key": "defense",
+        "value": "14"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "2509",
+    "article": "a",
+    "name": "steel shield",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "6900"
+      },
+      {
+        "key": "defense",
+        "value": "21"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "2510",
+    "article": "a",
+    "name": "plate shield",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "6500"
+      },
+      {
+        "key": "defense",
+        "value": "17"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "2511",
+    "article": "a",
+    "name": "brass shield",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "6000"
+      },
+      {
+        "key": "defense",
+        "value": "16"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "2512",
+    "article": "a",
+    "name": "wooden shield",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4000"
+      },
+      {
+        "key": "defense",
+        "value": "14"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "2513",
+    "article": "a",
+    "name": "battle shield",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "6200"
+      },
+      {
+        "key": "defense",
+        "value": "23"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "2514",
+    "article": "a",
+    "name": "mastermind shield",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "It's an enchanted shield."
+      },
+      {
+        "key": "weight",
+        "value": "5700"
+      },
+      {
+        "key": "defense",
+        "value": "37"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "2515",
+    "article": "a",
+    "name": "guardian shield",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5500"
+      },
+      {
+        "key": "defense",
+        "value": "30"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "2516",
+    "article": "a",
+    "name": "dragon shield",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "6000"
+      },
+      {
+        "key": "defense",
+        "value": "31"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "2517",
+    "article": "a",
+    "name": "shield of honour",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "A mighty shield awarded by the gods."
+      },
+      {
+        "key": "weight",
+        "value": "5400"
+      },
+      {
+        "key": "defense",
+        "value": "33"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "2518",
+    "article": "a",
+    "name": "bonelord shield",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4700"
+      },
+      {
+        "key": "defense",
+        "value": "28"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "2519",
+    "article": "a",
+    "name": "crown shield",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "6200"
+      },
+      {
+        "key": "defense",
+        "value": "32"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "2520",
+    "article": "a",
+    "name": "demon shield",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "This powerful shield seems to be as light as air."
+      },
+      {
+        "key": "weight",
+        "value": "2600"
+      },
+      {
+        "key": "defense",
+        "value": "35"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "2521",
+    "article": "a",
+    "name": "dark shield",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5200"
+      },
+      {
+        "key": "defense",
+        "value": "25"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "2522",
+    "article": "a",
+    "name": "great shield",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "The shield is made of dragon scales."
+      },
+      {
+        "key": "weight",
+        "value": "8400"
+      },
+      {
+        "key": "defense",
+        "value": "38"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "2523",
+    "article": "a",
+    "name": "blessed shield",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "The shield grants divine protection."
+      },
+      {
+        "key": "weight",
+        "value": "6800"
+      },
+      {
+        "key": "defense",
+        "value": "40"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "2524",
+    "article": "an",
+    "name": "ornamented shield",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "Many gems sparkle on the shield."
+      },
+      {
+        "key": "weight",
+        "value": "6700"
+      },
+      {
+        "key": "defense",
+        "value": "22"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "2525",
+    "article": "a",
+    "name": "dwarven shield",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5500"
+      },
+      {
+        "key": "defense",
+        "value": "26"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "2526",
+    "article": "a",
+    "name": "studded shield",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5800"
+      },
+      {
+        "key": "defense",
+        "value": "15"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "2527",
+    "article": "a",
+    "name": "rose shield",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5200"
+      },
+      {
+        "key": "defense",
+        "value": "27"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "2528",
+    "article": "a",
+    "name": "tower shield",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "8200"
+      },
+      {
+        "key": "defense",
+        "value": "32"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "2529",
+    "article": "a",
+    "name": "black shield",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "An unholy creature covers the shield."
+      },
+      {
+        "key": "weight",
+        "value": "4200"
+      },
+      {
+        "key": "defense",
+        "value": "18"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "2530",
+    "article": "a",
+    "name": "copper shield",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "6300"
+      },
+      {
+        "key": "defense",
+        "value": "19"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "2531",
+    "article": "a",
+    "name": "viking shield",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "6600"
+      },
+      {
+        "key": "defense",
+        "value": "22"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "2532",
+    "article": "an",
+    "name": "ancient shield",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "6100"
+      },
+      {
+        "key": "defense",
+        "value": "27"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "2533",
+    "article": "a",
+    "name": "griffin shield",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5000"
+      },
+      {
+        "key": "defense",
+        "value": "29"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "2534",
+    "article": "a",
+    "name": "vampire shield",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "Dark powers enchant this shield."
+      },
+      {
+        "key": "weight",
+        "value": "3800"
+      },
+      {
+        "key": "defense",
+        "value": "34"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "2535",
+    "article": "a",
+    "name": "castle shield",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4900"
+      },
+      {
+        "key": "defense",
+        "value": "28"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "2536",
+    "article": "a",
+    "name": "medusa shield",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5800"
+      },
+      {
+        "key": "defense",
+        "value": "33"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "2537",
+    "article": "an",
+    "name": "amazon shield",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "6200"
+      },
+      {
+        "key": "defense",
+        "value": "32"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "2538",
+    "article": "an",
+    "name": "eagle shield",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "6200"
+      },
+      {
+        "key": "defense",
+        "value": "32"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "2539",
+    "article": "a",
+    "name": "phoenix shield",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "This shield feels warm to the touch."
+      },
+      {
+        "key": "weight",
+        "value": "3500"
+      },
+      {
+        "key": "defense",
+        "value": "34"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "2540",
+    "article": "a",
+    "name": "scarab shield",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4700"
+      },
+      {
+        "key": "defense",
+        "value": "25"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "2541",
+    "article": "a",
+    "name": "bone shield",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5500"
+      },
+      {
+        "key": "defense",
+        "value": "20"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "2542",
+    "article": "a",
+    "name": "tempest shield",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5100"
+      },
+      {
+        "key": "defense",
+        "value": "36"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "3973",
+    "article": "a",
+    "name": "tusk shield",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "6900"
+      },
+      {
+        "key": "defense",
+        "value": "27"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "3974",
+    "article": "a",
+    "name": "sentinel shield",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4900"
+      },
+      {
+        "key": "defense",
+        "value": "22"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "3975",
+    "article": "a",
+    "name": "salamander shield",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5900"
+      },
+      {
+        "key": "defense",
+        "value": "26"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "6131",
+    "article": "a",
+    "name": "tortoise shield",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5200"
+      },
+      {
+        "key": "defense",
+        "value": "26"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "6391",
+    "article": "a",
+    "name": "nightmare shield",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "It was crafted by the ancient order of the nightmare knights."
+      },
+      {
+        "key": "weight",
+        "value": "3200"
+      },
+      {
+        "key": "defense",
+        "value": "37"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "6433",
+    "article": "a",
+    "name": "necromancer shield",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "It is enchanted with unholy, necromantic powers."
+      },
+      {
+        "key": "weight",
+        "value": "3200"
+      },
+      {
+        "key": "defense",
+        "value": "37"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "7460",
+    "article": "a",
+    "name": "norse shield",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4100"
+      },
+      {
+        "key": "defense",
+        "value": "28"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "8900",
+    "article": "a",
+    "name": "spellbook of enlightenment",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "It shows your spells and can also shield against attacks when worn."
+      },
+      {
+        "key": "weight",
+        "value": "1950"
+      },
+      {
+        "key": "magiclevelpoints",
+        "value": "1"
+      },
+      {
+        "key": "defense",
+        "value": "18"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "8901",
+    "article": "a",
+    "name": "spellbook of warding",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "It shows your spells and can also shield against attacks when worn."
+      },
+      {
+        "key": "weight",
+        "value": "2100"
+      },
+      {
+        "key": "magiclevelpoints",
+        "value": "1"
+      },
+      {
+        "key": "defense",
+        "value": "22"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "8902",
+    "article": "a",
+    "name": "spellbook of mind control",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "It shows your spells and can also shield against attacks when worn."
+      },
+      {
+        "key": "weight",
+        "value": "2450"
+      },
+      {
+        "key": "magiclevelpoints",
+        "value": "2"
+      },
+      {
+        "key": "defense",
+        "value": "16"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "8903",
+    "article": "a",
+    "name": "spellbook of lost souls",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "It shows your spells and can also shield against attacks when worn."
+      },
+      {
+        "key": "weight",
+        "value": "2560"
+      },
+      {
+        "key": "magiclevelpoints",
+        "value": "2"
+      },
+      {
+        "key": "defense",
+        "value": "20"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "8904",
+    "article": "a",
+    "name": "spellscroll of prophecies",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "It shows your spells and can also shield against attacks when worn."
+      },
+      {
+        "key": "weight",
+        "value": "2650"
+      },
+      {
+        "key": "magiclevelpoints",
+        "value": "3"
+      },
+      {
+        "key": "defense",
+        "value": "12"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "8905",
+    "article": "a",
+    "name": "rainbow shield",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "Strange elemental magic flows over this shield."
+      },
+      {
+        "key": "weight",
+        "value": "6900"
+      },
+      {
+        "key": "defense",
+        "value": "30"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "8906",
+    "article": "a",
+    "name": "fiery rainbow shield",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "It has been temporarily imbued with fire magic and boosts your shielding skill."
+      },
+      {
+        "key": "weight",
+        "value": "6900"
+      },
+      {
+        "key": "defense",
+        "value": "36"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      },
+      {
+        "key": "duration",
+        "value": "900"
+      },
+      {
+        "key": "decayTo",
+        "value": "8905"
+      },
+      {
+        "key": "skillShield",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "8907",
+    "article": "an",
+    "name": "icy rainbow shield",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "It has been temporarily imbued with ice magic and has a greatly increased shielding value."
+      },
+      {
+        "key": "weight",
+        "value": "6900"
+      },
+      {
+        "key": "defense",
+        "value": "39"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      },
+      {
+        "key": "duration",
+        "value": "900"
+      },
+      {
+        "key": "decayTo",
+        "value": "8905"
+      }
+    ]
+  },
+  {
+    "id": "8908",
+    "article": "a",
+    "name": "sparking rainbow shield",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "It has been temporarily imbued with energy magic and increases your speed."
+      },
+      {
+        "key": "weight",
+        "value": "6900"
+      },
+      {
+        "key": "defense",
+        "value": "36"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      },
+      {
+        "key": "duration",
+        "value": "900"
+      },
+      {
+        "key": "decayTo",
+        "value": "8905"
+      },
+      {
+        "key": "speed",
+        "value": "20"
+      }
+    ]
+  },
+  {
+    "id": "8909",
+    "article": "a",
+    "name": "terran rainbow shield",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "It has been temporarily imbued with earth magic and boosts your regeneration."
+      },
+      {
+        "key": "weight",
+        "value": "6900"
+      },
+      {
+        "key": "defense",
+        "value": "37"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      },
+      {
+        "key": "duration",
+        "value": "900"
+      },
+      {
+        "key": "decayTo",
+        "value": "8905"
+      },
+      {
+        "key": "healthGain",
+        "value": "1"
+      },
+      {
+        "key": "healthTicks",
+        "value": "3000"
+      },
+      {
+        "key": "manaGain",
+        "value": "4"
+      },
+      {
+        "key": "manaTicks",
+        "value": "3000"
+      }
+    ]
+  },
+  {
+    "id": "8918",
+    "article": "a",
+    "name": "spellbook of dark mysteries",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "It shows your spells and can also shield against attacks when worn."
+      },
+      {
+        "key": "weight",
+        "value": "2850"
+      },
+      {
+        "key": "magiclevelpoints",
+        "value": "3"
+      },
+      {
+        "key": "defense",
+        "value": "16"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "9814",
+    "article": "a",
+    "name": "heavily rusted shield",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "If you can remove the rust layer and dirt from the shield you will be able to see what it is."
+      },
+      {
+        "key": "weight",
+        "value": "2800"
+      },
+      {
+        "key": "defense",
+        "value": "1"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "9815",
+    "article": "a",
+    "name": "rusted shield",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "If you can remove the rust layer and dirt from the shield you will be able to see what it is."
+      },
+      {
+        "key": "weight",
+        "value": "2800"
+      },
+      {
+        "key": "defense",
+        "value": "1"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "9816",
+    "article": "a",
+    "name": "slightly rusted shield",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "If you can remove the rust layer and dirt from the shield you will be able to see what it is."
+      },
+      {
+        "key": "weight",
+        "value": "2800"
+      },
+      {
+        "key": "defense",
+        "value": "1"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "10289",
+    "article": "a",
+    "name": "meat shield",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "500"
+      },
+      {
+        "key": "defense",
+        "value": "10"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      },
+      {
+        "key": "description",
+        "value": "A sturdy shield made of old meat."
+      }
+    ]
+  },
+  {
+    "id": "10294",
+    "article": "a",
+    "name": "shield of the white knight",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "It seems a bit chunky, but what was good enough for a white knight should be good for everyone."
+      },
+      {
+        "key": "weight",
+        "value": "500"
+      },
+      {
+        "key": "defense",
+        "value": "8"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "10297",
+    "article": "a",
+    "name": "shield of care",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "This shield will surely care for anyone who can bear it."
+      },
+      {
+        "key": "weight",
+        "value": "1700"
+      },
+      {
+        "key": "defense",
+        "value": "8"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "10318",
+    "article": "the",
+    "name": "shield Nevermourn",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "It is said that the wearer of Nevermourn will never mourn. What a powerful shield."
+      },
+      {
+        "key": "weight",
+        "value": "5200"
+      },
+      {
+        "key": "defense",
+        "value": "25"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "10364",
+    "article": "the",
+    "name": "shield Nevermourn",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "It is said that the wearer of Nevermourn will never mourn. What a powerful shield."
+      },
+      {
+        "key": "weight",
+        "value": "5200"
+      },
+      {
+        "key": "decayTo",
+        "value": "10318"
+      },
+      {
+        "key": "duration",
+        "value": "300"
+      },
+      {
+        "key": "defense",
+        "value": "25"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "12644",
+    "article": "a",
+    "name": "shield of corruption",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4900"
+      },
+      {
+        "key": "defense",
+        "value": "36"
+      },
+      {
+        "key": "skillSword",
+        "value": "3"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      },
+      {
+        "key": "showattributes",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "12647",
+    "article": "a",
+    "name": "snake god's wristguard",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "It shows your spells and can also shield against attacks when worn."
+      },
+      {
+        "key": "weight",
+        "value": "2800"
+      },
+      {
+        "key": "magiclevelpoints",
+        "value": "3"
+      },
+      {
+        "key": "defense",
+        "value": "14"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "14353",
+    "article": "a",
+    "name": "shield of the white knight",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "It seems a bit chunky, but what was good enough for a white knight should be good for everyone."
+      },
+      {
+        "key": "weight",
+        "value": "500"
+      },
+      {
+        "key": "defense",
+        "value": "8"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "15411",
+    "article": "a",
+    "name": "depth scutum",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "3000"
+      },
+      {
+        "key": "defense",
+        "value": "25"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      },
+      {
+        "key": "magiclevelpoints",
+        "value": "2"
+      },
+      {
+        "key": "showattributes",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "15413",
+    "article": "an",
+    "name": "ornate shield",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "7100"
+      },
+      {
+        "key": "defense",
+        "value": "36"
+      },
+      {
+        "key": "absorbPercentPhysical",
+        "value": "5"
+      },
+      {
+        "key": "showattributes",
+        "value": "true"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "15453",
+    "article": "a",
+    "name": "warrior's shield",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "7500"
+      },
+      {
+        "key": "defense",
+        "value": "33"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "15491",
+    "article": "a",
+    "name": "carapace shield",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5500"
+      },
+      {
+        "key": "defense",
+        "value": "36"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "fromid": "16103",
+    "toid": "16104",
+    "article": "a",
+    "name": "mathmaster shield",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "314"
+      },
+      {
+        "key": "description",
+        "value": "It's an Emblem of Wisdom."
+      },
+      {
+        "key": "defense",
+        "value": "0"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "16112",
+    "article": "a",
+    "name": "spellbook of ancient arcana",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2500"
+      },
+      {
+        "key": "description",
+        "value": "It shows your spells and can also shield against attacks when worn."
+      },
+      {
+        "key": "defense",
+        "value": "19"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      },
+      {
+        "key": "absorbPercentDeath",
+        "value": "5"
+      },
+      {
+        "key": "magiclevelpoints",
+        "value": "4"
+      },
+      {
+        "key": "showattributes",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "18401",
+    "article": "a",
+    "name": "spellbook of vigilance",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "It shows your spells and can also shield against attacks when worn."
+      },
+      {
+        "key": "weight",
+        "value": "2700"
+      },
+      {
+        "key": "magiclevelpoints",
+        "value": "3"
+      },
+      {
+        "key": "defense",
+        "value": "20"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      },
+      {
+        "key": "absorbPercentEarth",
+        "value": "3"
+      },
+      {
+        "key": "absorbPercentFire",
+        "value": "-3"
+      },
+      {
+        "key": "showattributes",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "18410",
+    "article": "a",
+    "name": "prismatic shield",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "7200"
+      },
+      {
+        "key": "defense",
+        "value": "37"
+      },
+      {
+        "key": "skillShield",
+        "value": "2"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      },
+      {
+        "key": "showattributes",
+        "value": "true"
+      },
+      {
+        "key": "absorbPercentPhysical",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "20090",
+    "article": "a",
+    "name": "spike shield",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5900"
+      },
+      {
+        "key": "defense",
+        "value": "28"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "21697",
+    "article": "a",
+    "name": "runic ice shield",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4900"
+      },
+      {
+        "key": "defense",
+        "value": "31"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "21707",
+    "article": "a",
+    "name": "haunted mirror piece",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2800"
+      },
+      {
+        "key": "defense",
+        "value": "34"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "22384",
+    "name": "strange good night songs",
+    "attributes": [
+      {
+        "key": "defense",
+        "value": "0"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      },
+      {
+        "key": "description",
+        "value": "It contains some hypnotic melodies that are hard to remember."
+      },
+      {
+        "key": "weight",
+        "value": "1300"
+      }
+    ]
+  },
+  {
+    "id": "22422",
+    "article": "a",
+    "name": "crude umbral spellbook",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4000"
+      },
+      {
+        "key": "magiclevelpoints",
+        "value": "1"
+      },
+      {
+        "key": "absorbPercentEarth",
+        "value": "2"
+      },
+      {
+        "key": "absorbPercentFire",
+        "value": "2"
+      },
+      {
+        "key": "absorbPercentIce",
+        "value": "2"
+      },
+      {
+        "key": "absorbPercentEnergy",
+        "value": "2"
+      },
+      {
+        "key": "defense",
+        "value": "14"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "22423",
+    "article": "an",
+    "name": "umbral spellbook",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "3500"
+      },
+      {
+        "key": "magiclevelpoints",
+        "value": "2"
+      },
+      {
+        "key": "absorbPercentEarth",
+        "value": "3"
+      },
+      {
+        "key": "absorbPercentFire",
+        "value": "3"
+      },
+      {
+        "key": "absorbPercentIce",
+        "value": "3"
+      },
+      {
+        "key": "absorbPercentEnergy",
+        "value": "3"
+      },
+      {
+        "key": "defense",
+        "value": "16"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "22424",
+    "article": "an",
+    "name": "umbral master spellbook",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "3000"
+      },
+      {
+        "key": "magiclevelpoints",
+        "value": "4"
+      },
+      {
+        "key": "absorbPercentEarth",
+        "value": "5"
+      },
+      {
+        "key": "absorbPercentFire",
+        "value": "5"
+      },
+      {
+        "key": "absorbPercentIce",
+        "value": "5"
+      },
+      {
+        "key": "absorbPercentEnergy",
+        "value": "5"
+      },
+      {
+        "key": "defense",
+        "value": "20"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "22474",
+    "article": "an",
+    "name": "eerie song book",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1300"
+      },
+      {
+        "key": "description",
+        "value": "The songs in it are... special. Very special. Not for weak stomachs."
+      },
+      {
+        "key": "defense",
+        "value": "0"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "23546",
+    "article": "a",
+    "name": "mino shield",
+    "attributes": [
+      {
+        "key": "defense",
+        "value": "31"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      },
+      {
+        "key": "weight",
+        "value": "6500"
+      }
+    ]
+  },
+  {
+    "id": "23771",
+    "article": "a",
+    "name": "spellbook of the novice",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "It shows your spells and can also shield against attacks when worn."
+      },
+      {
+        "key": "weight",
+        "value": "1400"
+      },
+      {
+        "key": "defense",
+        "value": "8"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "23772",
+    "article": "a",
+    "name": "broken wooden shield",
+    "attributes": [
+      {
+        "key": "defense",
+        "value": "11"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      },
+      {
+        "key": "weight",
+        "value": "4000"
+      }
+    ]
+  },
+  {
+    "id": "25382",
+    "article": "a",
+    "name": "rift shield",
+    "attributes": [
+      {
+        "key": "defense",
+        "value": "37"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      },
+      {
+        "key": "weight",
+        "value": "6500"
+      }
+    ]
+  },
+  {
+    "id": "25411",
+    "article": "a",
+    "name": "book of lies",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2400"
+      },
+      {
+        "key": "magiclevelpoints",
+        "value": "4"
+      },
+      {
+        "key": "defense",
+        "value": "18"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "25414",
+    "article": "a",
+    "name": "death gaze",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "7900"
+      },
+      {
+        "key": "defense",
+        "value": "38"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      }
+    ]
+  },
+  {
+    "id": "28355",
+    "article": "a",
+    "name": "wooden spellbook",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1200"
+      },
+      {
+        "key": "weaponType",
+        "value": "shield"
+      },
+      {
+        "key": "defense",
+        "value": "16"
+      },
+      {
+        "key": "magiclevelpoints",
+        "value": "2"
+      },
+      {
+        "key": "absorbpercentearth",
+        "value": "5"
+      }
+    ]
+  }
+]

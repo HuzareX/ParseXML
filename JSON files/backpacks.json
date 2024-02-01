@@ -1,0 +1,1211 @@
+[
+  {
+    "id": "1987",
+    "article": "a",
+    "name": "bag",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "800"
+      },
+      {
+        "key": "containerSize",
+        "value": "8"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "1988",
+    "article": "a",
+    "name": "backpack",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1800"
+      },
+      {
+        "key": "containerSize",
+        "value": "20"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "1991",
+    "article": "a",
+    "name": "green bag",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "800"
+      },
+      {
+        "key": "containerSize",
+        "value": "8"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "1992",
+    "article": "a",
+    "name": "yellow bag",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "800"
+      },
+      {
+        "key": "containerSize",
+        "value": "8"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "1993",
+    "article": "a",
+    "name": "red bag",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "800"
+      },
+      {
+        "key": "containerSize",
+        "value": "8"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "1994",
+    "article": "a",
+    "name": "purple bag",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "800"
+      },
+      {
+        "key": "containerSize",
+        "value": "8"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "1995",
+    "article": "a",
+    "name": "blue bag",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "800"
+      },
+      {
+        "key": "containerSize",
+        "value": "8"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "1996",
+    "article": "a",
+    "name": "grey bag",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "800"
+      },
+      {
+        "key": "containerSize",
+        "value": "8"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "1997",
+    "article": "a",
+    "name": "golden bag",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "800"
+      },
+      {
+        "key": "containerSize",
+        "value": "8"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "1998",
+    "article": "a",
+    "name": "green backpack",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1800"
+      },
+      {
+        "key": "containerSize",
+        "value": "20"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "1999",
+    "article": "a",
+    "name": "yellow backpack",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1800"
+      },
+      {
+        "key": "containerSize",
+        "value": "20"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "2000",
+    "article": "a",
+    "name": "red backpack",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1800"
+      },
+      {
+        "key": "containerSize",
+        "value": "20"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "2001",
+    "article": "a",
+    "name": "purple backpack",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1800"
+      },
+      {
+        "key": "containerSize",
+        "value": "20"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "2002",
+    "article": "a",
+    "name": "blue backpack",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1800"
+      },
+      {
+        "key": "containerSize",
+        "value": "20"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "2003",
+    "article": "a",
+    "name": "grey backpack",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1800"
+      },
+      {
+        "key": "containerSize",
+        "value": "20"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "2004",
+    "article": "a",
+    "name": "golden backpack",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1800"
+      },
+      {
+        "key": "containerSize",
+        "value": "20"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "2365",
+    "article": "a",
+    "name": "backpack of holding",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1500"
+      },
+      {
+        "key": "containerSize",
+        "value": "24"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "3939",
+    "article": "a",
+    "name": "camouflage bag",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "800"
+      },
+      {
+        "key": "containerSize",
+        "value": "8"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "3940",
+    "article": "a",
+    "name": "camouflage backpack",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1800"
+      },
+      {
+        "key": "containerSize",
+        "value": "20"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "3960",
+    "article": "an",
+    "name": "old and used backpack",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "A label on the backpack reads: Property of Sam, Thais."
+      },
+      {
+        "key": "weight",
+        "value": "1800"
+      },
+      {
+        "key": "containerSize",
+        "value": "20"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "5801",
+    "article": "a",
+    "name": "jewelled backpack",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1700"
+      },
+      {
+        "key": "containerSize",
+        "value": "22"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "5926",
+    "article": "a",
+    "name": "pirate backpack",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1800"
+      },
+      {
+        "key": "containerSize",
+        "value": "20"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "5927",
+    "article": "a",
+    "name": "pirate bag",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "800"
+      },
+      {
+        "key": "containerSize",
+        "value": "8"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "5949",
+    "article": "a",
+    "name": "beach backpack",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1800"
+      },
+      {
+        "key": "containerSize",
+        "value": "20"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "5950",
+    "article": "a",
+    "name": "beach bag",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "800"
+      },
+      {
+        "key": "containerSize",
+        "value": "8"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "7342",
+    "article": "a",
+    "name": "fur backpack",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1800"
+      },
+      {
+        "key": "containerSize",
+        "value": "20"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "7343",
+    "article": "a",
+    "name": "fur bag",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "800"
+      },
+      {
+        "key": "containerSize",
+        "value": "8"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "9774",
+    "article": "a",
+    "name": "brocade backpack",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1800"
+      },
+      {
+        "key": "containerSize",
+        "value": "20"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "9775",
+    "article": "a",
+    "name": "brocade bag",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "800"
+      },
+      {
+        "key": "containerSize",
+        "value": "8"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "10518",
+    "article": "a",
+    "name": "demon backpack",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1800"
+      },
+      {
+        "key": "containerSize",
+        "value": "20"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "10519",
+    "article": "an",
+    "name": "orange backpack",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1800"
+      },
+      {
+        "key": "containerSize",
+        "value": "20"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "10520",
+    "article": "an",
+    "name": "orange bag",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "800"
+      },
+      {
+        "key": "containerSize",
+        "value": "8"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "10521",
+    "article": "a",
+    "name": "moon backpack",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1800"
+      },
+      {
+        "key": "containerSize",
+        "value": "20"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "10522",
+    "article": "a",
+    "name": "crown backpack",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1700"
+      },
+      {
+        "key": "containerSize",
+        "value": "20"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "11119",
+    "article": "a",
+    "name": "heart backpack",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1800"
+      },
+      {
+        "key": "containerSize",
+        "value": "20"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "11241",
+    "article": "an",
+    "name": "expedition backpack",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1800"
+      },
+      {
+        "key": "containerSize",
+        "value": "20"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "11242",
+    "article": "an",
+    "name": "expedition bag",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "800"
+      },
+      {
+        "key": "containerSize",
+        "value": "8"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "11243",
+    "article": "a",
+    "name": "dragon backpack",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1700"
+      },
+      {
+        "key": "containerSize",
+        "value": "20"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "11244",
+    "article": "a",
+    "name": "minotaur backpack",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1850"
+      },
+      {
+        "key": "containerSize",
+        "value": "20"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "11263",
+    "article": "a",
+    "name": "santa backpack",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1650"
+      },
+      {
+        "key": "containerSize",
+        "value": "20"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "14330",
+    "article": "a",
+    "name": "bag",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "800"
+      },
+      {
+        "key": "containerSize",
+        "value": "8"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "15645",
+    "article": "a",
+    "name": "deepling backpack",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1800"
+      },
+      {
+        "key": "containerSize",
+        "value": "20"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "15646",
+    "article": "a",
+    "name": "buggy backpack",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1800"
+      },
+      {
+        "key": "containerSize",
+        "value": "20"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "16007",
+    "article": "an",
+    "name": "anniversary backpack",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "It was awarded during the festivities of the worlds 15th anniversary."
+      },
+      {
+        "key": "weight",
+        "value": "1500"
+      },
+      {
+        "key": "containerSize",
+        "value": "15"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "18393",
+    "article": "a",
+    "name": "mushroom backpack",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1800"
+      },
+      {
+        "key": "containerSize",
+        "value": "20"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "18394",
+    "article": "a",
+    "name": "crystal backpack",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1800"
+      },
+      {
+        "key": "containerSize",
+        "value": "20"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "21475",
+    "article": "a",
+    "name": "pannier backpack",
+    "attributes": [
+      {
+        "key": "containerSize",
+        "value": "20"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      },
+      {
+        "key": "weight",
+        "value": "1800"
+      }
+    ]
+  },
+  {
+    "id": "22696",
+    "article": "a",
+    "name": "cake backpack",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1800"
+      },
+      {
+        "key": "containerSize",
+        "value": "20"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "23663",
+    "article": "a",
+    "name": "feedbag",
+    "attributes": [
+      {
+        "key": "containerSize",
+        "value": "20"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      },
+      {
+        "key": "weight",
+        "value": "1800"
+      }
+    ]
+  },
+  {
+    "id": "23666",
+    "article": "a",
+    "name": "glooth backpack",
+    "attributes": [
+      {
+        "key": "containerSize",
+        "value": "20"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      },
+      {
+        "key": "weight",
+        "value": "1800"
+      }
+    ]
+  },
+  {
+    "id": "23782",
+    "article": "a",
+    "name": "shopping bag",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1800"
+      },
+      {
+        "key": "containerSize",
+        "value": "20"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "24740",
+    "article": "a",
+    "name": "wolf backpack",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1800"
+      },
+      {
+        "key": "containerSize",
+        "value": "20"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "26181",
+    "article": "an",
+    "name": "energetic backpack",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2160"
+      },
+      {
+        "key": "containerSize",
+        "value": "24"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "27049",
+    "article": "a",
+    "name": "pillow backpack",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1450"
+      },
+      {
+        "key": "containerSize",
+        "value": "24"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "27051",
+    "article": "a",
+    "name": "birthday backpack",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1500"
+      },
+      {
+        "key": "containerSize",
+        "value": "20"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      },
+      {
+        "key": "description",
+        "value": "It was awarded during the festivities of the worlds 20th anniversary."
+      }
+    ]
+  },
+  {
+    "id": "28436",
+    "article": "a",
+    "name": "blossom bag",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "800"
+      },
+      {
+        "key": "containerSize",
+        "value": "24"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "31227",
+    "article": "a",
+    "name": "book backpack",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1800"
+      },
+      {
+        "key": "containerSize",
+        "value": "22"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "32853",
+    "article": "a",
+    "name": "festive backpack",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1500"
+      },
+      {
+        "key": "containerSize",
+        "value": "22"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "34281",
+    "article": "a",
+    "name": "winged backpack",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1500"
+      },
+      {
+        "key": "containerSize",
+        "value": "24"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "35276",
+    "article": "a",
+    "name": "ghost backpack",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "500"
+      },
+      {
+        "key": "containerSize",
+        "value": "26"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "38233",
+    "article": "a",
+    "name": "raccoon backpack",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1800"
+      },
+      {
+        "key": "containerSize",
+        "value": "20"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "40686",
+    "article": "a",
+    "name": "changing backpack",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1500"
+      },
+      {
+        "key": "containerSize",
+        "value": "20"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  },
+  {
+    "id": "42841",
+    "article": "a",
+    "name": "25 years backpack",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1700"
+      },
+      {
+        "key": "containerSize",
+        "value": "25"
+      },
+      {
+        "key": "slotType",
+        "value": "backpack"
+      }
+    ]
+  }
+]

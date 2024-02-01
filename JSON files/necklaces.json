@@ -1,0 +1,1634 @@
+[
+  {
+    "id": "2125",
+    "article": "a",
+    "name": "crystal necklace",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "490"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      }
+    ]
+  },
+  {
+    "id": "2126",
+    "article": "a",
+    "name": "bronze necklace",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "410"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      }
+    ]
+  },
+  {
+    "id": "2129",
+    "article": "a",
+    "name": "wolf tooth chain",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "330"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      }
+    ]
+  },
+  {
+    "id": "2130",
+    "article": "a",
+    "name": "golden amulet",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "Many gems glitter on the amulet."
+      },
+      {
+        "key": "weight",
+        "value": "830"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      }
+    ]
+  },
+  {
+    "id": "2131",
+    "article": "a",
+    "name": "star amulet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "610"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      }
+    ]
+  },
+  {
+    "id": "2132",
+    "article": "a",
+    "name": "silver necklace",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "480"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      }
+    ]
+  },
+  {
+    "id": "2133",
+    "article": "a",
+    "name": "ruby necklace",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "570"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      }
+    ]
+  },
+  {
+    "id": "2135",
+    "article": "a",
+    "name": "scarab amulet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "770"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      }
+    ]
+  },
+  {
+    "id": "2136",
+    "article": "a",
+    "name": "demonbone amulet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "690"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      }
+    ]
+  },
+  {
+    "id": "2138",
+    "article": "a",
+    "name": "sapphire amulet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "680"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      }
+    ]
+  },
+  {
+    "id": "2142",
+    "article": "an",
+    "name": "ancient amulet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "840"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      }
+    ]
+  },
+  {
+    "id": "2161",
+    "article": "a",
+    "name": "strange talisman",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "290"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      },
+      {
+        "key": "charges",
+        "value": "200"
+      },
+      {
+        "key": "showcharges",
+        "value": "true"
+      },
+      {
+        "key": "absorbPercentEnergy",
+        "value": "10"
+      },
+      {
+        "key": "showattributes",
+        "value": "true"
+      },
+      {
+        "key": "supply",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "2170",
+    "article": "a",
+    "name": "silver amulet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "500"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      },
+      {
+        "key": "charges",
+        "value": "200"
+      },
+      {
+        "key": "showcharges",
+        "value": "true"
+      },
+      {
+        "key": "absorbPercentEarth",
+        "value": "10"
+      },
+      {
+        "key": "showattributes",
+        "value": "true"
+      },
+      {
+        "key": "supply",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "2171",
+    "article": "a",
+    "name": "platinum amulet",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "It is an amulet of protection."
+      },
+      {
+        "key": "weight",
+        "value": "600"
+      },
+      {
+        "key": "armor",
+        "value": "2"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      }
+    ]
+  },
+  {
+    "id": "2172",
+    "article": "a",
+    "name": "bronze amulet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "500"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      },
+      {
+        "key": "charges",
+        "value": "200"
+      },
+      {
+        "key": "showcharges",
+        "value": "true"
+      },
+      {
+        "key": "absorbPercentManaDrain",
+        "value": "20"
+      },
+      {
+        "key": "showattributes",
+        "value": "true"
+      },
+      {
+        "key": "supply",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "2173",
+    "article": "an",
+    "name": "amulet of loss",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "420"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      },
+      {
+        "key": "charges",
+        "value": "1"
+      },
+      {
+        "key": "supply",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "2196",
+    "article": "a",
+    "name": "broken amulet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "420"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      }
+    ]
+  },
+  {
+    "id": "2197",
+    "article": "a",
+    "name": "stone skin amulet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "700"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      },
+      {
+        "key": "charges",
+        "value": "5"
+      },
+      {
+        "key": "showcharges",
+        "value": "true"
+      },
+      {
+        "key": "absorbPercentPhysical",
+        "value": "80"
+      },
+      {
+        "key": "absorbPercentDeath",
+        "value": "80"
+      },
+      {
+        "key": "showattributes",
+        "value": "true"
+      },
+      {
+        "key": "supply",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "2198",
+    "article": "an",
+    "name": "elven amulet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "270"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      },
+      {
+        "key": "charges",
+        "value": "50"
+      },
+      {
+        "key": "showcharges",
+        "value": "true"
+      },
+      {
+        "key": "absorbPercentPhysical",
+        "value": "5"
+      },
+      {
+        "key": "absorbPercentMagic",
+        "value": "5"
+      },
+      {
+        "key": "showattributes",
+        "value": "true"
+      },
+      {
+        "key": "supply",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "2199",
+    "article": "a",
+    "name": "garlic necklace",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "380"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      },
+      {
+        "key": "charges",
+        "value": "150"
+      },
+      {
+        "key": "showcharges",
+        "value": "true"
+      },
+      {
+        "key": "absorbPercentLifeDrain",
+        "value": "20"
+      },
+      {
+        "key": "showattributes",
+        "value": "true"
+      },
+      {
+        "key": "supply",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "2200",
+    "article": "a",
+    "name": "protection amulet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "550"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      },
+      {
+        "key": "charges",
+        "value": "250"
+      },
+      {
+        "key": "showcharges",
+        "value": "true"
+      },
+      {
+        "key": "absorbPercentPhysical",
+        "value": "6"
+      },
+      {
+        "key": "showattributes",
+        "value": "true"
+      },
+      {
+        "key": "supply",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "2201",
+    "article": "a",
+    "name": "dragon necklace",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "630"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      },
+      {
+        "key": "charges",
+        "value": "200"
+      },
+      {
+        "key": "showcharges",
+        "value": "true"
+      },
+      {
+        "key": "absorbPercentFire",
+        "value": "8"
+      },
+      {
+        "key": "showattributes",
+        "value": "true"
+      },
+      {
+        "key": "supply",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "2218",
+    "article": "a",
+    "name": "paw amulet",
+    "attributes": [
+      {
+        "key": "slotType",
+        "value": "necklace"
+      },
+      {
+        "key": "weight",
+        "value": "420"
+      }
+    ]
+  },
+  {
+    "id": "2661",
+    "article": "a",
+    "name": "scarf",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "200"
+      },
+      {
+        "key": "armor",
+        "value": "1"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      }
+    ]
+  },
+  {
+    "id": "5940",
+    "name": "Ceiron's wolf tooth chain",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "It has the letter 'C' carved into one of the teeth."
+      },
+      {
+        "key": "weight",
+        "value": "330"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      }
+    ]
+  },
+  {
+    "id": "7887",
+    "article": "a",
+    "name": "terra amulet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "500"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      },
+      {
+        "key": "absorbPercentEarth",
+        "value": "20"
+      },
+      {
+        "key": "absorbPercentFire",
+        "value": "-10"
+      },
+      {
+        "key": "charges",
+        "value": "200"
+      },
+      {
+        "key": "showcharges",
+        "value": "true"
+      },
+      {
+        "key": "showattributes",
+        "value": "true"
+      },
+      {
+        "key": "supply",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "7888",
+    "article": "a",
+    "name": "glacier amulet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "500"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      },
+      {
+        "key": "charges",
+        "value": "200"
+      },
+      {
+        "key": "absorbPercentIce",
+        "value": "20"
+      },
+      {
+        "key": "absorbPercentEnergy",
+        "value": "-10"
+      },
+      {
+        "key": "showcharges",
+        "value": "true"
+      },
+      {
+        "key": "showattributes",
+        "value": "true"
+      },
+      {
+        "key": "supply",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "7889",
+    "article": "a",
+    "name": "lightning pendant",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "500"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      },
+      {
+        "key": "charges",
+        "value": "200"
+      },
+      {
+        "key": "absorbPercentEnergy",
+        "value": "20"
+      },
+      {
+        "key": "absorbPercentEarth",
+        "value": "-10"
+      },
+      {
+        "key": "showcharges",
+        "value": "true"
+      },
+      {
+        "key": "showattributes",
+        "value": "true"
+      },
+      {
+        "key": "supply",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "7890",
+    "article": "a",
+    "name": "magma amulet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "500"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      },
+      {
+        "key": "charges",
+        "value": "200"
+      },
+      {
+        "key": "absorbPercentFire",
+        "value": "20"
+      },
+      {
+        "key": "absorbPercentIce",
+        "value": "-10"
+      },
+      {
+        "key": "showcharges",
+        "value": "true"
+      },
+      {
+        "key": "showattributes",
+        "value": "true"
+      },
+      {
+        "key": "supply",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "8266",
+    "name": "Koshei's ancient amulet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "550"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      },
+      {
+        "key": "absorbPercentDeath",
+        "value": "8"
+      },
+      {
+        "key": "absorbPercentHoly",
+        "value": "-50"
+      },
+      {
+        "key": "showattributes",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "10218",
+    "article": "a",
+    "name": "bonfire amulet",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "It engulfs you in flames - fire against fire."
+      },
+      {
+        "key": "weight",
+        "value": "700"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      },
+      {
+        "key": "charges",
+        "value": "5"
+      },
+      {
+        "key": "showcharges",
+        "value": "true"
+      },
+      {
+        "key": "absorbPercentPhysical",
+        "value": "60"
+      },
+      {
+        "key": "absorbPercentFire",
+        "value": "40"
+      },
+      {
+        "key": "showattributes",
+        "value": "true"
+      },
+      {
+        "key": "supply",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "10219",
+    "article": "a",
+    "name": "sacred tree amulet",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "Its leaves stretch out to cover your whole body if you receive earth damage."
+      },
+      {
+        "key": "weight",
+        "value": "700"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      },
+      {
+        "key": "charges",
+        "value": "5"
+      },
+      {
+        "key": "showcharges",
+        "value": "true"
+      },
+      {
+        "key": "absorbPercentPhysical",
+        "value": "60"
+      },
+      {
+        "key": "absorbPercentEarth",
+        "value": "40"
+      },
+      {
+        "key": "showattributes",
+        "value": "true"
+      },
+      {
+        "key": "supply",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "10220",
+    "name": "leviathan's amulet",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "It holds the last breath of Leviathan."
+      },
+      {
+        "key": "weight",
+        "value": "700"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      },
+      {
+        "key": "charges",
+        "value": "5"
+      },
+      {
+        "key": "showcharges",
+        "value": "true"
+      },
+      {
+        "key": "absorbPercentPhysical",
+        "value": "60"
+      },
+      {
+        "key": "absorbPercentIce",
+        "value": "40"
+      },
+      {
+        "key": "supply",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "10221",
+    "article": "a",
+    "name": "shockwave amulet",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "It tickles your neck in a rather pleasant way and absorbs loads of damage."
+      },
+      {
+        "key": "weight",
+        "value": "700"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      },
+      {
+        "key": "charges",
+        "value": "5"
+      },
+      {
+        "key": "showcharges",
+        "value": "true"
+      },
+      {
+        "key": "absorbPercentPhysical",
+        "value": "60"
+      },
+      {
+        "key": "absorbPercentEnergy",
+        "value": "40"
+      },
+      {
+        "key": "supply",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "11329",
+    "article": "a",
+    "name": "wailing widow's necklace",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "540"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      }
+    ]
+  },
+  {
+    "id": "11374",
+    "article": "a",
+    "name": "beetle necklace",
+    "attributes": [
+      {
+        "key": "speed",
+        "value": "4"
+      },
+      {
+        "key": "weight",
+        "value": "820"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      },
+      {
+        "key": "showattributes",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "11393",
+    "article": "a",
+    "name": "lucky clover amulet",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "It is rumoured to bring you good luck!"
+      },
+      {
+        "key": "weight",
+        "value": "150"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      }
+    ]
+  },
+  {
+    "id": "12424",
+    "article": "an",
+    "name": "ornamented brooch",
+    "attributes": [
+      {
+        "key": "armor",
+        "value": "2"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      },
+      {
+        "key": "weight",
+        "value": "840"
+      }
+    ]
+  },
+  {
+    "id": "14333",
+    "article": "a",
+    "name": "demonbone amulet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "690"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      }
+    ]
+  },
+  {
+    "id": "15403",
+    "article": "a",
+    "name": "necklace of the deep",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "500"
+      },
+      {
+        "key": "charges",
+        "value": "50"
+      },
+      {
+        "key": "showcharges",
+        "value": "true"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      },
+      {
+        "key": "absorbPercentLifeDrain",
+        "value": "50"
+      },
+      {
+        "key": "showattributes",
+        "value": "true"
+      },
+      {
+        "key": "supply",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "18402",
+    "article": "a",
+    "name": "gill necklace",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "410"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      },
+      {
+        "key": "charges",
+        "value": "750"
+      },
+      {
+        "key": "showcharges",
+        "value": "true"
+      },
+      {
+        "key": "absorbPercentPhysical",
+        "value": "15"
+      },
+      {
+        "key": "absorbPercentEarth",
+        "value": "10"
+      },
+      {
+        "key": "showattributes",
+        "value": "true"
+      },
+      {
+        "key": "supply",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "18407",
+    "article": "a",
+    "name": "prismatic necklace",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "650"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      },
+      {
+        "key": "charges",
+        "value": "750"
+      },
+      {
+        "key": "showcharges",
+        "value": "true"
+      },
+      {
+        "key": "absorbPercentPhysical",
+        "value": "10"
+      },
+      {
+        "key": "absorbPercentEnergy",
+        "value": "15"
+      },
+      {
+        "key": "showattributes",
+        "value": "true"
+      },
+      {
+        "key": "supply",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "21469",
+    "article": "a",
+    "name": "friendship amulet",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "Souvenir from Thais Museum."
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      },
+      {
+        "key": "weight",
+        "value": "520"
+      }
+    ]
+  },
+  {
+    "id": "21691",
+    "article": "a",
+    "name": "shrunken head necklace",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "550"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      },
+      {
+        "key": "speed",
+        "value": "20"
+      },
+      {
+        "key": "showattributes",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "22691",
+    "article": "a",
+    "name": "jade amulet",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "Golden lines are embedded in the amulet and show mysterious symbols. It was awarded by the gods."
+      },
+      {
+        "key": "weight",
+        "value": "400"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      }
+    ]
+  },
+  {
+    "id": "23541",
+    "article": "a",
+    "name": "gearwheel chain",
+    "attributes": [
+      {
+        "key": "armor",
+        "value": "3"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      },
+      {
+        "key": "weight",
+        "value": "1000"
+      }
+    ]
+  },
+  {
+    "id": "23554",
+    "article": "a",
+    "name": "glooth amulet",
+    "attributes": [
+      {
+        "key": "slotType",
+        "value": "necklace"
+      },
+      {
+        "key": "charges",
+        "value": "20"
+      },
+      {
+        "key": "showcharges",
+        "value": "true"
+      },
+      {
+        "key": "absorbPercentPhysical",
+        "value": "10"
+      },
+      {
+        "key": "absorbPercentMagic",
+        "value": "10"
+      },
+      {
+        "key": "showattributes",
+        "value": "true"
+      },
+      {
+        "key": "weight",
+        "value": "220"
+      },
+      {
+        "key": "supply",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "24716",
+    "article": "a",
+    "name": "werewolf amulet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "550"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      }
+    ]
+  },
+  {
+    "id": "24717",
+    "article": "an",
+    "name": "enchanted werewolf amulet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "550"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      },
+      {
+        "key": "transformEquipTo",
+        "value": "24790"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      },
+      {
+        "key": "stopduration",
+        "value": "true"
+      },
+      {
+        "key": "armor",
+        "value": "3"
+      },
+      {
+        "key": "absorbPercentPhysical",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": "24790",
+    "article": "an",
+    "name": "enchanted werewolf amulet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "550"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      },
+      {
+        "key": "decayTo",
+        "value": "24716"
+      },
+      {
+        "key": "transformDeEquipTo",
+        "value": "24717"
+      },
+      {
+        "key": "armor",
+        "value": "3"
+      },
+      {
+        "key": "absorbPercentPhysical",
+        "value": "4"
+      },
+      {
+        "key": "duration",
+        "value": "3600"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "24851",
+    "article": "an",
+    "name": "onyx pendant",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "850"
+      },
+      {
+        "key": "armor",
+        "value": "2"
+      },
+      {
+        "key": "absorbPercentDeath",
+        "value": "2"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      }
+    ]
+  },
+  {
+    "id": "25423",
+    "name": "Ferumbras' amulet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "500"
+      },
+      {
+        "key": "description",
+        "value": "The rare jewel is made of sapphire and ruby and has a golden F pendant."
+      },
+      {
+        "key": "armor",
+        "value": "3"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      }
+    ]
+  },
+  {
+    "id": "25424",
+    "name": "Ferumbras' amulet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "500"
+      },
+      {
+        "key": "description",
+        "value": "The rare jewel is made of sapphire and ruby and has a golden F pendant."
+      },
+      {
+        "key": "armor",
+        "value": "3"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      },
+      {
+        "key": "decayTo",
+        "value": "25423"
+      },
+      {
+        "key": "duration",
+        "value": "3600"
+      }
+    ]
+  },
+  {
+    "id": "26182",
+    "article": "a",
+    "name": "collar of blue plasma",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "500"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      },
+      {
+        "key": "decayTo",
+        "value": "0"
+      },
+      {
+        "key": "duration",
+        "value": "1800"
+      },
+      {
+        "key": "skillDist",
+        "value": "4"
+      },
+      {
+        "key": "magiclevelpoints",
+        "value": "2"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      },
+      {
+        "key": "transformDeEquipTo",
+        "value": "26198"
+      }
+    ]
+  },
+  {
+    "id": "26183",
+    "article": "a",
+    "name": "collar of green plasma",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "500"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      },
+      {
+        "key": "decayTo",
+        "value": "0"
+      },
+      {
+        "key": "duration",
+        "value": "1800"
+      },
+      {
+        "key": "healthGain",
+        "value": "2"
+      },
+      {
+        "key": "healthTicks",
+        "value": "6000"
+      },
+      {
+        "key": "manaGain",
+        "value": "8"
+      },
+      {
+        "key": "manaTicks",
+        "value": "6000"
+      },
+      {
+        "key": "magiclevelpoints",
+        "value": "3"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      },
+      {
+        "key": "transformDeEquipTo",
+        "value": "26199"
+      }
+    ]
+  },
+  {
+    "id": "26184",
+    "article": "a",
+    "name": "collar of red plasma",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "500"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      },
+      {
+        "key": "decayTo",
+        "value": "0"
+      },
+      {
+        "key": "duration",
+        "value": "1800"
+      },
+      {
+        "key": "skillSword",
+        "value": "4"
+      },
+      {
+        "key": "skillClub",
+        "value": "4"
+      },
+      {
+        "key": "skillAxe",
+        "value": "4"
+      },
+      {
+        "key": "absorbPercentPhysical",
+        "value": "5"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      },
+      {
+        "key": "transformDeEquipTo",
+        "value": "26200"
+      }
+    ]
+  },
+  {
+    "id": "26198",
+    "article": "a",
+    "name": "collar of blue plasma",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "500"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      },
+      {
+        "key": "transformEquipTo",
+        "value": "26182"
+      },
+      {
+        "key": "stopduration",
+        "value": "true"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      },
+      {
+        "key": "supply",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "26199",
+    "article": "a",
+    "name": "collar of green plasma",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "500"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      },
+      {
+        "key": "transformEquipTo",
+        "value": "26183"
+      },
+      {
+        "key": "stopduration",
+        "value": "true"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      },
+      {
+        "key": "supply",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "26200",
+    "article": "a",
+    "name": "collar of red plasma",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "500"
+      },
+      {
+        "key": "slotType",
+        "value": "necklace"
+      },
+      {
+        "key": "transformEquipTo",
+        "value": "26184"
+      },
+      {
+        "key": "stopduration",
+        "value": "true"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      },
+      {
+        "key": "supply",
+        "value": "true"
+      }
+    ]
+  }
+]

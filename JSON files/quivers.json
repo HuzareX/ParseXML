@@ -1,0 +1,97 @@
+[
+  {
+    "id": "38180",
+    "article": "a",
+    "name": "jungle quiver",
+    "attributes": [
+      {
+        "key": "weaponType",
+        "value": "quiver"
+      },
+      {
+        "key": "containersize",
+        "value": "8"
+      },
+      {
+        "key": "weight",
+        "value": "1800"
+      }
+    ]
+  },
+  {
+    "id": "38218",
+    "article": "a",
+    "name": "quiver",
+    "attributes": [
+      {
+        "key": "weaponType",
+        "value": "quiver"
+      },
+      {
+        "key": "containersize",
+        "value": "6"
+      },
+      {
+        "key": "weight",
+        "value": "1700"
+      }
+    ]
+  },
+  {
+    "id": "38504",
+    "article": "a",
+    "name": "blue quiver",
+    "attributes": [
+      {
+        "key": "weaponType",
+        "value": "quiver"
+      },
+      {
+        "key": "containersize",
+        "value": "6"
+      },
+      {
+        "key": "weight",
+        "value": "1700"
+      }
+    ]
+  },
+  {
+    "id": "38505",
+    "article": "a",
+    "name": "red quiver",
+    "attributes": [
+      {
+        "key": "weaponType",
+        "value": "quiver"
+      },
+      {
+        "key": "containersize",
+        "value": "6"
+      },
+      {
+        "key": "weight",
+        "value": "1700"
+      }
+    ]
+  },
+  {
+    "id": "39322",
+    "article": "an",
+    "name": "eldritch quiver",
+    "attributes": [
+      {
+        "key": "weaponType",
+        "value": "quiver"
+      },
+      {
+        "key": "containersize",
+        "value": "8"
+      },
+      {
+        "key": "weight",
+        "value": "2200"
+      }
+    ]
+  }
+]

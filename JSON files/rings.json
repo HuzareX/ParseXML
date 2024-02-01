@@ -1,0 +1,1510 @@
+[
+  {
+    "id": "2121",
+    "article": "a",
+    "name": "wedding ring",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "40"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      }
+    ]
+  },
+  {
+    "id": "2123",
+    "article": "a",
+    "name": "ring of the sky",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "40"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      }
+    ]
+  },
+  {
+    "id": "2124",
+    "article": "a",
+    "name": "crystal ring",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "90"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      }
+    ]
+  },
+  {
+    "id": "2164",
+    "article": "a",
+    "name": "might ring",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "100"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      },
+      {
+        "key": "charges",
+        "value": "20"
+      },
+      {
+        "key": "showcharges",
+        "value": "true"
+      },
+      {
+        "key": "absorbPercentPhysical",
+        "value": "20"
+      },
+      {
+        "key": "absorbPercentMagic",
+        "value": "20"
+      },
+      {
+        "key": "showattributes",
+        "value": "true"
+      },
+      {
+        "key": "supply",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "2165",
+    "article": "a",
+    "name": "stealth ring",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "100"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      },
+      {
+        "key": "transformEquipTo",
+        "value": "2202"
+      },
+      {
+        "key": "stopduration",
+        "value": "true"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      },
+      {
+        "key": "supply",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "2166",
+    "article": "a",
+    "name": "power ring",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "80"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      },
+      {
+        "key": "transformEquipTo",
+        "value": "2203"
+      },
+      {
+        "key": "stopduration",
+        "value": "true"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      },
+      {
+        "key": "supply",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "2167",
+    "article": "an",
+    "name": "energy ring",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "80"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      },
+      {
+        "key": "transformEquipTo",
+        "value": "2204"
+      },
+      {
+        "key": "stopduration",
+        "value": "true"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      },
+      {
+        "key": "supply",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "2168",
+    "article": "a",
+    "name": "life ring",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "80"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      },
+      {
+        "key": "transformEquipTo",
+        "value": "2205"
+      },
+      {
+        "key": "stopduration",
+        "value": "true"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      },
+      {
+        "key": "supply",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "2169",
+    "article": "a",
+    "name": "time ring",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "90"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      },
+      {
+        "key": "transformEquipTo",
+        "value": "2206"
+      },
+      {
+        "key": "stopduration",
+        "value": "true"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      },
+      {
+        "key": "supply",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "2179",
+    "article": "a",
+    "name": "gold ring",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "100"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      }
+    ]
+  },
+  {
+    "id": "2202",
+    "article": "a",
+    "name": "stealth ring",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "100"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      },
+      {
+        "key": "decayTo",
+        "value": "0"
+      },
+      {
+        "key": "transformDeEquipTo",
+        "value": "2165"
+      },
+      {
+        "key": "duration",
+        "value": "600"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      },
+      {
+        "key": "invisible",
+        "value": "true"
+      },
+      {
+        "key": "showattributes",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "2203",
+    "article": "a",
+    "name": "power ring",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "80"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      },
+      {
+        "key": "decayTo",
+        "value": "0"
+      },
+      {
+        "key": "transformDeEquipTo",
+        "value": "2166"
+      },
+      {
+        "key": "skillFist",
+        "value": "6"
+      },
+      {
+        "key": "duration",
+        "value": "1800"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "2204",
+    "article": "an",
+    "name": "energy ring",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "80"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      },
+      {
+        "key": "decayTo",
+        "value": "0"
+      },
+      {
+        "key": "transformDeEquipTo",
+        "value": "2167"
+      },
+      {
+        "key": "duration",
+        "value": "600"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      },
+      {
+        "key": "manashield",
+        "value": "true"
+      },
+      {
+        "key": "showattributes",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "2205",
+    "article": "a",
+    "name": "life ring",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "80"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      },
+      {
+        "key": "decayTo",
+        "value": "0"
+      },
+      {
+        "key": "transformDeEquipTo",
+        "value": "2168"
+      },
+      {
+        "key": "duration",
+        "value": "1200"
+      },
+      {
+        "key": "healthGain",
+        "value": "2"
+      },
+      {
+        "key": "healthTicks",
+        "value": "6000"
+      },
+      {
+        "key": "manaGain",
+        "value": "8"
+      },
+      {
+        "key": "manaTicks",
+        "value": "6000"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      },
+      {
+        "key": "showattributes",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "2206",
+    "article": "a",
+    "name": "time ring",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "90"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      },
+      {
+        "key": "decayTo",
+        "value": "0"
+      },
+      {
+        "key": "transformDeEquipTo",
+        "value": "2169"
+      },
+      {
+        "key": "duration",
+        "value": "600"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      },
+      {
+        "key": "speed",
+        "value": "60"
+      },
+      {
+        "key": "showattributes",
+        "value": "true"
+      },
+      {
+        "key": "supply",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "2207",
+    "article": "a",
+    "name": "sword ring",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "90"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      },
+      {
+        "key": "transformEquipTo",
+        "value": "2210"
+      },
+      {
+        "key": "stopduration",
+        "value": "true"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      },
+      {
+        "key": "supply",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "2208",
+    "article": "an",
+    "name": "axe ring",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "90"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      },
+      {
+        "key": "transformEquipTo",
+        "value": "2211"
+      },
+      {
+        "key": "stopduration",
+        "value": "true"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      },
+      {
+        "key": "supply",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "2209",
+    "article": "a",
+    "name": "club ring",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "90"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      },
+      {
+        "key": "transformEquipTo",
+        "value": "2212"
+      },
+      {
+        "key": "stopduration",
+        "value": "true"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      },
+      {
+        "key": "supply",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "2210",
+    "article": "a",
+    "name": "sword ring",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "90"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      },
+      {
+        "key": "decayTo",
+        "value": "0"
+      },
+      {
+        "key": "transformDeEquipTo",
+        "value": "2207"
+      },
+      {
+        "key": "skillSword",
+        "value": "4"
+      },
+      {
+        "key": "duration",
+        "value": "1800"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "2211",
+    "article": "an",
+    "name": "axe ring",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "90"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      },
+      {
+        "key": "decayTo",
+        "value": "0"
+      },
+      {
+        "key": "transformDeEquipTo",
+        "value": "2208"
+      },
+      {
+        "key": "skillAxe",
+        "value": "4"
+      },
+      {
+        "key": "duration",
+        "value": "1800"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "2212",
+    "article": "a",
+    "name": "club ring",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "90"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      },
+      {
+        "key": "decayTo",
+        "value": "0"
+      },
+      {
+        "key": "transformDeEquipTo",
+        "value": "2209"
+      },
+      {
+        "key": "skillClub",
+        "value": "4"
+      },
+      {
+        "key": "duration",
+        "value": "1800"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "2213",
+    "article": "a",
+    "name": "dwarven ring",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "110"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      },
+      {
+        "key": "transformEquipTo",
+        "value": "2215"
+      },
+      {
+        "key": "stopduration",
+        "value": "true"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      },
+      {
+        "key": "supply",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "2214",
+    "article": "a",
+    "name": "ring of healing",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "80"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      },
+      {
+        "key": "transformEquipTo",
+        "value": "2216"
+      },
+      {
+        "key": "stopduration",
+        "value": "true"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      },
+      {
+        "key": "supply",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "2215",
+    "article": "a",
+    "name": "dwarven ring",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "110"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      },
+      {
+        "key": "decayTo",
+        "value": "0"
+      },
+      {
+        "key": "transformDeEquipTo",
+        "value": "2213"
+      },
+      {
+        "key": "suppressDrunk",
+        "value": "true"
+      },
+      {
+        "key": "duration",
+        "value": "3600"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      },
+      {
+        "key": "showattributes",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "2216",
+    "article": "a",
+    "name": "ring of healing",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "80"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      },
+      {
+        "key": "decayTo",
+        "value": "0"
+      },
+      {
+        "key": "transformDeEquipTo",
+        "value": "2214"
+      },
+      {
+        "key": "duration",
+        "value": "450"
+      },
+      {
+        "key": "healthGain",
+        "value": "6"
+      },
+      {
+        "key": "healthTicks",
+        "value": "6000"
+      },
+      {
+        "key": "manaGain",
+        "value": "24"
+      },
+      {
+        "key": "manaTicks",
+        "value": "6000"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      },
+      {
+        "key": "showattributes",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "2357",
+    "article": "a",
+    "name": "ring of wishes",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "(This item has 3 charges left)."
+      },
+      {
+        "key": "weight",
+        "value": "90"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      }
+    ]
+  },
+  {
+    "id": "6300",
+    "article": "a",
+    "name": "death ring",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "80"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      },
+      {
+        "key": "transformEquipTo",
+        "value": "6301"
+      },
+      {
+        "key": "stopduration",
+        "value": "true"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      },
+      {
+        "key": "absorbPercentDeath",
+        "value": "5"
+      },
+      {
+        "key": "supply",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "6301",
+    "article": "a",
+    "name": "death ring",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "80"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      },
+      {
+        "key": "armor",
+        "value": "1"
+      },
+      {
+        "key": "absorbPercentDeath",
+        "value": "5"
+      },
+      {
+        "key": "decayTo",
+        "value": "0"
+      },
+      {
+        "key": "transformDeEquipTo",
+        "value": "6300"
+      },
+      {
+        "key": "duration",
+        "value": "480"
+      },
+      {
+        "key": "skillShield",
+        "value": "-10"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      },
+      {
+        "key": "description",
+        "value": "Wearing it makes you feel a little weaker than usual."
+      }
+    ]
+  },
+  {
+    "id": "7697",
+    "article": "a",
+    "name": "suspicious signet ring",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "80"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      }
+    ]
+  },
+  {
+    "id": "7708",
+    "article": "a",
+    "name": "family signet ring",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "80"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      }
+    ]
+  },
+  {
+    "fromid": "7967",
+    "toid": "7968",
+    "article": "a",
+    "name": "shapeshifter ring",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "It will only work for a few days after the challenge of Kurik has been won."
+      },
+      {
+        "key": "weight",
+        "value": "80"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      }
+    ]
+  },
+  {
+    "id": "8752",
+    "name": "the ring of the count",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "75"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      }
+    ]
+  },
+  {
+    "id": "10309",
+    "name": "claw of 'The Noxious Spawn'",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "It feels tight and uncomfortable on your hand."
+      },
+      {
+        "key": "weight",
+        "value": "500"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      },
+      {
+        "key": "transformDeEquipTo",
+        "value": "10310"
+      }
+    ]
+  },
+  {
+    "id": "10310",
+    "article": "a",
+    "name": "claw of 'The Noxious Spawn'",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "It's like a glove and you can't wear a ring on it. You are not sure if you should really put it on."
+      },
+      {
+        "key": "weight",
+        "value": "500"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      },
+      {
+        "key": "transformEquipTo",
+        "value": "10309"
+      }
+    ]
+  },
+  {
+    "id": "10314",
+    "article": "a",
+    "name": "claw of 'The Noxious Spawn'",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "Its power is depleted at the moment."
+      },
+      {
+        "key": "weight",
+        "value": "500"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      },
+      {
+        "key": "transformDeEquipTo",
+        "value": "10315"
+      }
+    ]
+  },
+  {
+    "id": "10502",
+    "article": "an",
+    "name": "engraved wedding ring",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "40"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      }
+    ]
+  },
+  {
+    "id": "10510",
+    "article": "a",
+    "name": "broken wedding ring",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "It is a memory of a lost love."
+      },
+      {
+        "key": "weight",
+        "value": "40"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      }
+    ]
+  },
+  {
+    "fromid": "13825",
+    "toid": "13826",
+    "article": "a",
+    "name": "star ring",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "If you wear it on your ring slot, it will boost your health regeneration when you're not hungry. Professions: players without vocation"
+      },
+      {
+        "key": "weight",
+        "value": "80"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      }
+    ]
+  },
+  {
+    "id": "13877",
+    "article": "a",
+    "name": "broken ring of ending",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "60"
+      },
+      {
+        "key": "description",
+        "value": "It seems all its former magical power has left this broken carcass of a ring."
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      }
+    ]
+  },
+  {
+    "id": "18408",
+    "article": "a",
+    "name": "prismatic ring",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "105"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      },
+      {
+        "key": "absorbPercentPhysical",
+        "value": "10"
+      },
+      {
+        "key": "absorbPercentEnergy",
+        "value": "8"
+      },
+      {
+        "key": "transformEquipTo",
+        "value": "18528"
+      },
+      {
+        "key": "stopduration",
+        "value": "true"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      },
+      {
+        "key": "showattributes",
+        "value": "true"
+      },
+      {
+        "key": "supply",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "18528",
+    "article": "a",
+    "name": "prismatic ring",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "105"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      },
+      {
+        "key": "absorbPercentPhysical",
+        "value": "10"
+      },
+      {
+        "key": "absorbPercentEnergy",
+        "value": "8"
+      },
+      {
+        "key": "transformDeEquipTo",
+        "value": "18408"
+      },
+      {
+        "key": "decayTo",
+        "value": "0"
+      },
+      {
+        "key": "duration",
+        "value": "3600"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      },
+      {
+        "key": "showattributes",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "21693",
+    "article": "a",
+    "name": "horn",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "120"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      },
+      {
+        "key": "armor",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "22516",
+    "article": "a",
+    "name": "ring of ending",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "This constantly rotating ring is perfectly weightless, yet feels infinitely heavy at the same time."
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      },
+      {
+        "key": "weight",
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "id": "24324",
+    "article": "a",
+    "name": "sweetheart ring",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "90"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      }
+    ]
+  },
+  {
+    "id": "26185",
+    "article": "a",
+    "name": "ring of blue plasma",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "90"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      },
+      {
+        "key": "transformEquipTo",
+        "value": "26186"
+      },
+      {
+        "key": "stopduration",
+        "value": "true"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      },
+      {
+        "key": "supply",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "26186",
+    "article": "a",
+    "name": "ring of blue plasma",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "90"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      },
+      {
+        "key": "decayTo",
+        "value": "0"
+      },
+      {
+        "key": "duration",
+        "value": "1800"
+      },
+      {
+        "key": "skillDist",
+        "value": "3"
+      },
+      {
+        "key": "magiclevelpoints",
+        "value": "1"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      },
+      {
+        "key": "transformDeEquipTo",
+        "value": "26185"
+      }
+    ]
+  },
+  {
+    "id": "26187",
+    "article": "a",
+    "name": "ring of green plasma",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "90"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      },
+      {
+        "key": "transformEquipTo",
+        "value": "26188"
+      },
+      {
+        "key": "stopduration",
+        "value": "true"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      },
+      {
+        "key": "supply",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "26188",
+    "name": "ring of green plasma",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "90"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      },
+      {
+        "key": "decayTo",
+        "value": "0"
+      },
+      {
+        "key": "duration",
+        "value": "1800"
+      },
+      {
+        "key": "healthGain",
+        "value": "1"
+      },
+      {
+        "key": "healthTicks",
+        "value": "6000"
+      },
+      {
+        "key": "manaGain",
+        "value": "4"
+      },
+      {
+        "key": "manaTicks",
+        "value": "6000"
+      },
+      {
+        "key": "magiclevelpoints",
+        "value": "2"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      },
+      {
+        "key": "transformDeEquipTo",
+        "value": "26187"
+      }
+    ]
+  },
+  {
+    "id": "26189",
+    "article": "a",
+    "name": "ring of red plasma",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "90"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      },
+      {
+        "key": "transformEquipTo",
+        "value": "26190"
+      },
+      {
+        "key": "stopduration",
+        "value": "true"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      },
+      {
+        "key": "supply",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "26190",
+    "article": "a",
+    "name": "ring of red plasma",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "90"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      },
+      {
+        "key": "decayTo",
+        "value": "0"
+      },
+      {
+        "key": "duration",
+        "value": "1800"
+      },
+      {
+        "key": "skillSword",
+        "value": "3"
+      },
+      {
+        "key": "skillClub",
+        "value": "3"
+      },
+      {
+        "key": "skillAxe",
+        "value": "3"
+      },
+      {
+        "key": "absorbPercentPhysical",
+        "value": "3"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      },
+      {
+        "key": "transformDeEquipTo",
+        "value": "26189"
+      }
+    ]
+  },
+  {
+    "id": "28354",
+    "article": "a",
+    "name": "butterfly ring",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "120"
+      },
+      {
+        "key": "slotType",
+        "value": "ring"
+      },
+      {
+        "key": "armor",
+        "value": "2"
+      },
+      {
+        "key": "absorbpercentdeath",
+        "value": "3"
+      }
+    ]
+  }
+]

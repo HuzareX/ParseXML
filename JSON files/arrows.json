@@ -1,0 +1,690 @@
+[
+  {
+    "id": "2456",
+    "article": "a",
+    "name": "bow",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "3100"
+      },
+      {
+        "key": "weaponType",
+        "value": "distance"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      },
+      {
+        "key": "ammoType",
+        "value": "arrow"
+      },
+      {
+        "key": "range",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": "7438",
+    "article": "an",
+    "name": "elvish bow",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "This beautifully ornamented bow was made by a skilled elvish bowmaker."
+      },
+      {
+        "key": "weight",
+        "value": "3900"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      },
+      {
+        "key": "weaponType",
+        "value": "distance"
+      },
+      {
+        "key": "ammoType",
+        "value": "arrow"
+      },
+      {
+        "key": "range",
+        "value": "6"
+      },
+      {
+        "key": "hitChance",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "8854",
+    "article": "a",
+    "name": "warsinger bow",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4500"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      },
+      {
+        "key": "weaponType",
+        "value": "distance"
+      },
+      {
+        "key": "ammoType",
+        "value": "arrow"
+      },
+      {
+        "key": "range",
+        "value": "7"
+      },
+      {
+        "key": "hitChance",
+        "value": "5"
+      },
+      {
+        "key": "attack",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "8855",
+    "article": "a",
+    "name": "composite hornbow",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5200"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      },
+      {
+        "key": "weaponType",
+        "value": "distance"
+      },
+      {
+        "key": "ammoType",
+        "value": "arrow"
+      },
+      {
+        "key": "range",
+        "value": "6"
+      },
+      {
+        "key": "hitChance",
+        "value": "2"
+      },
+      {
+        "key": "attack",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "8856",
+    "name": "Yol's bow",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "3500"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      },
+      {
+        "key": "weaponType",
+        "value": "distance"
+      },
+      {
+        "key": "ammoType",
+        "value": "arrow"
+      },
+      {
+        "key": "range",
+        "value": "7"
+      },
+      {
+        "key": "hitChance",
+        "value": "7"
+      }
+    ]
+  },
+  {
+    "id": "8857",
+    "article": "a",
+    "name": "silkweaver bow",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2200"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      },
+      {
+        "key": "weaponType",
+        "value": "distance"
+      },
+      {
+        "key": "ammoType",
+        "value": "arrow"
+      },
+      {
+        "key": "range",
+        "value": "6"
+      },
+      {
+        "key": "hitChance",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "8858",
+    "name": "Elethriel's elemental bow",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4400"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      },
+      {
+        "key": "weaponType",
+        "value": "distance"
+      },
+      {
+        "key": "ammoType",
+        "value": "arrow"
+      },
+      {
+        "key": "range",
+        "value": "4"
+      },
+      {
+        "key": "attack",
+        "value": "7"
+      }
+    ]
+  },
+  {
+    "id": "10295",
+    "article": "a",
+    "name": "musician's bow",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "If you could only figure out how you are supposed to fire more arrows at once."
+      },
+      {
+        "key": "weight",
+        "value": "1250"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      },
+      {
+        "key": "weaponType",
+        "value": "distance"
+      },
+      {
+        "key": "ammoType",
+        "value": "arrow"
+      },
+      {
+        "key": "range",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "13873",
+    "article": "a",
+    "name": "shimmer bow",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4800"
+      },
+      {
+        "key": "weaponType",
+        "value": "distance"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      },
+      {
+        "key": "ammoType",
+        "value": "arrow"
+      },
+      {
+        "key": "range",
+        "value": "6"
+      },
+      {
+        "key": "attack",
+        "value": "1"
+      },
+      {
+        "key": "hitChance",
+        "value": "7"
+      },
+      {
+        "key": "decayTo",
+        "value": "0"
+      },
+      {
+        "key": "duration",
+        "value": "604800"
+      }
+    ]
+  },
+  {
+    "id": "15643",
+    "article": "a",
+    "name": "hive bow",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4600"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      },
+      {
+        "key": "weaponType",
+        "value": "distance"
+      },
+      {
+        "key": "ammoType",
+        "value": "arrow"
+      },
+      {
+        "key": "range",
+        "value": "6"
+      },
+      {
+        "key": "hitChance",
+        "value": "5"
+      },
+      {
+        "key": "attack",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "18454",
+    "article": "a",
+    "name": "mycological bow",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4900"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      },
+      {
+        "key": "weaponType",
+        "value": "distance"
+      },
+      {
+        "key": "ammoType",
+        "value": "arrow"
+      },
+      {
+        "key": "range",
+        "value": "6"
+      },
+      {
+        "key": "attack",
+        "value": "4"
+      },
+      {
+        "key": "hitChance",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "21696",
+    "article": "an",
+    "name": "icicle bow",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4200"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      },
+      {
+        "key": "weaponType",
+        "value": "distance"
+      },
+      {
+        "key": "ammoType",
+        "value": "arrow"
+      },
+      {
+        "key": "range",
+        "value": "6"
+      },
+      {
+        "key": "attack",
+        "value": "1"
+      },
+      {
+        "key": "hitChance",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "22416",
+    "article": "a",
+    "name": "crude umbral bow",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5000"
+      },
+      {
+        "key": "weaponType",
+        "value": "distance"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      },
+      {
+        "key": "ammoType",
+        "value": "arrow"
+      },
+      {
+        "key": "range",
+        "value": "7"
+      },
+      {
+        "key": "attack",
+        "value": "2"
+      },
+      {
+        "key": "hitChance",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "22417",
+    "article": "an",
+    "name": "umbral bow",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4500"
+      },
+      {
+        "key": "weaponType",
+        "value": "distance"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      },
+      {
+        "key": "ammoType",
+        "value": "arrow"
+      },
+      {
+        "key": "range",
+        "value": "7"
+      },
+      {
+        "key": "attack",
+        "value": "4"
+      },
+      {
+        "key": "hitChance",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "22418",
+    "article": "an",
+    "name": "umbral master bow",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4000"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      },
+      {
+        "key": "weaponType",
+        "value": "distance"
+      },
+      {
+        "key": "ammoType",
+        "value": "arrow"
+      },
+      {
+        "key": "range",
+        "value": "7"
+      },
+      {
+        "key": "attack",
+        "value": "6"
+      },
+      {
+        "key": "hitChance",
+        "value": "5"
+      },
+      {
+        "key": "skillDist",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "25522",
+    "article": "a",
+    "name": "rift bow",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4100"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      },
+      {
+        "key": "weaponType",
+        "value": "distance"
+      },
+      {
+        "key": "ammoType",
+        "value": "arrow"
+      },
+      {
+        "key": "range",
+        "value": "7"
+      },
+      {
+        "key": "attack",
+        "value": "5"
+      },
+      {
+        "key": "hitChance",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "25885",
+    "article": "a",
+    "name": "bow of mayhem",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5500"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      },
+      {
+        "key": "weaponType",
+        "value": "distance"
+      },
+      {
+        "key": "ammoType",
+        "value": "arrow"
+      },
+      {
+        "key": "range",
+        "value": "6"
+      },
+      {
+        "key": "hitChance",
+        "value": "6"
+      },
+      {
+        "key": "attack",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "fromid": "25943",
+    "toid": "25946",
+    "article": "a",
+    "name": "bow of remedy",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5500"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      },
+      {
+        "key": "weaponType",
+        "value": "distance"
+      },
+      {
+        "key": "ammoType",
+        "value": "arrow"
+      },
+      {
+        "key": "range",
+        "value": "6"
+      },
+      {
+        "key": "hitChance",
+        "value": "6"
+      },
+      {
+        "key": "attack",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "fromid": "25983",
+    "toid": "25986",
+    "article": "a",
+    "name": "bow of carving",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5500"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      },
+      {
+        "key": "weaponType",
+        "value": "distance"
+      },
+      {
+        "key": "ammoType",
+        "value": "arrow"
+      },
+      {
+        "key": "range",
+        "value": "6"
+      },
+      {
+        "key": "hitChance",
+        "value": "6"
+      },
+      {
+        "key": "attack",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": "30111",
+    "article": "a",
+    "name": "bow of destruction",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5500"
+      },
+      {
+        "key": "slotType",
+        "value": "two-handed"
+      },
+      {
+        "key": "weaponType",
+        "value": "distance"
+      },
+      {
+        "key": "ammoType",
+        "value": "arrow"
+      },
+      {
+        "key": "range",
+        "value": "6"
+      },
+      {
+        "key": "hitChance",
+        "value": "5"
+      },
+      {
+        "key": "attack",
+        "value": "5"
+      }
+    ]
+  }
+]

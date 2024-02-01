@@ -1,0 +1,2804 @@
+[
+  {
+    "id": "2463",
+    "article": "a",
+    "name": "plate armor",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "12000"
+      },
+      {
+        "key": "armor",
+        "value": "10"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "2464",
+    "article": "a",
+    "name": "chain armor",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "10000"
+      },
+      {
+        "key": "armor",
+        "value": "6"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "2465",
+    "article": "a",
+    "name": "brass armor",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "8000"
+      },
+      {
+        "key": "armor",
+        "value": "8"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "2466",
+    "article": "a",
+    "name": "golden armor",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "8000"
+      },
+      {
+        "key": "armor",
+        "value": "14"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "2467",
+    "article": "a",
+    "name": "leather armor",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "6000"
+      },
+      {
+        "key": "armor",
+        "value": "4"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "2472",
+    "article": "a",
+    "name": "magic plate armor",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "8500"
+      },
+      {
+        "key": "armor",
+        "value": "17"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "2476",
+    "article": "a",
+    "name": "knight armor",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "12000"
+      },
+      {
+        "key": "armor",
+        "value": "12"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "2483",
+    "article": "a",
+    "name": "scale armor",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "10500"
+      },
+      {
+        "key": "armor",
+        "value": "9"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "2484",
+    "article": "a",
+    "name": "studded armor",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "7100"
+      },
+      {
+        "key": "armor",
+        "value": "5"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "2485",
+    "article": "a",
+    "name": "doublet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2500"
+      },
+      {
+        "key": "armor",
+        "value": "2"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "2486",
+    "article": "a",
+    "name": "noble armor",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "12000"
+      },
+      {
+        "key": "armor",
+        "value": "11"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "2487",
+    "article": "a",
+    "name": "crown armor",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "9900"
+      },
+      {
+        "key": "armor",
+        "value": "13"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "2489",
+    "article": "a",
+    "name": "dark armor",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "12000"
+      },
+      {
+        "key": "armor",
+        "value": "10"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "2492",
+    "article": "a",
+    "name": "dragon scale mail",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "11400"
+      },
+      {
+        "key": "armor",
+        "value": "15"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "2494",
+    "article": "a",
+    "name": "demon armor",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "8000"
+      },
+      {
+        "key": "armor",
+        "value": "16"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "2500",
+    "article": "an",
+    "name": "amazon armor",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4500"
+      },
+      {
+        "key": "armor",
+        "value": "13"
+      },
+      {
+        "key": "skillDist",
+        "value": "3"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "2503",
+    "article": "a",
+    "name": "dwarven armor",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "13000"
+      },
+      {
+        "key": "armor",
+        "value": "10"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      },
+      {
+        "key": "absorbPercentPhysical",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "2505",
+    "article": "an",
+    "name": "elven mail",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "9000"
+      },
+      {
+        "key": "armor",
+        "value": "9"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "2508",
+    "article": "a",
+    "name": "native armor",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "8000"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      },
+      {
+        "key": "armor",
+        "value": "7"
+      }
+    ]
+  },
+  {
+    "id": "2650",
+    "article": "a",
+    "name": "jacket",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2400"
+      },
+      {
+        "key": "armor",
+        "value": "1"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "2651",
+    "article": "a",
+    "name": "coat",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2700"
+      },
+      {
+        "key": "armor",
+        "value": "1"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "2652",
+    "article": "a",
+    "name": "green tunic",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "930"
+      },
+      {
+        "key": "armor",
+        "value": "1"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "2653",
+    "article": "a",
+    "name": "red tunic",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1400"
+      },
+      {
+        "key": "armor",
+        "value": "2"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "2654",
+    "article": "a",
+    "name": "cape",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "3200"
+      },
+      {
+        "key": "armor",
+        "value": "1"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "2655",
+    "article": "a",
+    "name": "red robe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2600"
+      },
+      {
+        "key": "description",
+        "value": "The robe is artfully embroideredy."
+      },
+      {
+        "key": "armor",
+        "value": "1"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "2656",
+    "article": "a",
+    "name": "blue robe",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "It is a magic robe."
+      },
+      {
+        "key": "weight",
+        "value": "2200"
+      },
+      {
+        "key": "armor",
+        "value": "11"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "2657",
+    "article": "a",
+    "name": "simple dress",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1000"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "2658",
+    "article": "a",
+    "name": "white dress",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2400"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "2659",
+    "article": "a",
+    "name": "ball gown",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2500"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "2660",
+    "article": "a",
+    "name": "ranger's cloak",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4800"
+      },
+      {
+        "key": "armor",
+        "value": "7"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "3968",
+    "article": "a",
+    "name": "leopard armor",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "9500"
+      },
+      {
+        "key": "armor",
+        "value": "9"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "4847",
+    "article": "a",
+    "name": "spectral dress",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1000"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "6095",
+    "article": "a",
+    "name": "pirate shirt",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2000"
+      },
+      {
+        "key": "armor",
+        "value": "3"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "7463",
+    "article": "a",
+    "name": "mammoth fur cape",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2000"
+      },
+      {
+        "key": "armor",
+        "value": "10"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      },
+      {
+        "key": "description",
+        "value": "It is imbued with protective magic."
+      }
+    ]
+  },
+  {
+    "id": "7884",
+    "article": "a",
+    "name": "terra mantle",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2250"
+      },
+      {
+        "key": "armor",
+        "value": "11"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      },
+      {
+        "key": "absorbPercentEarth",
+        "value": "8"
+      },
+      {
+        "key": "absorbPercentFire",
+        "value": "-8"
+      }
+    ]
+  },
+  {
+    "id": "7897",
+    "article": "a",
+    "name": "glacier robe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2250"
+      },
+      {
+        "key": "armor",
+        "value": "11"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      },
+      {
+        "key": "absorbPercentIce",
+        "value": "8"
+      },
+      {
+        "key": "absorbPercentEnergy",
+        "value": "-8"
+      }
+    ]
+  },
+  {
+    "id": "7898",
+    "article": "a",
+    "name": "lightning robe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2250"
+      },
+      {
+        "key": "armor",
+        "value": "11"
+      },
+      {
+        "key": "absorbPercentEnergy",
+        "value": "8"
+      },
+      {
+        "key": "absorbPercentEarth",
+        "value": "-8"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "7899",
+    "article": "a",
+    "name": "magma coat",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2250"
+      },
+      {
+        "key": "armor",
+        "value": "11"
+      },
+      {
+        "key": "absorbPercentFire",
+        "value": "8"
+      },
+      {
+        "key": "absorbPercentIce",
+        "value": "-8"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "8819",
+    "article": "a",
+    "name": "magician's robe",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "This robe feels soft and light as a feather."
+      },
+      {
+        "key": "weight",
+        "value": "2500"
+      },
+      {
+        "key": "armor",
+        "value": "6"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "8821",
+    "article": "a",
+    "name": "witchhunter's coat",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2500"
+      },
+      {
+        "key": "armor",
+        "value": "11"
+      },
+      {
+        "key": "absorbPercentDeath",
+        "value": "2"
+      },
+      {
+        "key": "absorbPercentHoly",
+        "value": "-2"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "8865",
+    "article": "a",
+    "name": "dark lord's cape",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "There is a dark aura surrounding it."
+      },
+      {
+        "key": "weight",
+        "value": "2900"
+      },
+      {
+        "key": "armor",
+        "value": "11"
+      },
+      {
+        "key": "absorbPercentDeath",
+        "value": "8"
+      },
+      {
+        "key": "absorbPercentHoly",
+        "value": "-8"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "8866",
+    "article": "a",
+    "name": "robe of the ice queen",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "The soft tissue shimmers."
+      },
+      {
+        "key": "weight",
+        "value": "2950"
+      },
+      {
+        "key": "armor",
+        "value": "12"
+      },
+      {
+        "key": "absorbPercentIce",
+        "value": "12"
+      },
+      {
+        "key": "absorbPercentEnergy",
+        "value": "-12"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "8867",
+    "article": "a",
+    "name": "dragon robe",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "It is covered with runic symbols."
+      },
+      {
+        "key": "weight",
+        "value": "2850"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      },
+      {
+        "key": "armor",
+        "value": "12"
+      },
+      {
+        "key": "absorbPercentFire",
+        "value": "12"
+      },
+      {
+        "key": "absorbPercentIce",
+        "value": "-12"
+      }
+    ]
+  },
+  {
+    "id": "8868",
+    "article": "a",
+    "name": "velvet mantle",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "The smooth tissue seems to sparkle."
+      },
+      {
+        "key": "weight",
+        "value": "2850"
+      },
+      {
+        "key": "armor",
+        "value": "12"
+      },
+      {
+        "key": "absorbPercentEnergy",
+        "value": "12"
+      },
+      {
+        "key": "absorbPercentEarth",
+        "value": "-12"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "8869",
+    "article": "a",
+    "name": "greenwood coat",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2850"
+      },
+      {
+        "key": "armor",
+        "value": "12"
+      },
+      {
+        "key": "absorbPercentEarth",
+        "value": "12"
+      },
+      {
+        "key": "absorbPercentFire",
+        "value": "-12"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "8870",
+    "article": "a",
+    "name": "spirit cloak",
+    "attributes": [
+      {
+        "key": "armor",
+        "value": "8"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      },
+      {
+        "key": "weight",
+        "value": "2650"
+      },
+      {
+        "key": "magiclevelpoints",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "8871",
+    "article": "a",
+    "name": "focus cape",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2100"
+      },
+      {
+        "key": "armor",
+        "value": "9"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      },
+      {
+        "key": "magiclevelpoints",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "8872",
+    "article": "a",
+    "name": "belted cape",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "3500"
+      },
+      {
+        "key": "armor",
+        "value": "10"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "8873",
+    "article": "a",
+    "name": "hibiscus dress",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1900"
+      },
+      {
+        "key": "armor",
+        "value": "0"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "8874",
+    "article": "a",
+    "name": "summer dress",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1000"
+      },
+      {
+        "key": "armor",
+        "value": "0"
+      },
+      {
+        "key": "absorbPercentDeath",
+        "value": "5"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "8875",
+    "article": "a",
+    "name": "tunic",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1500"
+      },
+      {
+        "key": "armor",
+        "value": "0"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "8876",
+    "article": "a",
+    "name": "girl's dress",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1300"
+      },
+      {
+        "key": "armor",
+        "value": "0"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "8877",
+    "article": "a",
+    "name": "lavos armor",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "8500"
+      },
+      {
+        "key": "armor",
+        "value": "13"
+      },
+      {
+        "key": "absorbPercentFire",
+        "value": "3"
+      },
+      {
+        "key": "absorbPercentIce",
+        "value": "-3"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "8878",
+    "article": "a",
+    "name": "crystalline armor",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "8450"
+      },
+      {
+        "key": "armor",
+        "value": "13"
+      },
+      {
+        "key": "absorbPercentIce",
+        "value": "3"
+      },
+      {
+        "key": "absorbPercentEnergy",
+        "value": "-3"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "8879",
+    "article": "a",
+    "name": "voltage armor",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "8450"
+      },
+      {
+        "key": "armor",
+        "value": "13"
+      },
+      {
+        "key": "absorbPercentEnergy",
+        "value": "3"
+      },
+      {
+        "key": "absorbPercentEarth",
+        "value": "-3"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "8880",
+    "article": "a",
+    "name": "swamplair armor",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "8450"
+      },
+      {
+        "key": "armor",
+        "value": "13"
+      },
+      {
+        "key": "absorbPercentEarth",
+        "value": "3"
+      },
+      {
+        "key": "absorbPercentFire",
+        "value": "-3"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "8881",
+    "article": "a",
+    "name": "fireborn giant armor",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "12000"
+      },
+      {
+        "key": "armor",
+        "value": "15"
+      },
+      {
+        "key": "skillSword",
+        "value": "2"
+      },
+      {
+        "key": "absorbPercentFire",
+        "value": "5"
+      },
+      {
+        "key": "absorbPercentIce",
+        "value": "-5"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "8882",
+    "article": "an",
+    "name": "earthborn titan armor",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "12000"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      },
+      {
+        "key": "armor",
+        "value": "15"
+      },
+      {
+        "key": "skillAxe",
+        "value": "2"
+      },
+      {
+        "key": "absorbPercentEarth",
+        "value": "5"
+      },
+      {
+        "key": "absorbPercentFire",
+        "value": "-5"
+      }
+    ]
+  },
+  {
+    "id": "8883",
+    "article": "a",
+    "name": "windborn colossus armor",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "12000"
+      },
+      {
+        "key": "armor",
+        "value": "15"
+      },
+      {
+        "key": "absorbPercentEnergy",
+        "value": "5"
+      },
+      {
+        "key": "absorbPercentEarth",
+        "value": "-5"
+      },
+      {
+        "key": "skillClub",
+        "value": "2"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "8884",
+    "article": "an",
+    "name": "oceanborn leviathan armor",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "10000"
+      },
+      {
+        "key": "armor",
+        "value": "15"
+      },
+      {
+        "key": "skillShield",
+        "value": "1"
+      },
+      {
+        "key": "absorbPercentIce",
+        "value": "5"
+      },
+      {
+        "key": "absorbPercentEnergy",
+        "value": "-5"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "8885",
+    "article": "a",
+    "name": "divine plate",
+    "attributes": [
+      {
+        "key": "armor",
+        "value": "13"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      },
+      {
+        "key": "weight",
+        "value": "7500"
+      },
+      {
+        "key": "absorbPercentDeath",
+        "value": "10"
+      },
+      {
+        "key": "absorbPercentHoly",
+        "value": "-10"
+      }
+    ]
+  },
+  {
+    "id": "8886",
+    "article": "a",
+    "name": "molten plate",
+    "attributes": [
+      {
+        "key": "armor",
+        "value": "13"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      },
+      {
+        "key": "weight",
+        "value": "7500"
+      },
+      {
+        "key": "absorbPercentFire",
+        "value": "7"
+      },
+      {
+        "key": "absorbPercentIce",
+        "value": "-7"
+      }
+    ]
+  },
+  {
+    "id": "8887",
+    "article": "a",
+    "name": "frozen plate",
+    "attributes": [
+      {
+        "key": "armor",
+        "value": "13"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      },
+      {
+        "key": "weight",
+        "value": "7500"
+      },
+      {
+        "key": "absorbPercentIce",
+        "value": "7"
+      },
+      {
+        "key": "absorbPercentEnergy",
+        "value": "-7"
+      }
+    ]
+  },
+  {
+    "id": "8888",
+    "article": "a",
+    "name": "master archer's armor",
+    "attributes": [
+      {
+        "key": "armor",
+        "value": "15"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      },
+      {
+        "key": "weight",
+        "value": "6900"
+      },
+      {
+        "key": "skillDist",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "8889",
+    "article": "a",
+    "name": "skullcracker armor",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "11000"
+      },
+      {
+        "key": "armor",
+        "value": "14"
+      },
+      {
+        "key": "absorbPercentDeath",
+        "value": "5"
+      },
+      {
+        "key": "absorbPercentHoly",
+        "value": "-5"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "8890",
+    "article": "a",
+    "name": "robe of the underworld",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "3100"
+      },
+      {
+        "key": "armor",
+        "value": "12"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      },
+      {
+        "key": "absorbPercentDeath",
+        "value": "12"
+      },
+      {
+        "key": "absorbPercentHoly",
+        "value": "-12"
+      }
+    ]
+  },
+  {
+    "id": "8891",
+    "article": "a",
+    "name": "paladin armor",
+    "attributes": [
+      {
+        "key": "armor",
+        "value": "12"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      },
+      {
+        "key": "weight",
+        "value": "6500"
+      },
+      {
+        "key": "skillDist",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "8892",
+    "article": "an",
+    "name": "ethno coat",
+    "attributes": [
+      {
+        "key": "armor",
+        "value": "7"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      },
+      {
+        "key": "weight",
+        "value": "2550"
+      },
+      {
+        "key": "magiclevelpoints",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "9776",
+    "article": "a",
+    "name": "yalahari armor",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "7000"
+      },
+      {
+        "key": "armor",
+        "value": "16"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      },
+      {
+        "key": "absorbPercentDeath",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "9929",
+    "article": "a",
+    "name": "flower dress",
+    "attributes": [
+      {
+        "key": "slotType",
+        "value": "body"
+      },
+      {
+        "key": "weight",
+        "value": "1900"
+      }
+    ]
+  },
+  {
+    "id": "10296",
+    "article": "a",
+    "name": "heavy metal t-shirt",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "Oddly enough it is not made of metal at all, but years without washing grant it added protection."
+      },
+      {
+        "key": "weight",
+        "value": "800"
+      },
+      {
+        "key": "armor",
+        "value": "6"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "10317",
+    "article": "the",
+    "name": "rain coat",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "The wearer of this cape commands the forces of heaven."
+      },
+      {
+        "key": "weight",
+        "value": "3200"
+      },
+      {
+        "key": "armor",
+        "value": "1"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "10363",
+    "article": "the",
+    "name": "rain coat",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "The wearer of this cape commands the forces of heaven."
+      },
+      {
+        "key": "weight",
+        "value": "3200"
+      },
+      {
+        "key": "decayTo",
+        "value": "10317"
+      },
+      {
+        "key": "duration",
+        "value": "300"
+      },
+      {
+        "key": "armor",
+        "value": "1"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "11301",
+    "article": "a",
+    "name": "Zaoan armor",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "9550"
+      },
+      {
+        "key": "armor",
+        "value": "13"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      },
+      {
+        "key": "speed",
+        "value": "20"
+      }
+    ]
+  },
+  {
+    "id": "11355",
+    "article": "a",
+    "name": "spellweaver's robe",
+    "attributes": [
+      {
+        "key": "armor",
+        "value": "11"
+      },
+      {
+        "key": "weight",
+        "value": "2350"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      },
+      {
+        "key": "absorbPercentEnergy",
+        "value": "10"
+      },
+      {
+        "key": "absorbPercentEarth",
+        "value": "-10"
+      }
+    ]
+  },
+  {
+    "id": "11356",
+    "article": "a",
+    "name": "Zaoan robe",
+    "attributes": [
+      {
+        "key": "armor",
+        "value": "11"
+      },
+      {
+        "key": "weight",
+        "value": "2450"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      },
+      {
+        "key": "absorbPercentFire",
+        "value": "10"
+      },
+      {
+        "key": "absorbPercentIce",
+        "value": "-10"
+      }
+    ]
+  },
+  {
+    "id": "12607",
+    "article": "an",
+    "name": "elite draken mail",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "12000"
+      },
+      {
+        "key": "armor",
+        "value": "15"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      },
+      {
+        "key": "speed",
+        "value": "20"
+      }
+    ]
+  },
+  {
+    "id": "12642",
+    "article": "a",
+    "name": "royal draken mail",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "13000"
+      },
+      {
+        "key": "armor",
+        "value": "16"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      },
+      {
+        "key": "skillShield",
+        "value": "3"
+      },
+      {
+        "key": "absorbPercentPhysical",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "12643",
+    "article": "a",
+    "name": "royal scale robe",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4500"
+      },
+      {
+        "key": "armor",
+        "value": "12"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      },
+      {
+        "key": "magiclevelpoints",
+        "value": "2"
+      },
+      {
+        "key": "absorbPercentFire",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "12657",
+    "article": "an",
+    "name": "old cape",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "This old cape might be worth more than what it looks like."
+      },
+      {
+        "key": "weight",
+        "value": "3500"
+      },
+      {
+        "key": "armor",
+        "value": "1"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "15406",
+    "article": "an",
+    "name": "ornate chestplate",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "15600"
+      },
+      {
+        "key": "armor",
+        "value": "16"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      },
+      {
+        "key": "skillShield",
+        "value": "3"
+      },
+      {
+        "key": "absorbPercentPhysical",
+        "value": "8"
+      },
+      {
+        "key": "showattributes",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "15407",
+    "article": "a",
+    "name": "depth lorica",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "14500"
+      },
+      {
+        "key": "armor",
+        "value": "16"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      },
+      {
+        "key": "skillDist",
+        "value": "3"
+      },
+      {
+        "key": "absorbPercentDeath",
+        "value": "5"
+      },
+      {
+        "key": "showattributes",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "15489",
+    "article": "a",
+    "name": "calopteryx cape",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2000"
+      },
+      {
+        "key": "armor",
+        "value": "12"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      },
+      {
+        "key": "magiclevelpoints",
+        "value": "1"
+      },
+      {
+        "key": "absorbPercentIce",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "18399",
+    "article": "a",
+    "name": "gill coat",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1900"
+      },
+      {
+        "key": "armor",
+        "value": "12"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      },
+      {
+        "key": "absorbPercentEarth",
+        "value": "10"
+      },
+      {
+        "key": "absorbPercentFire",
+        "value": "-10"
+      },
+      {
+        "key": "magiclevelpoints",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "18404",
+    "article": "a",
+    "name": "prismatic armor",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "7900"
+      },
+      {
+        "key": "armor",
+        "value": "15"
+      },
+      {
+        "key": "absorbPercentPhysical",
+        "value": "5"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      },
+      {
+        "key": "speed",
+        "value": "30"
+      }
+    ]
+  },
+  {
+    "id": "20109",
+    "article": "a",
+    "name": "buckle",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "7500"
+      },
+      {
+        "key": "armor",
+        "value": "12"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "20126",
+    "article": "a",
+    "name": "leather harness",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2900"
+      },
+      {
+        "key": "armor",
+        "value": "9"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "21692",
+    "article": "an",
+    "name": "albino plate",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "8400"
+      },
+      {
+        "key": "armor",
+        "value": "11"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "21706",
+    "article": "a",
+    "name": "goo shell",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4800"
+      },
+      {
+        "key": "armor",
+        "value": "12"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      },
+      {
+        "key": "absorbPercentEarth",
+        "value": "2"
+      },
+      {
+        "key": "absorbPercentFire",
+        "value": "-2"
+      }
+    ]
+  },
+  {
+    "id": "21725",
+    "article": "a",
+    "name": "furious frock",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "3400"
+      },
+      {
+        "key": "armor",
+        "value": "12"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      },
+      {
+        "key": "absorbPercentFire",
+        "value": "5"
+      },
+      {
+        "key": "magiclevelpoints",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "23535",
+    "article": "a",
+    "name": "glooth cape",
+    "attributes": [
+      {
+        "key": "armor",
+        "value": "9"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      },
+      {
+        "key": "absorbPercentEarth",
+        "value": "5"
+      },
+      {
+        "key": "absorbPercentFire",
+        "value": "-5"
+      },
+      {
+        "key": "weight",
+        "value": "2900"
+      }
+    ]
+  },
+  {
+    "id": "23537",
+    "article": "a",
+    "name": "mooh'tah plate",
+    "attributes": [
+      {
+        "key": "armor",
+        "value": "12"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      },
+      {
+        "key": "weight",
+        "value": "12500"
+      }
+    ]
+  },
+  {
+    "id": "23538",
+    "article": "a",
+    "name": "heat core",
+    "attributes": [
+      {
+        "key": "armor",
+        "value": "12"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      },
+      {
+        "key": "weight",
+        "value": "5500"
+      }
+    ]
+  },
+  {
+    "id": "24741",
+    "article": "a",
+    "name": "fur armor",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4900"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      },
+      {
+        "key": "armor",
+        "value": "11"
+      },
+      {
+        "key": "absorbPercentEarth",
+        "value": "5"
+      },
+      {
+        "key": "absorbPercentIce",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "25174",
+    "article": "a",
+    "name": "fireheart cuirass",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "14500"
+      },
+      {
+        "key": "armor",
+        "value": "18"
+      },
+      {
+        "key": "skillSword",
+        "value": "4"
+      },
+      {
+        "key": "absorbPercentFire",
+        "value": "8"
+      },
+      {
+        "key": "absorbPercentIce",
+        "value": "-8"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "25175",
+    "article": "a",
+    "name": "fireheart hauberk",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "14500"
+      },
+      {
+        "key": "armor",
+        "value": "18"
+      },
+      {
+        "key": "skillAxe",
+        "value": "4"
+      },
+      {
+        "key": "absorbPercentFire",
+        "value": "8"
+      },
+      {
+        "key": "absorbPercentIce",
+        "value": "-8"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "25176",
+    "article": "a",
+    "name": "fireheart platemail",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "14500"
+      },
+      {
+        "key": "armor",
+        "value": "18"
+      },
+      {
+        "key": "skillClub",
+        "value": "4"
+      },
+      {
+        "key": "absorbPercentFire",
+        "value": "8"
+      },
+      {
+        "key": "absorbPercentIce",
+        "value": "-8"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "25177",
+    "article": "an",
+    "name": "earthheart cuirass",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "14500"
+      },
+      {
+        "key": "armor",
+        "value": "18"
+      },
+      {
+        "key": "skillSword",
+        "value": "4"
+      },
+      {
+        "key": "absorbPercentEarth",
+        "value": "8"
+      },
+      {
+        "key": "absorbPercentFire",
+        "value": "-8"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "25178",
+    "article": "an",
+    "name": "earthheart hauberk",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "14500"
+      },
+      {
+        "key": "armor",
+        "value": "18"
+      },
+      {
+        "key": "skillAxe",
+        "value": "4"
+      },
+      {
+        "key": "absorbPercentEarth",
+        "value": "8"
+      },
+      {
+        "key": "absorbPercentFire",
+        "value": "-8"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "25179",
+    "article": "an",
+    "name": "earthheart platemail",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "14500"
+      },
+      {
+        "key": "armor",
+        "value": "18"
+      },
+      {
+        "key": "skillClub",
+        "value": "4"
+      },
+      {
+        "key": "absorbPercentEarth",
+        "value": "8"
+      },
+      {
+        "key": "absorbPercentFire",
+        "value": "-8"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "25180",
+    "article": "a",
+    "name": "thunderheart cuirass",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "14500"
+      },
+      {
+        "key": "armor",
+        "value": "18"
+      },
+      {
+        "key": "skillSword",
+        "value": "4"
+      },
+      {
+        "key": "absorbPercentEnergy",
+        "value": "8"
+      },
+      {
+        "key": "absorbPercentEarth",
+        "value": "-8"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "25181",
+    "article": "a",
+    "name": "thunderheart hauberk",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "14500"
+      },
+      {
+        "key": "armor",
+        "value": "18"
+      },
+      {
+        "key": "skillAxe",
+        "value": "4"
+      },
+      {
+        "key": "absorbPercentEnergy",
+        "value": "8"
+      },
+      {
+        "key": "absorbPercentEarth",
+        "value": "-8"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "25182",
+    "article": "a",
+    "name": "thunderheart platemail",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "14500"
+      },
+      {
+        "key": "armor",
+        "value": "18"
+      },
+      {
+        "key": "skillClub",
+        "value": "4"
+      },
+      {
+        "key": "absorbPercentEnergy",
+        "value": "8"
+      },
+      {
+        "key": "absorbPercentEarth",
+        "value": "-8"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "25183",
+    "article": "a",
+    "name": "frostheart cuirass",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "14500"
+      },
+      {
+        "key": "armor",
+        "value": "18"
+      },
+      {
+        "key": "skillSword",
+        "value": "4"
+      },
+      {
+        "key": "absorbPercentIce",
+        "value": "8"
+      },
+      {
+        "key": "absorbPercentEnergy",
+        "value": "-8"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "25184",
+    "article": "a",
+    "name": "frostheart hauberk",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "14500"
+      },
+      {
+        "key": "armor",
+        "value": "18"
+      },
+      {
+        "key": "skillAxe",
+        "value": "4"
+      },
+      {
+        "key": "absorbPercentIce",
+        "value": "8"
+      },
+      {
+        "key": "absorbPercentEnergy",
+        "value": "-8"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "25185",
+    "article": "a",
+    "name": "frostheart platemail",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "14500"
+      },
+      {
+        "key": "armor",
+        "value": "18"
+      },
+      {
+        "key": "skillClub",
+        "value": "4"
+      },
+      {
+        "key": "absorbPercentIce",
+        "value": "8"
+      },
+      {
+        "key": "absorbPercentEnergy",
+        "value": "-8"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "25186",
+    "article": "a",
+    "name": "firesoul tabard",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "14500"
+      },
+      {
+        "key": "armor",
+        "value": "18"
+      },
+      {
+        "key": "skillDist",
+        "value": "4"
+      },
+      {
+        "key": "absorbPercentFire",
+        "value": "8"
+      },
+      {
+        "key": "absorbPercentIce",
+        "value": "-8"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "25187",
+    "article": "an",
+    "name": "earthsoul tabard",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "14500"
+      },
+      {
+        "key": "armor",
+        "value": "18"
+      },
+      {
+        "key": "skillDist",
+        "value": "4"
+      },
+      {
+        "key": "absorbPercentEarth",
+        "value": "8"
+      },
+      {
+        "key": "absorbPercentFire",
+        "value": "-8"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "25188",
+    "article": "a",
+    "name": "thundersoul tabard",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "14500"
+      },
+      {
+        "key": "armor",
+        "value": "18"
+      },
+      {
+        "key": "skillDist",
+        "value": "4"
+      },
+      {
+        "key": "absorbPercentEnergy",
+        "value": "8"
+      },
+      {
+        "key": "absorbPercentEarth",
+        "value": "-8"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "25189",
+    "article": "a",
+    "name": "frostsoul tabard",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "14500"
+      },
+      {
+        "key": "armor",
+        "value": "18"
+      },
+      {
+        "key": "skillDist",
+        "value": "4"
+      },
+      {
+        "key": "absorbPercentIce",
+        "value": "8"
+      },
+      {
+        "key": "absorbPercentEnergy",
+        "value": "-8"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "25190",
+    "article": "a",
+    "name": "firemind raiment",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "14500"
+      },
+      {
+        "key": "armor",
+        "value": "15"
+      },
+      {
+        "key": "magiclevelpoints",
+        "value": "4"
+      },
+      {
+        "key": "absorbPercentFire",
+        "value": "8"
+      },
+      {
+        "key": "absorbPercentIce",
+        "value": "-8"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "25191",
+    "article": "an",
+    "name": "earthmind raiment",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "14500"
+      },
+      {
+        "key": "armor",
+        "value": "15"
+      },
+      {
+        "key": "magiclevelpoints",
+        "value": "4"
+      },
+      {
+        "key": "absorbPercentEarth",
+        "value": "8"
+      },
+      {
+        "key": "absorbPercentFire",
+        "value": "-8"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "25192",
+    "article": "a",
+    "name": "thundermind raiment",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "14500"
+      },
+      {
+        "key": "armor",
+        "value": "15"
+      },
+      {
+        "key": "magiclevelpoints",
+        "value": "4"
+      },
+      {
+        "key": "absorbPercentEnergy",
+        "value": "8"
+      },
+      {
+        "key": "absorbPercentEarth",
+        "value": "-8"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  },
+  {
+    "id": "25193",
+    "article": "a",
+    "name": "frostmind raiment",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "14500"
+      },
+      {
+        "key": "armor",
+        "value": "15"
+      },
+      {
+        "key": "magiclevelpoints",
+        "value": "4"
+      },
+      {
+        "key": "absorbPercentIce",
+        "value": "8"
+      },
+      {
+        "key": "absorbPercentEnergy",
+        "value": "-8"
+      },
+      {
+        "key": "slotType",
+        "value": "body"
+      }
+    ]
+  }
+]

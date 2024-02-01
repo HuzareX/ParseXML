@@ -1,0 +1,2462 @@
+[
+  {
+    "id": "2128",
+    "article": "a",
+    "name": "crown",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1900"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "2139",
+    "article": "an",
+    "name": "ancient tiara",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "820"
+      },
+      {
+        "key": "armor",
+        "value": "0"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "2323",
+    "article": "a",
+    "name": "hat of the mad",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "You have a vague feeling that it looks somewhat silly."
+      },
+      {
+        "key": "weight",
+        "value": "700"
+      },
+      {
+        "key": "armor",
+        "value": "3"
+      },
+      {
+        "key": "magiclevelpoints",
+        "value": "1"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "2342",
+    "article": "a",
+    "name": "helmet of the ancients",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "The gem of the helmet is burned out and should be replaced."
+      },
+      {
+        "key": "weight",
+        "value": "2760"
+      },
+      {
+        "key": "armor",
+        "value": "8"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "2343",
+    "article": "a",
+    "name": "helmet of the ancients",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "The gem is glowing with power."
+      },
+      {
+        "key": "weight",
+        "value": "2760"
+      },
+      {
+        "key": "armor",
+        "value": "11"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      },
+      {
+        "key": "duration",
+        "value": "1800"
+      },
+      {
+        "key": "decayTo",
+        "value": "2342"
+      }
+    ]
+  },
+  {
+    "id": "2457",
+    "article": "a",
+    "name": "steel helmet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4600"
+      },
+      {
+        "key": "armor",
+        "value": "6"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "2458",
+    "article": "a",
+    "name": "chain helmet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4200"
+      },
+      {
+        "key": "armor",
+        "value": "2"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "2459",
+    "article": "an",
+    "name": "iron helmet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "3000"
+      },
+      {
+        "key": "armor",
+        "value": "5"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "2460",
+    "article": "a",
+    "name": "brass helmet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2700"
+      },
+      {
+        "key": "armor",
+        "value": "3"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "2461",
+    "article": "a",
+    "name": "leather helmet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2200"
+      },
+      {
+        "key": "armor",
+        "value": "1"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "2462",
+    "article": "a",
+    "name": "devil helmet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5000"
+      },
+      {
+        "key": "armor",
+        "value": "7"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "2471",
+    "article": "a",
+    "name": "golden helmet",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "It's the famous Helmet of the Stars."
+      },
+      {
+        "key": "weight",
+        "value": "3200"
+      },
+      {
+        "key": "armor",
+        "value": "12"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "2473",
+    "article": "a",
+    "name": "viking helmet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "3900"
+      },
+      {
+        "key": "armor",
+        "value": "4"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "2474",
+    "article": "a",
+    "name": "winged helmet",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "It's the Helmet of Hermes."
+      },
+      {
+        "key": "weight",
+        "value": "1200"
+      },
+      {
+        "key": "armor",
+        "value": "10"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "2475",
+    "article": "a",
+    "name": "warrior helmet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "6800"
+      },
+      {
+        "key": "armor",
+        "value": "8"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "2479",
+    "article": "a",
+    "name": "strange helmet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4600"
+      },
+      {
+        "key": "armor",
+        "value": "6"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "2480",
+    "article": "a",
+    "name": "legion helmet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "3100"
+      },
+      {
+        "key": "armor",
+        "value": "4"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "2481",
+    "article": "a",
+    "name": "soldier helmet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "3200"
+      },
+      {
+        "key": "armor",
+        "value": "5"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "2482",
+    "article": "a",
+    "name": "studded helmet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2450"
+      },
+      {
+        "key": "armor",
+        "value": "2"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "2490",
+    "article": "a",
+    "name": "dark helmet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4600"
+      },
+      {
+        "key": "armor",
+        "value": "6"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "2491",
+    "article": "a",
+    "name": "crown helmet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2950"
+      },
+      {
+        "key": "armor",
+        "value": "7"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "2493",
+    "article": "a",
+    "name": "demon helmet",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "You hear an evil whispering from inside."
+      },
+      {
+        "key": "weight",
+        "value": "2950"
+      },
+      {
+        "key": "armor",
+        "value": "10"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "2496",
+    "article": "a",
+    "name": "horned helmet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5100"
+      },
+      {
+        "key": "armor",
+        "value": "11"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "2497",
+    "article": "a",
+    "name": "crusader helmet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5200"
+      },
+      {
+        "key": "armor",
+        "value": "8"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "2498",
+    "article": "a",
+    "name": "royal helmet",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "An excellent masterpiece of a smith."
+      },
+      {
+        "key": "weight",
+        "value": "4800"
+      },
+      {
+        "key": "armor",
+        "value": "9"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "2499",
+    "article": "an",
+    "name": "amazon helmet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2950"
+      },
+      {
+        "key": "armor",
+        "value": "7"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "2501",
+    "article": "a",
+    "name": "ceremonial mask",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4000"
+      },
+      {
+        "key": "armor",
+        "value": "9"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "2502",
+    "article": "a",
+    "name": "dwarven helmet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4200"
+      },
+      {
+        "key": "armor",
+        "value": "6"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      },
+      {
+        "key": "absorbPercentPhysical",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "2506",
+    "article": "a",
+    "name": "dragon scale helmet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "3250"
+      },
+      {
+        "key": "armor",
+        "value": "9"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "2662",
+    "article": "a",
+    "name": "magician hat",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "750"
+      },
+      {
+        "key": "armor",
+        "value": "1"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "2663",
+    "article": "a",
+    "name": "mystic turban",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "Something is strange about this turban."
+      },
+      {
+        "key": "weight",
+        "value": "850"
+      },
+      {
+        "key": "armor",
+        "value": "1"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "2664",
+    "article": "a",
+    "name": "wood cape",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1100"
+      },
+      {
+        "key": "armor",
+        "value": "3"
+      },
+      {
+        "key": "skillDist",
+        "value": "1"
+      },
+      {
+        "key": "absorbPercentEarth",
+        "value": "4"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "2665",
+    "article": "a",
+    "name": "post officer's hat",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "This hat is the insignia of all post officers."
+      },
+      {
+        "key": "weight",
+        "value": "700"
+      },
+      {
+        "key": "armor",
+        "value": "1"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "3967",
+    "article": "a",
+    "name": "tribal mask",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2500"
+      },
+      {
+        "key": "armor",
+        "value": "2"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "3969",
+    "article": "a",
+    "name": "horseman helmet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4200"
+      },
+      {
+        "key": "armor",
+        "value": "6"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "3970",
+    "article": "a",
+    "name": "feather headdress",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2100"
+      },
+      {
+        "key": "armor",
+        "value": "2"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "3971",
+    "article": "a",
+    "name": "charmer's tiara",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2200"
+      },
+      {
+        "key": "armor",
+        "value": "2"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "3972",
+    "article": "a",
+    "name": "bonelord helmet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4600"
+      },
+      {
+        "key": "armor",
+        "value": "7"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "5461",
+    "article": "a",
+    "name": "helmet of the deep",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "21000"
+      },
+      {
+        "key": "description",
+        "value": "Enables underwater exploration."
+      },
+      {
+        "key": "armor",
+        "value": "2"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      },
+      {
+        "key": "absorbPercentDrown",
+        "value": "100"
+      }
+    ]
+  },
+  {
+    "id": "5741",
+    "article": "a",
+    "name": "skull helmet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4200"
+      },
+      {
+        "key": "armor",
+        "value": "9"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "5903",
+    "name": "Ferumbras' hat",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "It is the proof that Ferumbras has fallen. For now. The Edron Academy should be interested in this."
+      },
+      {
+        "key": "weight",
+        "value": "850"
+      },
+      {
+        "key": "armor",
+        "value": "1"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "5917",
+    "article": "a",
+    "name": "bandana",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "It is quite fashionable as well as useful for anyone spending huge amounts of time in the sun."
+      },
+      {
+        "key": "weight",
+        "value": "850"
+      },
+      {
+        "key": "armor",
+        "value": "1"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "6096",
+    "article": "a",
+    "name": "pirate hat",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1250"
+      },
+      {
+        "key": "armor",
+        "value": "3"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "6531",
+    "article": "a",
+    "name": "santa hat",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "750"
+      },
+      {
+        "key": "armor",
+        "value": "1"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "6578",
+    "article": "a",
+    "name": "party hat",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "750"
+      },
+      {
+        "key": "armor",
+        "value": "1"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "7458",
+    "article": "a",
+    "name": "fur cap",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "It feels nice and warm on your ears."
+      },
+      {
+        "key": "weight",
+        "value": "1800"
+      },
+      {
+        "key": "armor",
+        "value": "3"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "7459",
+    "article": "a",
+    "name": "pair of earmuffs",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "They feel nice and warm on your ears."
+      },
+      {
+        "key": "weight",
+        "value": "500"
+      },
+      {
+        "key": "armor",
+        "value": "0"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      },
+      {
+        "key": "absorbPercentIce",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "7461",
+    "article": "a",
+    "name": "krimhorn helmet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5100"
+      },
+      {
+        "key": "armor",
+        "value": "6"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "7462",
+    "article": "a",
+    "name": "ragnir helmet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "3100"
+      },
+      {
+        "key": "armor",
+        "value": "6"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "7497",
+    "article": "a",
+    "name": "mining helmet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "700"
+      },
+      {
+        "key": "description",
+        "value": "This is Budrik's old mining helmet."
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "7900",
+    "article": "a",
+    "name": "magma monocle",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1000"
+      },
+      {
+        "key": "armor",
+        "value": "5"
+      },
+      {
+        "key": "absorbPercentFire",
+        "value": "4"
+      },
+      {
+        "key": "absorbPercentIce",
+        "value": "-5"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "7901",
+    "article": "a",
+    "name": "lightning headband",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1000"
+      },
+      {
+        "key": "armor",
+        "value": "5"
+      },
+      {
+        "key": "absorbPercentEnergy",
+        "value": "4"
+      },
+      {
+        "key": "absorbPercentEarth",
+        "value": "-5"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "7902",
+    "article": "a",
+    "name": "glacier mask",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1000"
+      },
+      {
+        "key": "armor",
+        "value": "5"
+      },
+      {
+        "key": "absorbPercentIce",
+        "value": "4"
+      },
+      {
+        "key": "absorbPercentEnergy",
+        "value": "-5"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "7903",
+    "article": "a",
+    "name": "terra hood",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1000"
+      },
+      {
+        "key": "armor",
+        "value": "5"
+      },
+      {
+        "key": "absorbPercentEarth",
+        "value": "4"
+      },
+      {
+        "key": "absorbPercentFire",
+        "value": "-5"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "7939",
+    "article": "a",
+    "name": "mining helmet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "700"
+      },
+      {
+        "key": "armor",
+        "value": "1"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      },
+      {
+        "key": "description",
+        "value": "This is your personal mining helmet."
+      }
+    ]
+  },
+  {
+    "id": "7957",
+    "article": "a",
+    "name": "jester hat",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1000"
+      },
+      {
+        "key": "armor",
+        "value": "1"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "8820",
+    "article": "a",
+    "name": "mage hat",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "900"
+      },
+      {
+        "key": "armor",
+        "value": "3"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "9080",
+    "article": "a",
+    "name": "hat of the mad",
+    "editorsuffix": " (Old one)",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "You have a vague feeling that it looks somewhat silly."
+      },
+      {
+        "key": "weight",
+        "value": "700"
+      },
+      {
+        "key": "armor",
+        "value": "3"
+      },
+      {
+        "key": "magiclevelpoints",
+        "value": "1"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "9778",
+    "article": "a",
+    "name": "yalahari mask",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "3500"
+      },
+      {
+        "key": "armor",
+        "value": "5"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      },
+      {
+        "key": "magiclevelpoints",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "9820",
+    "article": "a",
+    "name": "heavily rusted helmet",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "If you can remove the rust layer and dirt from the helmet you will be able to see what it is."
+      },
+      {
+        "key": "weight",
+        "value": "2800"
+      },
+      {
+        "key": "armor",
+        "value": "1"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "9821",
+    "article": "a",
+    "name": "rusted helmet",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "If you can remove the rust layer and dirt from the helmet you will be able to see what it is."
+      },
+      {
+        "key": "weight",
+        "value": "2800"
+      },
+      {
+        "key": "armor",
+        "value": "1"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "9822",
+    "article": "a",
+    "name": "slightly rusted helmet",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "If you can remove the rust layer and dirt from the helmet you will be able to see what it is."
+      },
+      {
+        "key": "weight",
+        "value": "2800"
+      },
+      {
+        "key": "armor",
+        "value": "1"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "9927",
+    "article": "a",
+    "name": "flower wreath",
+    "attributes": [
+      {
+        "key": "slotType",
+        "value": "head"
+      },
+      {
+        "key": "weight",
+        "value": "500"
+      }
+    ]
+  },
+  {
+    "id": "10016",
+    "article": "a",
+    "name": "batwing hat",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "600"
+      },
+      {
+        "key": "armor",
+        "value": "3"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      },
+      {
+        "key": "magiclevelpoints",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "10291",
+    "article": "an",
+    "name": "odd hat",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "It has to be one of the fabled helmets of light."
+      },
+      {
+        "key": "weight",
+        "value": "700"
+      },
+      {
+        "key": "armor",
+        "value": "5"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "10298",
+    "article": "a",
+    "name": "helmet of ultimate terror",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "There is evil inside."
+      },
+      {
+        "key": "weight",
+        "value": "1250"
+      },
+      {
+        "key": "armor",
+        "value": "3"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "10299",
+    "article": "a",
+    "name": "helmet of nature",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "One can only hope nobody will ever insist on wearing that."
+      },
+      {
+        "key": "weight",
+        "value": "1100"
+      },
+      {
+        "key": "armor",
+        "value": "3"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "10316",
+    "article": "a",
+    "name": "mighty helm of green sparks",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "This helmet spawns green stars. Awesome."
+      },
+      {
+        "key": "weight",
+        "value": "4600"
+      },
+      {
+        "key": "armor",
+        "value": "6"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "10570",
+    "article": "a",
+    "name": "witch hat",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "780"
+      },
+      {
+        "key": "armor",
+        "value": "3"
+      },
+      {
+        "key": "absorbPercentManaDrain",
+        "value": "5"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "11302",
+    "article": "a",
+    "name": "Zaoan helmet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "6600"
+      },
+      {
+        "key": "armor",
+        "value": "9"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      },
+      {
+        "key": "absorbPercentPhysical",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "11368",
+    "article": "a",
+    "name": "jade hat",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "900"
+      },
+      {
+        "key": "armor",
+        "value": "4"
+      },
+      {
+        "key": "magiclevelpoints",
+        "value": "1"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "12541",
+    "article": "a",
+    "name": "helmet of the deep",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "21000"
+      },
+      {
+        "key": "armor",
+        "value": "2"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      },
+      {
+        "key": "suppressDrown",
+        "value": "true"
+      },
+      {
+        "key": "speed",
+        "value": "600"
+      },
+      {
+        "key": "decayTo",
+        "value": "5461"
+      },
+      {
+        "key": "duration",
+        "value": "21600"
+      },
+      {
+        "key": "transformDeEquipTo",
+        "value": "5461"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      },
+      {
+        "key": "showattributes",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "12630",
+    "article": "a",
+    "name": "cobra crown",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "850"
+      },
+      {
+        "key": "armor",
+        "value": "3"
+      },
+      {
+        "key": "magiclevelpoints",
+        "value": "2"
+      },
+      {
+        "key": "absorbPercentFire",
+        "value": "-5"
+      },
+      {
+        "key": "absorbPercentEarth",
+        "value": "5"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "12645",
+    "article": "an",
+    "name": "elite draken helmet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "4300"
+      },
+      {
+        "key": "armor",
+        "value": "9"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      },
+      {
+        "key": "absorbPercentDeath",
+        "value": "3"
+      },
+      {
+        "key": "skillDist",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "12656",
+    "article": "a",
+    "name": "sedge hat",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "This simple hat might be more worth than what it looks like."
+      },
+      {
+        "key": "weight",
+        "value": "1800"
+      },
+      {
+        "key": "armor",
+        "value": "2"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "13756",
+    "article": "a",
+    "name": "mage's cap",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1000"
+      },
+      {
+        "key": "armor",
+        "value": "3"
+      },
+      {
+        "key": "absorbPercentFire",
+        "value": "4"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "fromid": "13946",
+    "toid": "13947",
+    "article": "the",
+    "name": "epic wisdom",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "This hat was handcrafted by Uman the Wise and cursed by Zathroth the Destroyer."
+      },
+      {
+        "key": "weight",
+        "value": "805"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "15408",
+    "article": "a",
+    "name": "depth galea",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "Enables underwater exploration."
+      },
+      {
+        "key": "absorbPercentDrown",
+        "value": "100"
+      },
+      {
+        "key": "weight",
+        "value": "4600"
+      },
+      {
+        "key": "armor",
+        "value": "8"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "15651",
+    "article": "a",
+    "name": "depth galea",
+    "attributes": [
+      {
+        "key": "description",
+        "value": "Enables underwater exploration."
+      },
+      {
+        "key": "absorbPercentDrown",
+        "value": "100"
+      },
+      {
+        "key": "weight",
+        "value": "4600"
+      },
+      {
+        "key": "armor",
+        "value": "8"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "18398",
+    "article": "a",
+    "name": "gill gugel",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "900"
+      },
+      {
+        "key": "armor",
+        "value": "5"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      },
+      {
+        "key": "absorbPercentEarth",
+        "value": "6"
+      },
+      {
+        "key": "absorbPercentFire",
+        "value": "-6"
+      },
+      {
+        "key": "magiclevelpoints",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "18403",
+    "article": "a",
+    "name": "prismatic helmet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "5600"
+      },
+      {
+        "key": "armor",
+        "value": "9"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      },
+      {
+        "key": "absorbPercentPhysical",
+        "value": "5"
+      },
+      {
+        "key": "skillShield",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "20132",
+    "article": "a",
+    "name": "helmet of the lost",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "3500"
+      },
+      {
+        "key": "armor",
+        "value": "7"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "22518",
+    "article": "a",
+    "name": "broken visor",
+    "attributes": [
+      {
+        "key": "armor",
+        "value": "1"
+      },
+      {
+        "key": "weight",
+        "value": "1400"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "23536",
+    "article": "a",
+    "name": "rubber cap",
+    "attributes": [
+      {
+        "key": "armor",
+        "value": "5"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      },
+      {
+        "key": "absorbPercentEarth",
+        "value": "3"
+      },
+      {
+        "key": "absorbPercentFire",
+        "value": "-3"
+      },
+      {
+        "key": "magiclevelpoints",
+        "value": "1"
+      },
+      {
+        "key": "weight",
+        "value": "800"
+      }
+    ]
+  },
+  {
+    "id": "24261",
+    "article": "a",
+    "name": "crest of the deep seas",
+    "attributes": [
+      {
+        "key": "slotType",
+        "value": "head"
+      },
+      {
+        "key": "armor",
+        "value": "7"
+      },
+      {
+        "key": "speed",
+        "value": "10"
+      },
+      {
+        "key": "absorbPercentIce",
+        "value": "5"
+      },
+      {
+        "key": "weight",
+        "value": "4500"
+      }
+    ]
+  },
+  {
+    "id": "24718",
+    "article": "a",
+    "name": "werewolf helmet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2500"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      },
+      {
+        "key": "armor",
+        "value": "9"
+      },
+      {
+        "key": "speed",
+        "value": "30"
+      }
+    ]
+  },
+  {
+    "id": "24744",
+    "article": "an",
+    "name": "enchanted werewolf helmet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2500"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      },
+      {
+        "key": "armor",
+        "value": "9"
+      },
+      {
+        "key": "absorbPercentPhysical",
+        "value": "4"
+      },
+      {
+        "key": "transformEquipTo",
+        "value": "24788"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      },
+      {
+        "key": "stopduration",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "24769",
+    "article": "an",
+    "name": "enchanted werewolf helmet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2500"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      },
+      {
+        "key": "armor",
+        "value": "9"
+      },
+      {
+        "key": "absorbPercentPhysical",
+        "value": "4"
+      },
+      {
+        "key": "transformEquipTo",
+        "value": "24783"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      },
+      {
+        "key": "stopduration",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "24770",
+    "article": "an",
+    "name": "enchanted werewolf helmet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2500"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      },
+      {
+        "key": "armor",
+        "value": "9"
+      },
+      {
+        "key": "absorbPercentPhysical",
+        "value": "4"
+      },
+      {
+        "key": "transformEquipTo",
+        "value": "24784"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      },
+      {
+        "key": "stopduration",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "24771",
+    "article": "an",
+    "name": "enchanted werewolf helmet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2500"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      },
+      {
+        "key": "armor",
+        "value": "9"
+      },
+      {
+        "key": "absorbPercentPhysical",
+        "value": "4"
+      },
+      {
+        "key": "transformEquipTo",
+        "value": "24785"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      },
+      {
+        "key": "stopduration",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "24772",
+    "article": "an",
+    "name": "enchanted werewolf helmet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2500"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      },
+      {
+        "key": "armor",
+        "value": "9"
+      },
+      {
+        "key": "absorbPercentPhysical",
+        "value": "4"
+      },
+      {
+        "key": "transformEquipTo",
+        "value": "24786"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      },
+      {
+        "key": "stopduration",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "24783",
+    "article": "an",
+    "name": "enchanted werewolf helmet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2500"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      },
+      {
+        "key": "armor",
+        "value": "9"
+      },
+      {
+        "key": "absorbPercentPhysical",
+        "value": "4"
+      },
+      {
+        "key": "skillClub",
+        "value": "1"
+      },
+      {
+        "key": "decayTo",
+        "value": "24718"
+      },
+      {
+        "key": "transformDeEquipTo",
+        "value": "24769"
+      },
+      {
+        "key": "duration",
+        "value": "3600"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "24784",
+    "article": "an",
+    "name": "enchanted werewolf helmet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2500"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      },
+      {
+        "key": "armor",
+        "value": "9"
+      },
+      {
+        "key": "absorbPercentPhysical",
+        "value": "4"
+      },
+      {
+        "key": "skillSword",
+        "value": "1"
+      },
+      {
+        "key": "decayTo",
+        "value": "24718"
+      },
+      {
+        "key": "transformDeEquipTo",
+        "value": "24770"
+      },
+      {
+        "key": "duration",
+        "value": "3600"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "24785",
+    "article": "an",
+    "name": "enchanted werewolf helmet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2500"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      },
+      {
+        "key": "armor",
+        "value": "9"
+      },
+      {
+        "key": "absorbPercentPhysical",
+        "value": "4"
+      },
+      {
+        "key": "skillAxe",
+        "value": "1"
+      },
+      {
+        "key": "decayTo",
+        "value": "24718"
+      },
+      {
+        "key": "transformDeEquipTo",
+        "value": "24771"
+      },
+      {
+        "key": "duration",
+        "value": "3600"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "24786",
+    "article": "an",
+    "name": "enchanted werewolf helmet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2500"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      },
+      {
+        "key": "armor",
+        "value": "9"
+      },
+      {
+        "key": "absorbPercentPhysical",
+        "value": "4"
+      },
+      {
+        "key": "skillDist",
+        "value": "1"
+      },
+      {
+        "key": "decayTo",
+        "value": "24718"
+      },
+      {
+        "key": "transformDeEquipTo",
+        "value": "24772"
+      },
+      {
+        "key": "duration",
+        "value": "3600"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "24788",
+    "article": "an",
+    "name": "enchanted werewolf helmet",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "2500"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      },
+      {
+        "key": "armor",
+        "value": "9"
+      },
+      {
+        "key": "absorbPercentPhysical",
+        "value": "4"
+      },
+      {
+        "key": "magiclevelpoints",
+        "value": "1"
+      },
+      {
+        "key": "decayTo",
+        "value": "24718"
+      },
+      {
+        "key": "transformDeEquipTo",
+        "value": "24744"
+      },
+      {
+        "key": "duration",
+        "value": "3600"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "24848",
+    "article": "a",
+    "name": "shamanic mask",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "3100"
+      },
+      {
+        "key": "armor",
+        "value": "4"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "25410",
+    "article": "a",
+    "name": "visage of the end days",
+    "attributes": [
+      {
+        "key": "armor",
+        "value": "10"
+      },
+      {
+        "key": "weight",
+        "value": "3800"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "25413",
+    "article": "a",
+    "name": "shroud of despair",
+    "attributes": [
+      {
+        "key": "armor",
+        "value": "7"
+      },
+      {
+        "key": "absorbPercentDeath",
+        "value": "3"
+      },
+      {
+        "key": "weight",
+        "value": "3400"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      }
+    ]
+  },
+  {
+    "id": "26130",
+    "article": "a",
+    "name": "tiara of power",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1150"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      },
+      {
+        "key": "transformEquipTo",
+        "value": "26131"
+      },
+      {
+        "key": "stopduration",
+        "value": "true"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": "26131",
+    "article": "a",
+    "name": "tiara of power",
+    "attributes": [
+      {
+        "key": "weight",
+        "value": "1150"
+      },
+      {
+        "key": "slotType",
+        "value": "head"
+      },
+      {
+        "key": "decayTo",
+        "value": "0"
+      },
+      {
+        "key": "transformDeEquipTo",
+        "value": "26130"
+      },
+      {
+        "key": "duration",
+        "value": "3600"
+      },
+      {
+        "key": "showduration",
+        "value": "true"
+      },
+      {
+        "key": "speed",
+        "value": "20"
+      },
+      {
+        "key": "armor",
+        "value": "7"
+      },
+      {
+        "key": "healthGain",
+        "value": "2"
+      },
+      {
+        "key": "healthTicks",
+        "value": "6000"
+      },
+      {
+        "key": "manaGain",
+        "value": "8"
+      },
+      {
+        "key": "manaTicks",
+        "value": "6000"
+      },
+      {
+        "key": "absorbPercentEnergy",
+        "value": "8"
+      }
+    ]
+  }
+]
