@@ -1,3239 +1,3241 @@
-[
-  {
-    "id": "2321",
-    "article": "a",
-    "name": "giant smithhammer",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "This cyclopean hammer seems to be an awesome smithing tool."
-      },
-      {
-        "key": "weight",
-        "value": "6800"
-      },
-      {
-        "key": "defense",
-        "value": "14"
-      },
-      {
-        "key": "attack",
-        "value": "24"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      }
-    ]
-  },
-  {
-    "id": "2382",
-    "article": "a",
-    "name": "club",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "2500"
-      },
-      {
-        "key": "defense",
-        "value": "7"
-      },
-      {
-        "key": "attack",
-        "value": "7"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      }
-    ]
-  },
-  {
-    "id": "2391",
-    "article": "a",
-    "name": "war hammer",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "8500"
-      },
-      {
-        "key": "defense",
-        "value": "10"
-      },
-      {
-        "key": "attack",
-        "value": "45"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "2394",
-    "article": "a",
-    "name": "morning star",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "5400"
-      },
-      {
-        "key": "defense",
-        "value": "11"
-      },
-      {
-        "key": "attack",
-        "value": "25"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      }
-    ]
-  },
-  {
-    "id": "2398",
-    "article": "a",
-    "name": "mace",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "3800"
-      },
-      {
-        "key": "defense",
-        "value": "11"
-      },
-      {
-        "key": "attack",
-        "value": "16"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      }
-    ]
-  },
-  {
-    "id": "2401",
-    "article": "a",
-    "name": "staff",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "3800"
-      },
-      {
-        "key": "defense",
-        "value": "25"
-      },
-      {
-        "key": "attack",
-        "value": "10"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "2416",
-    "article": "a",
-    "name": "crowbar",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "It may come in handy sometime."
-      },
-      {
-        "key": "weight",
-        "value": "2100"
-      },
-      {
-        "key": "defense",
-        "value": "6"
-      },
-      {
-        "key": "attack",
-        "value": "5"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      }
-    ]
-  },
-  {
-    "id": "2417",
-    "article": "a",
-    "name": "battle hammer",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "6800"
-      },
-      {
-        "key": "defense",
-        "value": "14"
-      },
-      {
-        "key": "attack",
-        "value": "24"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      }
-    ]
-  },
-  {
-    "id": "2421",
-    "article": "a",
-    "name": "thunder hammer",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "It is blessed by the gods."
-      },
-      {
-        "key": "weight",
-        "value": "12500"
-      },
-      {
-        "key": "defense",
-        "value": "35"
-      },
-      {
-        "key": "attack",
-        "value": "49"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "extradef",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "id": "2422",
-    "article": "an",
-    "name": "iron hammer",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "6600"
-      },
-      {
-        "key": "defense",
-        "value": "10"
-      },
-      {
-        "key": "attack",
-        "value": "18"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      }
-    ]
-  },
-  {
-    "id": "2423",
-    "article": "a",
-    "name": "clerical mace",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "5800"
-      },
-      {
-        "key": "defense",
-        "value": "15"
-      },
-      {
-        "key": "attack",
-        "value": "28"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "extradef",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "id": "2424",
-    "article": "a",
-    "name": "silver mace",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "You feel an aura of protection."
-      },
-      {
-        "key": "weight",
-        "value": "6700"
-      },
-      {
-        "key": "defense",
-        "value": "30"
-      },
-      {
-        "key": "attack",
-        "value": "41"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "extradef",
-        "value": "2"
-      }
-    ]
-  },
-  {
-    "id": "2433",
-    "article": "an",
-    "name": "enchanted staff",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "Temporary magic powers enchant this staff."
-      },
-      {
-        "key": "weight",
-        "value": "3800"
-      },
-      {
-        "key": "defense",
-        "value": "45"
-      },
-      {
-        "key": "attack",
-        "value": "39"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "decayTo",
-        "value": "2401"
-      },
-      {
-        "key": "duration",
-        "value": "60"
-      }
-    ]
-  },
-  {
-    "id": "2434",
-    "article": "a",
-    "name": "dragon hammer",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "9700"
-      },
-      {
-        "key": "defense",
-        "value": "20"
-      },
-      {
-        "key": "attack",
-        "value": "32"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      }
-    ]
-  },
-  {
-    "id": "2436",
-    "article": "a",
-    "name": "skull staff",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "The staff longs for death."
-      },
-      {
-        "key": "weight",
-        "value": "1700"
-      },
-      {
-        "key": "defense",
-        "value": "12"
-      },
-      {
-        "key": "attack",
-        "value": "36"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "extradef",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "id": "2437",
-    "article": "a",
-    "name": "light mace",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "4100"
-      },
-      {
-        "key": "defense",
-        "value": "9"
-      },
-      {
-        "key": "attack",
-        "value": "14"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      }
-    ]
-  },
-  {
-    "id": "2439",
-    "article": "a",
-    "name": "daramian mace",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "6800"
-      },
-      {
-        "key": "defense",
-        "value": "12"
-      },
-      {
-        "key": "attack",
-        "value": "21"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      }
-    ]
-  },
-  {
-    "id": "2444",
-    "article": "a",
-    "name": "hammer of wrath",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "A giant is said to have forged this hammer to take revenge for the death of his brother."
-      },
-      {
-        "key": "weight",
-        "value": "7000"
-      },
-      {
-        "key": "defense",
-        "value": "12"
-      },
-      {
-        "key": "attack",
-        "value": "48"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "2445",
-    "article": "a",
-    "name": "crystal mace",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "8000"
-      },
-      {
-        "key": "defense",
-        "value": "16"
-      },
-      {
-        "key": "attack",
-        "value": "38"
-      },
-      {
-        "key": "extradef",
-        "value": "1"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      }
-    ]
-  },
-  {
-    "id": "2448",
-    "article": "a",
-    "name": "studded club",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "It has been reinforced with iron."
-      },
-      {
-        "key": "weight",
-        "value": "3500"
-      },
-      {
-        "key": "defense",
-        "value": "8"
-      },
-      {
-        "key": "attack",
-        "value": "9"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      }
-    ]
-  },
-  {
-    "id": "2449",
-    "article": "a",
-    "name": "bone club",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "It apparently originally belonged to some lesser undead."
-      },
-      {
-        "key": "weight",
-        "value": "3900"
-      },
-      {
-        "key": "defense",
-        "value": "8"
-      },
-      {
-        "key": "attack",
-        "value": "12"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      }
-    ]
-  },
-  {
-    "id": "2452",
-    "article": "a",
-    "name": "heavy mace",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "Its tip is made of extremely solid steel."
-      },
-      {
-        "key": "weight",
-        "value": "11000"
-      },
-      {
-        "key": "defense",
-        "value": "15"
-      },
-      {
-        "key": "attack",
-        "value": "49"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "2453",
-    "article": "an",
-    "name": "arcane staff",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "It is enchanted with ancient magic that renders a weak staff into a powerful weapon."
-      },
-      {
-        "key": "weight",
-        "value": "4000"
-      },
-      {
-        "key": "defense",
-        "value": "30"
-      },
-      {
-        "key": "attack",
-        "value": "50"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "3961",
-    "article": "a",
-    "name": "lich staff",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "A scent of death and decay sticks to this weapon."
-      },
-      {
-        "key": "weight",
-        "value": "4100"
-      },
-      {
-        "key": "defense",
-        "value": "30"
-      },
-      {
-        "key": "extradef",
-        "value": "2"
-      },
-      {
-        "key": "attack",
-        "value": "40"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      }
-    ]
-  },
-  {
-    "id": "3966",
-    "article": "a",
-    "name": "banana staff",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "5000"
-      },
-      {
-        "key": "defense",
-        "value": "15"
-      },
-      {
-        "key": "attack",
-        "value": "25"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "extradef",
-        "value": "2"
-      }
-    ]
-  },
-  {
-    "id": "7379",
-    "article": "a",
-    "name": "brutetamer's staff",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "3800"
-      },
-      {
-        "key": "defense",
-        "value": "15"
-      },
-      {
-        "key": "attack",
-        "value": "35"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "description",
-        "value": "Barbarian women are said to use it for conjuring beasts."
-      }
-    ]
-  },
-  {
-    "id": "7381",
-    "article": "a",
-    "name": "mammoth whopper",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "Made from a mammoth's legbones, it is one of the favoured weapons among barbarians."
-      },
-      {
-        "key": "weight",
-        "value": "4500"
-      },
-      {
-        "key": "defense",
-        "value": "15"
-      },
-      {
-        "key": "attack",
-        "value": "30"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      }
-    ]
-  },
-  {
-    "id": "7387",
-    "article": "a",
-    "name": "diamond sceptre",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "1500"
-      },
-      {
-        "key": "defense",
-        "value": "18"
-      },
-      {
-        "key": "attack",
-        "value": "34"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "description",
-        "value": "The beautiful jewel on the top of this sceptre is sharp enough to cut through glass."
-      }
-    ]
-  },
-  {
-    "id": "7392",
-    "article": "an",
-    "name": "orcish maul",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "5400"
-      },
-      {
-        "key": "defense",
-        "value": "18"
-      },
-      {
-        "key": "attack",
-        "value": "42"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "description",
-        "value": "This club is only granted to a greenhorn of the Svargrond arena."
-      }
-    ]
-  },
-  {
-    "id": "7409",
-    "article": "a",
-    "name": "northern star",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "4200"
-      },
-      {
-        "key": "defense",
-        "value": "15"
-      },
-      {
-        "key": "attack",
-        "value": "42"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "extradef",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "id": "7410",
-    "article": "a",
-    "name": "queen's sceptre",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "2300"
-      },
-      {
-        "key": "defense",
-        "value": "19"
-      },
-      {
-        "key": "attack",
-        "value": "43"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      }
-    ]
-  },
-  {
-    "id": "7414",
-    "article": "an",
-    "name": "abyss hammer",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "Floating stones form the tip of this strange weapon, held in place by unspeakable magic."
-      },
-      {
-        "key": "weight",
-        "value": "5500"
-      },
-      {
-        "key": "defense",
-        "value": "21"
-      },
-      {
-        "key": "attack",
-        "value": "47"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "7415",
-    "article": "a",
-    "name": "cranial basher",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "This club is only granted to a scrapper of the Svargrond arena."
-      },
-      {
-        "key": "weight",
-        "value": "7800"
-      },
-      {
-        "key": "defense",
-        "value": "20"
-      },
-      {
-        "key": "attack",
-        "value": "44"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "extradef",
-        "value": "-2"
-      }
-    ]
-  },
-  {
-    "id": "7421",
-    "article": "an",
-    "name": "onyx flail",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "2600"
-      },
-      {
-        "key": "defense",
-        "value": "18"
-      },
-      {
-        "key": "attack",
-        "value": "45"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      }
-    ]
-  },
-  {
-    "id": "7422",
-    "article": "a",
-    "name": "jade hammer",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "3200"
-      },
-      {
-        "key": "defense",
-        "value": "20"
-      },
-      {
-        "key": "attack",
-        "value": "46"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "extradef",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "id": "7423",
-    "article": "a",
-    "name": "skullcrusher",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "12000"
-      },
-      {
-        "key": "defense",
-        "value": "20"
-      },
-      {
-        "key": "attack",
-        "value": "51"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "7424",
-    "article": "a",
-    "name": "lunar staff",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "3800"
-      },
-      {
-        "key": "defense",
-        "value": "25"
-      },
-      {
-        "key": "attack",
-        "value": "40"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "7425",
-    "article": "a",
-    "name": "taurus mace",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "5100"
-      },
-      {
-        "key": "defense",
-        "value": "18"
-      },
-      {
-        "key": "attack",
-        "value": "30"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "7426",
-    "article": "an",
-    "name": "amber staff",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "3500"
-      },
-      {
-        "key": "defense",
-        "value": "25"
-      },
-      {
-        "key": "attack",
-        "value": "43"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "7427",
-    "article": "a",
-    "name": "chaos mace",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "Only those who have descended to the deepest depths may wield this hammer without it cursing them."
-      },
-      {
-        "key": "weight",
-        "value": "6300"
-      },
-      {
-        "key": "defense",
-        "value": "21"
-      },
-      {
-        "key": "attack",
-        "value": "44"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "7428",
-    "article": "a",
-    "name": "bonebreaker",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "This weapon has to be swung in both hands and requires a lot of strength."
-      },
-      {
-        "key": "weight",
-        "value": "12000"
-      },
-      {
-        "key": "defense",
-        "value": "15"
-      },
-      {
-        "key": "attack",
-        "value": "46"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "7429",
-    "article": "a",
-    "name": "blessed sceptre",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "This spectre is only granted to a warlord of the Svarground arena."
-      },
-      {
-        "key": "weight",
-        "value": "3900"
-      },
-      {
-        "key": "defense",
-        "value": "21"
-      },
-      {
-        "key": "attack",
-        "value": "47"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "extradef",
-        "value": "3"
-      }
-    ]
-  },
-  {
-    "id": "7430",
-    "article": "a",
-    "name": "dragonbone staff",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "Small flames are dancing around this strange weapon."
-      },
-      {
-        "key": "weight",
-        "value": "1800"
-      },
-      {
-        "key": "defense",
-        "value": "18"
-      },
-      {
-        "key": "attack",
-        "value": "35"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      }
-    ]
-  },
-  {
-    "id": "7431",
-    "article": "a",
-    "name": "demonbone",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "18000"
-      },
-      {
-        "key": "defense",
-        "value": "38"
-      },
-      {
-        "key": "extradef",
-        "value": "-2"
-      },
-      {
-        "key": "attack",
-        "value": "48"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      }
-    ]
-  },
-  {
-    "id": "7432",
-    "article": "a",
-    "name": "furry club",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "4200"
-      },
-      {
-        "key": "defense",
-        "value": "19"
-      },
-      {
-        "key": "attack",
-        "value": "31"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "extradef",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "id": "7437",
-    "article": "a",
-    "name": "sapphire hammer",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "A beautiful gem is embedded in this weapon."
-      },
-      {
-        "key": "weight",
-        "value": "2100"
-      },
-      {
-        "key": "defense",
-        "value": "18"
-      },
-      {
-        "key": "attack",
-        "value": "37"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      }
-    ]
-  },
-  {
-    "id": "7450",
-    "article": "a",
-    "name": "hammer of prophecy",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "11000"
-      },
-      {
-        "key": "defense",
-        "value": "35"
-      },
-      {
-        "key": "attack",
-        "value": "52"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "7451",
-    "article": "a",
-    "name": "shadow sceptre",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "4100"
-      },
-      {
-        "key": "defense",
-        "value": "17"
-      },
-      {
-        "key": "attack",
-        "value": "39"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      }
-    ]
-  },
-  {
-    "id": "7452",
-    "article": "a",
-    "name": "spiked squelcher",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "6800"
-      },
-      {
-        "key": "defense",
-        "value": "21"
-      },
-      {
-        "key": "attack",
-        "value": "41"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "7754",
-    "article": "a",
-    "name": "fiery clerical mace",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "5800"
-      },
-      {
-        "key": "defense",
-        "value": "15"
-      },
-      {
-        "key": "attack",
-        "value": "23"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "extradef",
-        "value": "1"
-      },
-      {
-        "key": "elementFire",
-        "value": "5"
-      },
-      {
-        "key": "charges",
-        "value": "1000"
-      },
-      {
-        "key": "showcharges",
-        "value": "true"
-      },
-      {
-        "key": "decayTo",
-        "value": "2423"
-      }
-    ]
-  },
-  {
-    "id": "7755",
-    "article": "a",
-    "name": "fiery crystal mace",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "8000"
-      },
-      {
-        "key": "defense",
-        "value": "16"
-      },
-      {
-        "key": "attack",
-        "value": "31"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "extradef",
-        "value": "1"
-      },
-      {
-        "key": "elementFire",
-        "value": "7"
-      },
-      {
-        "key": "charges",
-        "value": "1000"
-      },
-      {
-        "key": "showcharges",
-        "value": "true"
-      },
-      {
-        "key": "decayTo",
-        "value": "2445"
-      }
-    ]
-  },
-  {
-    "id": "7756",
-    "article": "a",
-    "name": "fiery cranial basher",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "7800"
-      },
-      {
-        "key": "defense",
-        "value": "20"
-      },
-      {
-        "key": "attack",
-        "value": "36"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "extradef",
-        "value": "-2"
-      },
-      {
-        "key": "elementFire",
-        "value": "8"
-      },
-      {
-        "key": "charges",
-        "value": "1000"
-      },
-      {
-        "key": "showcharges",
-        "value": "true"
-      },
-      {
-        "key": "decayTo",
-        "value": "7415"
-      }
-    ]
-  },
-  {
-    "id": "7757",
-    "article": "a",
-    "name": "fiery orcish maul",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "5400"
-      },
-      {
-        "key": "defense",
-        "value": "18"
-      },
-      {
-        "key": "attack",
-        "value": "35"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "elementFire",
-        "value": "7"
-      },
-      {
-        "key": "charges",
-        "value": "1000"
-      },
-      {
-        "key": "showcharges",
-        "value": "true"
-      },
-      {
-        "key": "decayTo",
-        "value": "7392"
-      }
-    ]
-  },
-  {
-    "id": "7758",
-    "article": "a",
-    "name": "fiery war hammer",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "8500"
-      },
-      {
-        "key": "defense",
-        "value": "10"
-      },
-      {
-        "key": "attack",
-        "value": "36"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "elementFire",
-        "value": "9"
-      },
-      {
-        "key": "charges",
-        "value": "1000"
-      },
-      {
-        "key": "showcharges",
-        "value": "true"
-      },
-      {
-        "key": "decayTo",
-        "value": "2391"
-      }
-    ]
-  },
-  {
-    "id": "7773",
-    "article": "an",
-    "name": "icy clerical mace",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "5800"
-      },
-      {
-        "key": "defense",
-        "value": "15"
-      },
-      {
-        "key": "attack",
-        "value": "23"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "extradef",
-        "value": "1"
-      },
-      {
-        "key": "elementIce",
-        "value": "5"
-      },
-      {
-        "key": "charges",
-        "value": "1000"
-      },
-      {
-        "key": "showcharges",
-        "value": "true"
-      },
-      {
-        "key": "decayTo",
-        "value": "2423"
-      }
-    ]
-  },
-  {
-    "id": "7774",
-    "article": "an",
-    "name": "icy crystal mace",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "8000"
-      },
-      {
-        "key": "defense",
-        "value": "16"
-      },
-      {
-        "key": "attack",
-        "value": "31"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "extradef",
-        "value": "1"
-      },
-      {
-        "key": "elementIce",
-        "value": "7"
-      },
-      {
-        "key": "charges",
-        "value": "1000"
-      },
-      {
-        "key": "showcharges",
-        "value": "true"
-      },
-      {
-        "key": "decayTo",
-        "value": "2445"
-      }
-    ]
-  },
-  {
-    "id": "7775",
-    "article": "an",
-    "name": "icy cranial basher",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "7800"
-      },
-      {
-        "key": "defense",
-        "value": "20"
-      },
-      {
-        "key": "attack",
-        "value": "36"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "extradef",
-        "value": "-2"
-      },
-      {
-        "key": "elementIce",
-        "value": "8"
-      },
-      {
-        "key": "charges",
-        "value": "1000"
-      },
-      {
-        "key": "showcharges",
-        "value": "true"
-      },
-      {
-        "key": "decayTo",
-        "value": "7415"
-      }
-    ]
-  },
-  {
-    "id": "7776",
-    "article": "an",
-    "name": "icy orcish maul",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "5400"
-      },
-      {
-        "key": "defense",
-        "value": "18"
-      },
-      {
-        "key": "attack",
-        "value": "35"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "elementIce",
-        "value": "7"
-      },
-      {
-        "key": "charges",
-        "value": "1000"
-      },
-      {
-        "key": "showcharges",
-        "value": "true"
-      },
-      {
-        "key": "decayTo",
-        "value": "7392"
-      }
-    ]
-  },
-  {
-    "id": "7777",
-    "article": "an",
-    "name": "icy war hammer",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "8500"
-      },
-      {
-        "key": "defense",
-        "value": "10"
-      },
-      {
-        "key": "attack",
-        "value": "36"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "elementIce",
-        "value": "9"
-      },
-      {
-        "key": "charges",
-        "value": "1000"
-      },
-      {
-        "key": "showcharges",
-        "value": "true"
-      },
-      {
-        "key": "decayTo",
-        "value": "2391"
-      }
-    ]
-  },
-  {
-    "id": "7864",
-    "article": "an",
-    "name": "earth clerical mace",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "5800"
-      },
-      {
-        "key": "defense",
-        "value": "15"
-      },
-      {
-        "key": "attack",
-        "value": "23"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "extradef",
-        "value": "1"
-      },
-      {
-        "key": "elementEarth",
-        "value": "5"
-      },
-      {
-        "key": "charges",
-        "value": "1000"
-      },
-      {
-        "key": "showcharges",
-        "value": "true"
-      },
-      {
-        "key": "decayTo",
-        "value": "2423"
-      }
-    ]
-  },
-  {
-    "id": "7865",
-    "article": "an",
-    "name": "earth crystal mace",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "8000"
-      },
-      {
-        "key": "defense",
-        "value": "16"
-      },
-      {
-        "key": "attack",
-        "value": "31"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "extradef",
-        "value": "1"
-      },
-      {
-        "key": "elementEarth",
-        "value": "7"
-      },
-      {
-        "key": "charges",
-        "value": "1000"
-      },
-      {
-        "key": "showcharges",
-        "value": "true"
-      },
-      {
-        "key": "decayTo",
-        "value": "2445"
-      }
-    ]
-  },
-  {
-    "id": "7866",
-    "article": "an",
-    "name": "earth cranial basher",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "7800"
-      },
-      {
-        "key": "defense",
-        "value": "20"
-      },
-      {
-        "key": "attack",
-        "value": "36"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "extradef",
-        "value": "-2"
-      },
-      {
-        "key": "elementEarth",
-        "value": "8"
-      },
-      {
-        "key": "charges",
-        "value": "1000"
-      },
-      {
-        "key": "showcharges",
-        "value": "true"
-      },
-      {
-        "key": "decayTo",
-        "value": "7415"
-      }
-    ]
-  },
-  {
-    "id": "7867",
-    "article": "an",
-    "name": "earth orcish maul",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "5400"
-      },
-      {
-        "key": "defense",
-        "value": "18"
-      },
-      {
-        "key": "attack",
-        "value": "35"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "elementEarth",
-        "value": "7"
-      },
-      {
-        "key": "charges",
-        "value": "1000"
-      },
-      {
-        "key": "showcharges",
-        "value": "true"
-      },
-      {
-        "key": "decayTo",
-        "value": "7392"
-      }
-    ]
-  },
-  {
-    "id": "7868",
-    "article": "an",
-    "name": "earth war hammer",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "8500"
-      },
-      {
-        "key": "defense",
-        "value": "10"
-      },
-      {
-        "key": "attack",
-        "value": "36"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "elementEarth",
-        "value": "9"
-      },
-      {
-        "key": "charges",
-        "value": "1000"
-      },
-      {
-        "key": "showcharges",
-        "value": "true"
-      },
-      {
-        "key": "decayTo",
-        "value": "2391"
-      }
-    ]
-  },
-  {
-    "id": "7879",
-    "article": "an",
-    "name": "energy clerical mace",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "5800"
-      },
-      {
-        "key": "defense",
-        "value": "15"
-      },
-      {
-        "key": "attack",
-        "value": "23"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "extradef",
-        "value": "1"
-      },
-      {
-        "key": "elementEnergy",
-        "value": "5"
-      },
-      {
-        "key": "charges",
-        "value": "1000"
-      },
-      {
-        "key": "showcharges",
-        "value": "true"
-      },
-      {
-        "key": "decayTo",
-        "value": "2423"
-      }
-    ]
-  },
-  {
-    "id": "7880",
-    "article": "an",
-    "name": "energy crystal mace",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "8000"
-      },
-      {
-        "key": "defense",
-        "value": "16"
-      },
-      {
-        "key": "attack",
-        "value": "31"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "extradef",
-        "value": "1"
-      },
-      {
-        "key": "elementEnergy",
-        "value": "7"
-      },
-      {
-        "key": "charges",
-        "value": "1000"
-      },
-      {
-        "key": "showcharges",
-        "value": "true"
-      },
-      {
-        "key": "decayTo",
-        "value": "2445"
-      }
-    ]
-  },
-  {
-    "id": "7881",
-    "article": "an",
-    "name": "energy cranial basher",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "7800"
-      },
-      {
-        "key": "defense",
-        "value": "20"
-      },
-      {
-        "key": "attack",
-        "value": "36"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "extradef",
-        "value": "-2"
-      },
-      {
-        "key": "elementEnergy",
-        "value": "8"
-      },
-      {
-        "key": "charges",
-        "value": "1000"
-      },
-      {
-        "key": "showcharges",
-        "value": "true"
-      },
-      {
-        "key": "decayTo",
-        "value": "7415"
-      }
-    ]
-  },
-  {
-    "id": "7882",
-    "article": "an",
-    "name": "energy orcish maul",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "5400"
-      },
-      {
-        "key": "defense",
-        "value": "18"
-      },
-      {
-        "key": "attack",
-        "value": "35"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "elementEnergy",
-        "value": "7"
-      },
-      {
-        "key": "charges",
-        "value": "1000"
-      },
-      {
-        "key": "showcharges",
-        "value": "true"
-      },
-      {
-        "key": "decayTo",
-        "value": "7392"
-      }
-    ]
-  },
-  {
-    "id": "7883",
-    "article": "an",
-    "name": "energy war hammer",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "8500"
-      },
-      {
-        "key": "defense",
-        "value": "10"
-      },
-      {
-        "key": "attack",
-        "value": "36"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "elementEnergy",
-        "value": "9"
-      },
-      {
-        "key": "charges",
-        "value": "1000"
-      },
-      {
-        "key": "showcharges",
-        "value": "true"
-      },
-      {
-        "key": "decayTo",
-        "value": "2391"
-      }
-    ]
-  },
-  {
-    "id": "8927",
-    "article": "a",
-    "name": "dark trinity mace",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "9900"
-      },
-      {
-        "key": "defense",
-        "value": "32"
-      },
-      {
-        "key": "attack",
-        "value": "51"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "extradef",
-        "value": "-1"
-      }
-    ]
-  },
-  {
-    "id": "8928",
-    "article": "an",
-    "name": "obsidian truncheon",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "6500"
-      },
-      {
-        "key": "defense",
-        "value": "30"
-      },
-      {
-        "key": "attack",
-        "value": "50"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "extradef",
-        "value": "2"
-      }
-    ]
-  },
-  {
-    "id": "8929",
-    "name": "the stomper",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "11500"
-      },
-      {
-        "key": "defense",
-        "value": "20"
-      },
-      {
-        "key": "attack",
-        "value": "51"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "10290",
-    "name": "glutton's mace",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "It would be an awesome weapon if the handle weren't that greasy."
-      },
-      {
-        "key": "weight",
-        "value": "1300"
-      },
-      {
-        "key": "defense",
-        "value": "10"
-      },
-      {
-        "key": "attack",
-        "value": "16"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      }
-    ]
-  },
-  {
-    "id": "10293",
-    "article": "a",
-    "name": "stale bread of ancientness",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "This bread is so old that it has become unbreakable and a formidable weapon."
-      },
-      {
-        "key": "weight",
-        "value": "500"
-      },
-      {
-        "key": "defense",
-        "value": "8"
-      },
-      {
-        "key": "attack",
-        "value": "18"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      }
-    ]
-  },
-  {
-    "id": "10302",
-    "article": "a",
-    "name": "club of the fury",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "It's ready to unleash a fury's wrath on its enemies."
-      },
-      {
-        "key": "weight",
-        "value": "500"
-      },
-      {
-        "key": "defense",
-        "value": "8"
-      },
-      {
-        "key": "attack",
-        "value": "16"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      }
-    ]
-  },
-  {
-    "id": "11308",
-    "article": "a",
-    "name": "drachaku",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "6000"
-      },
-      {
-        "key": "defense",
-        "value": "25"
-      },
-      {
-        "key": "attack",
-        "value": "46"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "12648",
-    "article": "a",
-    "name": "snake god's sceptre",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "12000"
-      },
-      {
-        "key": "defense",
-        "value": "29"
-      },
-      {
-        "key": "attack",
-        "value": "48"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "extradef",
-        "value": "3"
-      }
-    ]
-  },
-  {
-    "id": "14334",
-    "article": "a",
-    "name": "giant smithhammer",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "This cyclopean hammer seems to be an awesome smithing tool."
-      },
-      {
-        "key": "weight",
-        "value": "6800"
-      },
-      {
-        "key": "attack",
-        "value": "24"
-      },
-      {
-        "key": "defense",
-        "value": "14"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      }
-    ]
-  },
-  {
-    "id": "15400",
-    "article": "a",
-    "name": "deepling staff",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "8800"
-      },
-      {
-        "key": "defense",
-        "value": "23"
-      },
-      {
-        "key": "attack",
-        "value": "43"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "15414",
-    "article": "an",
-    "name": "ornate mace",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "14900"
-      },
-      {
-        "key": "attack",
-        "value": "49"
-      },
-      {
-        "key": "defense",
-        "value": "24"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      }
-    ]
-  },
-  {
-    "id": "15647",
-    "article": "a",
-    "name": "deepling squelcher",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "8900"
-      },
-      {
-        "key": "attack",
-        "value": "44"
-      },
-      {
-        "key": "defense",
-        "value": "28"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      }
-    ]
-  },
-  {
-    "id": "18452",
-    "article": "a",
-    "name": "mycological mace",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "5900"
-      },
-      {
-        "key": "defense",
-        "value": "31"
-      },
-      {
-        "key": "attack",
-        "value": "50"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "extradef",
-        "value": "3"
-      },
-      {
-        "key": "skillClub",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "id": "20093",
-    "article": "a",
-    "name": "life preserver",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "4600"
-      },
-      {
-        "key": "attack",
-        "value": "27"
-      },
-      {
-        "key": "defense",
-        "value": "19"
-      },
-      {
-        "key": "extradef",
-        "value": "2"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      }
-    ]
-  },
-  {
-    "id": "20104",
-    "article": "a",
-    "name": "swampling club",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "3100"
-      },
-      {
-        "key": "attack",
-        "value": "17"
-      },
-      {
-        "key": "defense",
-        "value": "12"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      }
-    ]
-  },
-  {
-    "id": "20108",
-    "article": "a",
-    "name": "pair of iron fists",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "4500"
-      },
-      {
-        "key": "attack",
-        "value": "45"
-      },
-      {
-        "key": "defense",
-        "value": "17"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "20139",
-    "article": "a",
-    "name": "spiky club",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "3900"
-      },
-      {
-        "key": "attack",
-        "value": "31"
-      },
-      {
-        "key": "defense",
-        "value": "14"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      }
-    ]
-  },
-  {
-    "id": "22410",
-    "article": "a",
-    "name": "crude umbral mace",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "9000"
-      },
-      {
-        "key": "defense",
-        "value": "22"
-      },
-      {
-        "key": "attack",
-        "value": "48"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "extradef",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "id": "22411",
-    "article": "an",
-    "name": "umbral mace",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "8500"
-      },
-      {
-        "key": "defense",
-        "value": "26"
-      },
-      {
-        "key": "attack",
-        "value": "50"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "extradef",
-        "value": "2"
-      }
-    ]
-  },
-  {
-    "id": "22412",
-    "article": "an",
-    "name": "umbral master mace",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "8000"
-      },
-      {
-        "key": "defense",
-        "value": "30"
-      },
-      {
-        "key": "attack",
-        "value": "52"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "extradef",
-        "value": "3"
-      },
-      {
-        "key": "skillClub",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "id": "22413",
-    "article": "a",
-    "name": "crude umbral hammer",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "17000"
-      },
-      {
-        "key": "defense",
-        "value": "27"
-      },
-      {
-        "key": "attack",
-        "value": "51"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "22414",
-    "article": "an",
-    "name": "umbral hammer",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "16500"
-      },
-      {
-        "key": "defense",
-        "value": "30"
-      },
-      {
-        "key": "attack",
-        "value": "53"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "22415",
-    "article": "an",
-    "name": "umbral master hammer",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "16000"
-      },
-      {
-        "key": "defense",
-        "value": "34"
-      },
-      {
-        "key": "attack",
-        "value": "55"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "skillClub",
-        "value": "3"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "23542",
-    "article": "a",
-    "name": "metal bat",
-    "attributes": [
-      {
-        "key": "defense",
-        "value": "20"
-      },
-      {
-        "key": "attack",
-        "value": "44"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "weight",
-        "value": "5100"
-      }
-    ]
-  },
-  {
-    "id": "23543",
-    "article": "a",
-    "name": "glooth whip",
-    "attributes": [
-      {
-        "key": "defense",
-        "value": "19"
-      },
-      {
-        "key": "attack",
-        "value": "33"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "weight",
-        "value": "3200"
-      }
-    ]
-  },
-  {
-    "id": "23544",
-    "article": "a",
-    "name": "moohtant cudgel",
-    "attributes": [
-      {
-        "key": "defense",
-        "value": "21"
-      },
-      {
-        "key": "attack",
-        "value": "47"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "weight",
-        "value": "8500"
-      }
-    ]
-  },
-  {
-    "id": "23549",
-    "article": "a",
-    "name": "glooth club",
-    "attributes": [
-      {
-        "key": "defense",
-        "value": "1"
-      },
-      {
-        "key": "attack",
-        "value": "39"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "elementEarth",
-        "value": "26"
-      },
-      {
-        "key": "charges",
-        "value": "2"
-      },
-      {
-        "key": "weight",
-        "value": "1900"
-      }
-    ]
-  },
-  {
-    "id": "23590",
-    "article": "a",
-    "name": "one hit wonder",
-    "attributes": [
-      {
-        "key": "defense",
-        "value": "22"
-      },
-      {
-        "key": "attack",
-        "value": "49"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "weight",
-        "value": "9600"
-      }
-    ]
-  },
-  {
-    "id": "24827",
-    "article": "an",
-    "name": "ogre klubba",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "7900"
-      },
-      {
-        "key": "defense",
-        "value": "25"
-      },
-      {
-        "key": "attack",
-        "value": "45"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "25418",
-    "article": "a",
-    "name": "maimer",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "7700"
-      },
-      {
-        "key": "defense",
-        "value": "32"
-      },
-      {
-        "key": "attack",
-        "value": "51"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      }
-    ]
-  },
-  {
-    "id": "25420",
-    "name": "Ferumbras' staff",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "2900"
-      },
-      {
-        "key": "defense",
-        "value": "30"
-      },
-      {
-        "key": "attack",
-        "value": "20"
-      },
-      {
-        "key": "description",
-        "value": "It is made of platinum and emeralds and topped by a large F made of gold."
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      }
-    ]
-  },
-  {
-    "id": "25883",
-    "article": "a",
-    "name": "mace of mayhem",
-    "attributes": [
-      {
-        "key": "defense",
-        "value": "30"
-      },
-      {
-        "key": "attack",
-        "value": "50"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "weight",
-        "value": "5000"
-      }
-    ]
-  },
-  {
-    "id": "25884",
-    "article": "a",
-    "name": "hammer of mayhem",
-    "attributes": [
-      {
-        "key": "defense",
-        "value": "30"
-      },
-      {
-        "key": "attack",
-        "value": "53"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "weight",
-        "value": "7000"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "fromid": "25935",
-    "toid": "25938",
-    "article": "a",
-    "name": "mace of remedy",
-    "attributes": [
-      {
-        "key": "defense",
-        "value": "30"
-      },
-      {
-        "key": "attack",
-        "value": "50"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "weight",
-        "value": "5000"
-      }
-    ]
-  },
-  {
-    "fromid": "25939",
-    "toid": "25942",
-    "article": "a",
-    "name": "hammer of remedy",
-    "attributes": [
-      {
-        "key": "defense",
-        "value": "30"
-      },
-      {
-        "key": "attack",
-        "value": "53"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "weight",
-        "value": "7000"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "fromid": "25975",
-    "toid": "25978",
-    "article": "a",
-    "name": "mace of carving",
-    "attributes": [
-      {
-        "key": "defense",
-        "value": "30"
-      },
-      {
-        "key": "attack",
-        "value": "50"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "weight",
-        "value": "5000"
-      }
-    ]
-  },
-  {
-    "fromid": "25979",
-    "toid": "25982",
-    "article": "a",
-    "name": "hammer of carving",
-    "attributes": [
-      {
-        "key": "defense",
-        "value": "30"
-      },
-      {
-        "key": "attack",
-        "value": "53"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      },
-      {
-        "key": "weight",
-        "value": "7000"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "30109",
-    "article": "a",
-    "name": "mace of destruction",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "5000"
-      },
-      {
-        "key": "defense",
-        "value": "32"
-      },
-      {
-        "key": "attack",
-        "value": "50"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      }
-    ]
-  },
-  {
-    "id": "30110",
-    "article": "a",
-    "name": "hammer of destruction",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "7000"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "defense",
-        "value": "29"
-      },
-      {
-        "key": "attack",
-        "value": "53"
-      },
-      {
-        "key": "weaponType",
-        "value": "club"
-      }
-    ]
-  }
-]
+{
+  "items": [
+    {
+      "id": "2321",
+      "article": "a",
+      "name": "giant smithhammer",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "This cyclopean hammer seems to be an awesome smithing tool."
+        },
+        {
+          "key": "weight",
+          "value": "6800"
+        },
+        {
+          "key": "defense",
+          "value": "14"
+        },
+        {
+          "key": "attack",
+          "value": "24"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        }
+      ]
+    },
+    {
+      "id": "2382",
+      "article": "a",
+      "name": "club",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "2500"
+        },
+        {
+          "key": "defense",
+          "value": "7"
+        },
+        {
+          "key": "attack",
+          "value": "7"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        }
+      ]
+    },
+    {
+      "id": "2391",
+      "article": "a",
+      "name": "war hammer",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "8500"
+        },
+        {
+          "key": "defense",
+          "value": "10"
+        },
+        {
+          "key": "attack",
+          "value": "45"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "2394",
+      "article": "a",
+      "name": "morning star",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5400"
+        },
+        {
+          "key": "defense",
+          "value": "11"
+        },
+        {
+          "key": "attack",
+          "value": "25"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        }
+      ]
+    },
+    {
+      "id": "2398",
+      "article": "a",
+      "name": "mace",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "3800"
+        },
+        {
+          "key": "defense",
+          "value": "11"
+        },
+        {
+          "key": "attack",
+          "value": "16"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        }
+      ]
+    },
+    {
+      "id": "2401",
+      "article": "a",
+      "name": "staff",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "3800"
+        },
+        {
+          "key": "defense",
+          "value": "25"
+        },
+        {
+          "key": "attack",
+          "value": "10"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "2416",
+      "article": "a",
+      "name": "crowbar",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "It may come in handy sometime."
+        },
+        {
+          "key": "weight",
+          "value": "2100"
+        },
+        {
+          "key": "defense",
+          "value": "6"
+        },
+        {
+          "key": "attack",
+          "value": "5"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        }
+      ]
+    },
+    {
+      "id": "2417",
+      "article": "a",
+      "name": "battle hammer",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "6800"
+        },
+        {
+          "key": "defense",
+          "value": "14"
+        },
+        {
+          "key": "attack",
+          "value": "24"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        }
+      ]
+    },
+    {
+      "id": "2421",
+      "article": "a",
+      "name": "thunder hammer",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "It is blessed by the gods."
+        },
+        {
+          "key": "weight",
+          "value": "12500"
+        },
+        {
+          "key": "defense",
+          "value": "35"
+        },
+        {
+          "key": "attack",
+          "value": "49"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "extradef",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "id": "2422",
+      "article": "an",
+      "name": "iron hammer",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "6600"
+        },
+        {
+          "key": "defense",
+          "value": "10"
+        },
+        {
+          "key": "attack",
+          "value": "18"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        }
+      ]
+    },
+    {
+      "id": "2423",
+      "article": "a",
+      "name": "clerical mace",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5800"
+        },
+        {
+          "key": "defense",
+          "value": "15"
+        },
+        {
+          "key": "attack",
+          "value": "28"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "extradef",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "id": "2424",
+      "article": "a",
+      "name": "silver mace",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "You feel an aura of protection."
+        },
+        {
+          "key": "weight",
+          "value": "6700"
+        },
+        {
+          "key": "defense",
+          "value": "30"
+        },
+        {
+          "key": "attack",
+          "value": "41"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "extradef",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "id": "2433",
+      "article": "an",
+      "name": "enchanted staff",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "Temporary magic powers enchant this staff."
+        },
+        {
+          "key": "weight",
+          "value": "3800"
+        },
+        {
+          "key": "defense",
+          "value": "45"
+        },
+        {
+          "key": "attack",
+          "value": "39"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "decayTo",
+          "value": "2401"
+        },
+        {
+          "key": "duration",
+          "value": "60"
+        }
+      ]
+    },
+    {
+      "id": "2434",
+      "article": "a",
+      "name": "dragon hammer",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "9700"
+        },
+        {
+          "key": "defense",
+          "value": "20"
+        },
+        {
+          "key": "attack",
+          "value": "32"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        }
+      ]
+    },
+    {
+      "id": "2436",
+      "article": "a",
+      "name": "skull staff",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "The staff longs for death."
+        },
+        {
+          "key": "weight",
+          "value": "1700"
+        },
+        {
+          "key": "defense",
+          "value": "12"
+        },
+        {
+          "key": "attack",
+          "value": "36"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "extradef",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "id": "2437",
+      "article": "a",
+      "name": "light mace",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "4100"
+        },
+        {
+          "key": "defense",
+          "value": "9"
+        },
+        {
+          "key": "attack",
+          "value": "14"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        }
+      ]
+    },
+    {
+      "id": "2439",
+      "article": "a",
+      "name": "daramian mace",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "6800"
+        },
+        {
+          "key": "defense",
+          "value": "12"
+        },
+        {
+          "key": "attack",
+          "value": "21"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        }
+      ]
+    },
+    {
+      "id": "2444",
+      "article": "a",
+      "name": "hammer of wrath",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "A giant is said to have forged this hammer to take revenge for the death of his brother."
+        },
+        {
+          "key": "weight",
+          "value": "7000"
+        },
+        {
+          "key": "defense",
+          "value": "12"
+        },
+        {
+          "key": "attack",
+          "value": "48"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "2445",
+      "article": "a",
+      "name": "crystal mace",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "8000"
+        },
+        {
+          "key": "defense",
+          "value": "16"
+        },
+        {
+          "key": "attack",
+          "value": "38"
+        },
+        {
+          "key": "extradef",
+          "value": "1"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        }
+      ]
+    },
+    {
+      "id": "2448",
+      "article": "a",
+      "name": "studded club",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "It has been reinforced with iron."
+        },
+        {
+          "key": "weight",
+          "value": "3500"
+        },
+        {
+          "key": "defense",
+          "value": "8"
+        },
+        {
+          "key": "attack",
+          "value": "9"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        }
+      ]
+    },
+    {
+      "id": "2449",
+      "article": "a",
+      "name": "bone club",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "It apparently originally belonged to some lesser undead."
+        },
+        {
+          "key": "weight",
+          "value": "3900"
+        },
+        {
+          "key": "defense",
+          "value": "8"
+        },
+        {
+          "key": "attack",
+          "value": "12"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        }
+      ]
+    },
+    {
+      "id": "2452",
+      "article": "a",
+      "name": "heavy mace",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "Its tip is made of extremely solid steel."
+        },
+        {
+          "key": "weight",
+          "value": "11000"
+        },
+        {
+          "key": "defense",
+          "value": "15"
+        },
+        {
+          "key": "attack",
+          "value": "49"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "2453",
+      "article": "an",
+      "name": "arcane staff",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "It is enchanted with ancient magic that renders a weak staff into a powerful weapon."
+        },
+        {
+          "key": "weight",
+          "value": "4000"
+        },
+        {
+          "key": "defense",
+          "value": "30"
+        },
+        {
+          "key": "attack",
+          "value": "50"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "3961",
+      "article": "a",
+      "name": "lich staff",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "A scent of death and decay sticks to this weapon."
+        },
+        {
+          "key": "weight",
+          "value": "4100"
+        },
+        {
+          "key": "defense",
+          "value": "30"
+        },
+        {
+          "key": "extradef",
+          "value": "2"
+        },
+        {
+          "key": "attack",
+          "value": "40"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        }
+      ]
+    },
+    {
+      "id": "3966",
+      "article": "a",
+      "name": "banana staff",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5000"
+        },
+        {
+          "key": "defense",
+          "value": "15"
+        },
+        {
+          "key": "attack",
+          "value": "25"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "extradef",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "id": "7379",
+      "article": "a",
+      "name": "brutetamer's staff",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "3800"
+        },
+        {
+          "key": "defense",
+          "value": "15"
+        },
+        {
+          "key": "attack",
+          "value": "35"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "description",
+          "value": "Barbarian women are said to use it for conjuring beasts."
+        }
+      ]
+    },
+    {
+      "id": "7381",
+      "article": "a",
+      "name": "mammoth whopper",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "Made from a mammoth's legbones, it is one of the favoured weapons among barbarians."
+        },
+        {
+          "key": "weight",
+          "value": "4500"
+        },
+        {
+          "key": "defense",
+          "value": "15"
+        },
+        {
+          "key": "attack",
+          "value": "30"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        }
+      ]
+    },
+    {
+      "id": "7387",
+      "article": "a",
+      "name": "diamond sceptre",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "1500"
+        },
+        {
+          "key": "defense",
+          "value": "18"
+        },
+        {
+          "key": "attack",
+          "value": "34"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "description",
+          "value": "The beautiful jewel on the top of this sceptre is sharp enough to cut through glass."
+        }
+      ]
+    },
+    {
+      "id": "7392",
+      "article": "an",
+      "name": "orcish maul",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5400"
+        },
+        {
+          "key": "defense",
+          "value": "18"
+        },
+        {
+          "key": "attack",
+          "value": "42"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "description",
+          "value": "This club is only granted to a greenhorn of the Svargrond arena."
+        }
+      ]
+    },
+    {
+      "id": "7409",
+      "article": "a",
+      "name": "northern star",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "4200"
+        },
+        {
+          "key": "defense",
+          "value": "15"
+        },
+        {
+          "key": "attack",
+          "value": "42"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "extradef",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "id": "7410",
+      "article": "a",
+      "name": "queen's sceptre",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "2300"
+        },
+        {
+          "key": "defense",
+          "value": "19"
+        },
+        {
+          "key": "attack",
+          "value": "43"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        }
+      ]
+    },
+    {
+      "id": "7414",
+      "article": "an",
+      "name": "abyss hammer",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "Floating stones form the tip of this strange weapon, held in place by unspeakable magic."
+        },
+        {
+          "key": "weight",
+          "value": "5500"
+        },
+        {
+          "key": "defense",
+          "value": "21"
+        },
+        {
+          "key": "attack",
+          "value": "47"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "7415",
+      "article": "a",
+      "name": "cranial basher",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "This club is only granted to a scrapper of the Svargrond arena."
+        },
+        {
+          "key": "weight",
+          "value": "7800"
+        },
+        {
+          "key": "defense",
+          "value": "20"
+        },
+        {
+          "key": "attack",
+          "value": "44"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "extradef",
+          "value": "-2"
+        }
+      ]
+    },
+    {
+      "id": "7421",
+      "article": "an",
+      "name": "onyx flail",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "2600"
+        },
+        {
+          "key": "defense",
+          "value": "18"
+        },
+        {
+          "key": "attack",
+          "value": "45"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        }
+      ]
+    },
+    {
+      "id": "7422",
+      "article": "a",
+      "name": "jade hammer",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "3200"
+        },
+        {
+          "key": "defense",
+          "value": "20"
+        },
+        {
+          "key": "attack",
+          "value": "46"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "extradef",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "id": "7423",
+      "article": "a",
+      "name": "skullcrusher",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "12000"
+        },
+        {
+          "key": "defense",
+          "value": "20"
+        },
+        {
+          "key": "attack",
+          "value": "51"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "7424",
+      "article": "a",
+      "name": "lunar staff",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "3800"
+        },
+        {
+          "key": "defense",
+          "value": "25"
+        },
+        {
+          "key": "attack",
+          "value": "40"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "7425",
+      "article": "a",
+      "name": "taurus mace",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5100"
+        },
+        {
+          "key": "defense",
+          "value": "18"
+        },
+        {
+          "key": "attack",
+          "value": "30"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "7426",
+      "article": "an",
+      "name": "amber staff",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "3500"
+        },
+        {
+          "key": "defense",
+          "value": "25"
+        },
+        {
+          "key": "attack",
+          "value": "43"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "7427",
+      "article": "a",
+      "name": "chaos mace",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "Only those who have descended to the deepest depths may wield this hammer without it cursing them."
+        },
+        {
+          "key": "weight",
+          "value": "6300"
+        },
+        {
+          "key": "defense",
+          "value": "21"
+        },
+        {
+          "key": "attack",
+          "value": "44"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "7428",
+      "article": "a",
+      "name": "bonebreaker",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "This weapon has to be swung in both hands and requires a lot of strength."
+        },
+        {
+          "key": "weight",
+          "value": "12000"
+        },
+        {
+          "key": "defense",
+          "value": "15"
+        },
+        {
+          "key": "attack",
+          "value": "46"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "7429",
+      "article": "a",
+      "name": "blessed sceptre",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "This spectre is only granted to a warlord of the Svarground arena."
+        },
+        {
+          "key": "weight",
+          "value": "3900"
+        },
+        {
+          "key": "defense",
+          "value": "21"
+        },
+        {
+          "key": "attack",
+          "value": "47"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "extradef",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "id": "7430",
+      "article": "a",
+      "name": "dragonbone staff",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "Small flames are dancing around this strange weapon."
+        },
+        {
+          "key": "weight",
+          "value": "1800"
+        },
+        {
+          "key": "defense",
+          "value": "18"
+        },
+        {
+          "key": "attack",
+          "value": "35"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        }
+      ]
+    },
+    {
+      "id": "7431",
+      "article": "a",
+      "name": "demonbone",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "18000"
+        },
+        {
+          "key": "defense",
+          "value": "38"
+        },
+        {
+          "key": "extradef",
+          "value": "-2"
+        },
+        {
+          "key": "attack",
+          "value": "48"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        }
+      ]
+    },
+    {
+      "id": "7432",
+      "article": "a",
+      "name": "furry club",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "4200"
+        },
+        {
+          "key": "defense",
+          "value": "19"
+        },
+        {
+          "key": "attack",
+          "value": "31"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "extradef",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "id": "7437",
+      "article": "a",
+      "name": "sapphire hammer",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "A beautiful gem is embedded in this weapon."
+        },
+        {
+          "key": "weight",
+          "value": "2100"
+        },
+        {
+          "key": "defense",
+          "value": "18"
+        },
+        {
+          "key": "attack",
+          "value": "37"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        }
+      ]
+    },
+    {
+      "id": "7450",
+      "article": "a",
+      "name": "hammer of prophecy",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "11000"
+        },
+        {
+          "key": "defense",
+          "value": "35"
+        },
+        {
+          "key": "attack",
+          "value": "52"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "7451",
+      "article": "a",
+      "name": "shadow sceptre",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "4100"
+        },
+        {
+          "key": "defense",
+          "value": "17"
+        },
+        {
+          "key": "attack",
+          "value": "39"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        }
+      ]
+    },
+    {
+      "id": "7452",
+      "article": "a",
+      "name": "spiked squelcher",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "6800"
+        },
+        {
+          "key": "defense",
+          "value": "21"
+        },
+        {
+          "key": "attack",
+          "value": "41"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "7754",
+      "article": "a",
+      "name": "fiery clerical mace",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5800"
+        },
+        {
+          "key": "defense",
+          "value": "15"
+        },
+        {
+          "key": "attack",
+          "value": "23"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "extradef",
+          "value": "1"
+        },
+        {
+          "key": "elementFire",
+          "value": "5"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "2423"
+        }
+      ]
+    },
+    {
+      "id": "7755",
+      "article": "a",
+      "name": "fiery crystal mace",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "8000"
+        },
+        {
+          "key": "defense",
+          "value": "16"
+        },
+        {
+          "key": "attack",
+          "value": "31"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "extradef",
+          "value": "1"
+        },
+        {
+          "key": "elementFire",
+          "value": "7"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "2445"
+        }
+      ]
+    },
+    {
+      "id": "7756",
+      "article": "a",
+      "name": "fiery cranial basher",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "7800"
+        },
+        {
+          "key": "defense",
+          "value": "20"
+        },
+        {
+          "key": "attack",
+          "value": "36"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "extradef",
+          "value": "-2"
+        },
+        {
+          "key": "elementFire",
+          "value": "8"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "7415"
+        }
+      ]
+    },
+    {
+      "id": "7757",
+      "article": "a",
+      "name": "fiery orcish maul",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5400"
+        },
+        {
+          "key": "defense",
+          "value": "18"
+        },
+        {
+          "key": "attack",
+          "value": "35"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementFire",
+          "value": "7"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "7392"
+        }
+      ]
+    },
+    {
+      "id": "7758",
+      "article": "a",
+      "name": "fiery war hammer",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "8500"
+        },
+        {
+          "key": "defense",
+          "value": "10"
+        },
+        {
+          "key": "attack",
+          "value": "36"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementFire",
+          "value": "9"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "2391"
+        }
+      ]
+    },
+    {
+      "id": "7773",
+      "article": "an",
+      "name": "icy clerical mace",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5800"
+        },
+        {
+          "key": "defense",
+          "value": "15"
+        },
+        {
+          "key": "attack",
+          "value": "23"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "extradef",
+          "value": "1"
+        },
+        {
+          "key": "elementIce",
+          "value": "5"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "2423"
+        }
+      ]
+    },
+    {
+      "id": "7774",
+      "article": "an",
+      "name": "icy crystal mace",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "8000"
+        },
+        {
+          "key": "defense",
+          "value": "16"
+        },
+        {
+          "key": "attack",
+          "value": "31"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "extradef",
+          "value": "1"
+        },
+        {
+          "key": "elementIce",
+          "value": "7"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "2445"
+        }
+      ]
+    },
+    {
+      "id": "7775",
+      "article": "an",
+      "name": "icy cranial basher",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "7800"
+        },
+        {
+          "key": "defense",
+          "value": "20"
+        },
+        {
+          "key": "attack",
+          "value": "36"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "extradef",
+          "value": "-2"
+        },
+        {
+          "key": "elementIce",
+          "value": "8"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "7415"
+        }
+      ]
+    },
+    {
+      "id": "7776",
+      "article": "an",
+      "name": "icy orcish maul",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5400"
+        },
+        {
+          "key": "defense",
+          "value": "18"
+        },
+        {
+          "key": "attack",
+          "value": "35"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementIce",
+          "value": "7"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "7392"
+        }
+      ]
+    },
+    {
+      "id": "7777",
+      "article": "an",
+      "name": "icy war hammer",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "8500"
+        },
+        {
+          "key": "defense",
+          "value": "10"
+        },
+        {
+          "key": "attack",
+          "value": "36"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementIce",
+          "value": "9"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "2391"
+        }
+      ]
+    },
+    {
+      "id": "7864",
+      "article": "an",
+      "name": "earth clerical mace",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5800"
+        },
+        {
+          "key": "defense",
+          "value": "15"
+        },
+        {
+          "key": "attack",
+          "value": "23"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "extradef",
+          "value": "1"
+        },
+        {
+          "key": "elementEarth",
+          "value": "5"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "2423"
+        }
+      ]
+    },
+    {
+      "id": "7865",
+      "article": "an",
+      "name": "earth crystal mace",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "8000"
+        },
+        {
+          "key": "defense",
+          "value": "16"
+        },
+        {
+          "key": "attack",
+          "value": "31"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "extradef",
+          "value": "1"
+        },
+        {
+          "key": "elementEarth",
+          "value": "7"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "2445"
+        }
+      ]
+    },
+    {
+      "id": "7866",
+      "article": "an",
+      "name": "earth cranial basher",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "7800"
+        },
+        {
+          "key": "defense",
+          "value": "20"
+        },
+        {
+          "key": "attack",
+          "value": "36"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "extradef",
+          "value": "-2"
+        },
+        {
+          "key": "elementEarth",
+          "value": "8"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "7415"
+        }
+      ]
+    },
+    {
+      "id": "7867",
+      "article": "an",
+      "name": "earth orcish maul",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5400"
+        },
+        {
+          "key": "defense",
+          "value": "18"
+        },
+        {
+          "key": "attack",
+          "value": "35"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementEarth",
+          "value": "7"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "7392"
+        }
+      ]
+    },
+    {
+      "id": "7868",
+      "article": "an",
+      "name": "earth war hammer",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "8500"
+        },
+        {
+          "key": "defense",
+          "value": "10"
+        },
+        {
+          "key": "attack",
+          "value": "36"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementEarth",
+          "value": "9"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "2391"
+        }
+      ]
+    },
+    {
+      "id": "7879",
+      "article": "an",
+      "name": "energy clerical mace",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5800"
+        },
+        {
+          "key": "defense",
+          "value": "15"
+        },
+        {
+          "key": "attack",
+          "value": "23"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "extradef",
+          "value": "1"
+        },
+        {
+          "key": "elementEnergy",
+          "value": "5"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "2423"
+        }
+      ]
+    },
+    {
+      "id": "7880",
+      "article": "an",
+      "name": "energy crystal mace",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "8000"
+        },
+        {
+          "key": "defense",
+          "value": "16"
+        },
+        {
+          "key": "attack",
+          "value": "31"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "extradef",
+          "value": "1"
+        },
+        {
+          "key": "elementEnergy",
+          "value": "7"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "2445"
+        }
+      ]
+    },
+    {
+      "id": "7881",
+      "article": "an",
+      "name": "energy cranial basher",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "7800"
+        },
+        {
+          "key": "defense",
+          "value": "20"
+        },
+        {
+          "key": "attack",
+          "value": "36"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "extradef",
+          "value": "-2"
+        },
+        {
+          "key": "elementEnergy",
+          "value": "8"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "7415"
+        }
+      ]
+    },
+    {
+      "id": "7882",
+      "article": "an",
+      "name": "energy orcish maul",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5400"
+        },
+        {
+          "key": "defense",
+          "value": "18"
+        },
+        {
+          "key": "attack",
+          "value": "35"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementEnergy",
+          "value": "7"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "7392"
+        }
+      ]
+    },
+    {
+      "id": "7883",
+      "article": "an",
+      "name": "energy war hammer",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "8500"
+        },
+        {
+          "key": "defense",
+          "value": "10"
+        },
+        {
+          "key": "attack",
+          "value": "36"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementEnergy",
+          "value": "9"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "2391"
+        }
+      ]
+    },
+    {
+      "id": "8927",
+      "article": "a",
+      "name": "dark trinity mace",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "9900"
+        },
+        {
+          "key": "defense",
+          "value": "32"
+        },
+        {
+          "key": "attack",
+          "value": "51"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "extradef",
+          "value": "-1"
+        }
+      ]
+    },
+    {
+      "id": "8928",
+      "article": "an",
+      "name": "obsidian truncheon",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "6500"
+        },
+        {
+          "key": "defense",
+          "value": "30"
+        },
+        {
+          "key": "attack",
+          "value": "50"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "extradef",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "id": "8929",
+      "name": "the stomper",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "11500"
+        },
+        {
+          "key": "defense",
+          "value": "20"
+        },
+        {
+          "key": "attack",
+          "value": "51"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "10290",
+      "name": "glutton's mace",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "It would be an awesome weapon if the handle weren't that greasy."
+        },
+        {
+          "key": "weight",
+          "value": "1300"
+        },
+        {
+          "key": "defense",
+          "value": "10"
+        },
+        {
+          "key": "attack",
+          "value": "16"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        }
+      ]
+    },
+    {
+      "id": "10293",
+      "article": "a",
+      "name": "stale bread of ancientness",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "This bread is so old that it has become unbreakable and a formidable weapon."
+        },
+        {
+          "key": "weight",
+          "value": "500"
+        },
+        {
+          "key": "defense",
+          "value": "8"
+        },
+        {
+          "key": "attack",
+          "value": "18"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        }
+      ]
+    },
+    {
+      "id": "10302",
+      "article": "a",
+      "name": "club of the fury",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "It's ready to unleash a fury's wrath on its enemies."
+        },
+        {
+          "key": "weight",
+          "value": "500"
+        },
+        {
+          "key": "defense",
+          "value": "8"
+        },
+        {
+          "key": "attack",
+          "value": "16"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        }
+      ]
+    },
+    {
+      "id": "11308",
+      "article": "a",
+      "name": "drachaku",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "6000"
+        },
+        {
+          "key": "defense",
+          "value": "25"
+        },
+        {
+          "key": "attack",
+          "value": "46"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "12648",
+      "article": "a",
+      "name": "snake god's sceptre",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "12000"
+        },
+        {
+          "key": "defense",
+          "value": "29"
+        },
+        {
+          "key": "attack",
+          "value": "48"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "extradef",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "id": "14334",
+      "article": "a",
+      "name": "giant smithhammer",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "This cyclopean hammer seems to be an awesome smithing tool."
+        },
+        {
+          "key": "weight",
+          "value": "6800"
+        },
+        {
+          "key": "attack",
+          "value": "24"
+        },
+        {
+          "key": "defense",
+          "value": "14"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        }
+      ]
+    },
+    {
+      "id": "15400",
+      "article": "a",
+      "name": "deepling staff",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "8800"
+        },
+        {
+          "key": "defense",
+          "value": "23"
+        },
+        {
+          "key": "attack",
+          "value": "43"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "15414",
+      "article": "an",
+      "name": "ornate mace",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "14900"
+        },
+        {
+          "key": "attack",
+          "value": "49"
+        },
+        {
+          "key": "defense",
+          "value": "24"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        }
+      ]
+    },
+    {
+      "id": "15647",
+      "article": "a",
+      "name": "deepling squelcher",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "8900"
+        },
+        {
+          "key": "attack",
+          "value": "44"
+        },
+        {
+          "key": "defense",
+          "value": "28"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        }
+      ]
+    },
+    {
+      "id": "18452",
+      "article": "a",
+      "name": "mycological mace",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5900"
+        },
+        {
+          "key": "defense",
+          "value": "31"
+        },
+        {
+          "key": "attack",
+          "value": "50"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "extradef",
+          "value": "3"
+        },
+        {
+          "key": "skillClub",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "id": "20093",
+      "article": "a",
+      "name": "life preserver",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "4600"
+        },
+        {
+          "key": "attack",
+          "value": "27"
+        },
+        {
+          "key": "defense",
+          "value": "19"
+        },
+        {
+          "key": "extradef",
+          "value": "2"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        }
+      ]
+    },
+    {
+      "id": "20104",
+      "article": "a",
+      "name": "swampling club",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "3100"
+        },
+        {
+          "key": "attack",
+          "value": "17"
+        },
+        {
+          "key": "defense",
+          "value": "12"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        }
+      ]
+    },
+    {
+      "id": "20108",
+      "article": "a",
+      "name": "pair of iron fists",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "4500"
+        },
+        {
+          "key": "attack",
+          "value": "45"
+        },
+        {
+          "key": "defense",
+          "value": "17"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "20139",
+      "article": "a",
+      "name": "spiky club",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "3900"
+        },
+        {
+          "key": "attack",
+          "value": "31"
+        },
+        {
+          "key": "defense",
+          "value": "14"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        }
+      ]
+    },
+    {
+      "id": "22410",
+      "article": "a",
+      "name": "crude umbral mace",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "9000"
+        },
+        {
+          "key": "defense",
+          "value": "22"
+        },
+        {
+          "key": "attack",
+          "value": "48"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "extradef",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "id": "22411",
+      "article": "an",
+      "name": "umbral mace",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "8500"
+        },
+        {
+          "key": "defense",
+          "value": "26"
+        },
+        {
+          "key": "attack",
+          "value": "50"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "extradef",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "id": "22412",
+      "article": "an",
+      "name": "umbral master mace",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "8000"
+        },
+        {
+          "key": "defense",
+          "value": "30"
+        },
+        {
+          "key": "attack",
+          "value": "52"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "extradef",
+          "value": "3"
+        },
+        {
+          "key": "skillClub",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "id": "22413",
+      "article": "a",
+      "name": "crude umbral hammer",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "17000"
+        },
+        {
+          "key": "defense",
+          "value": "27"
+        },
+        {
+          "key": "attack",
+          "value": "51"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "22414",
+      "article": "an",
+      "name": "umbral hammer",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "16500"
+        },
+        {
+          "key": "defense",
+          "value": "30"
+        },
+        {
+          "key": "attack",
+          "value": "53"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "22415",
+      "article": "an",
+      "name": "umbral master hammer",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "16000"
+        },
+        {
+          "key": "defense",
+          "value": "34"
+        },
+        {
+          "key": "attack",
+          "value": "55"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "skillClub",
+          "value": "3"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "23542",
+      "article": "a",
+      "name": "metal bat",
+      "attributes": [
+        {
+          "key": "defense",
+          "value": "20"
+        },
+        {
+          "key": "attack",
+          "value": "44"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "weight",
+          "value": "5100"
+        }
+      ]
+    },
+    {
+      "id": "23543",
+      "article": "a",
+      "name": "glooth whip",
+      "attributes": [
+        {
+          "key": "defense",
+          "value": "19"
+        },
+        {
+          "key": "attack",
+          "value": "33"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "weight",
+          "value": "3200"
+        }
+      ]
+    },
+    {
+      "id": "23544",
+      "article": "a",
+      "name": "moohtant cudgel",
+      "attributes": [
+        {
+          "key": "defense",
+          "value": "21"
+        },
+        {
+          "key": "attack",
+          "value": "47"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "weight",
+          "value": "8500"
+        }
+      ]
+    },
+    {
+      "id": "23549",
+      "article": "a",
+      "name": "glooth club",
+      "attributes": [
+        {
+          "key": "defense",
+          "value": "1"
+        },
+        {
+          "key": "attack",
+          "value": "39"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementEarth",
+          "value": "26"
+        },
+        {
+          "key": "charges",
+          "value": "2"
+        },
+        {
+          "key": "weight",
+          "value": "1900"
+        }
+      ]
+    },
+    {
+      "id": "23590",
+      "article": "a",
+      "name": "one hit wonder",
+      "attributes": [
+        {
+          "key": "defense",
+          "value": "22"
+        },
+        {
+          "key": "attack",
+          "value": "49"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "weight",
+          "value": "9600"
+        }
+      ]
+    },
+    {
+      "id": "24827",
+      "article": "an",
+      "name": "ogre klubba",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "7900"
+        },
+        {
+          "key": "defense",
+          "value": "25"
+        },
+        {
+          "key": "attack",
+          "value": "45"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "25418",
+      "article": "a",
+      "name": "maimer",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "7700"
+        },
+        {
+          "key": "defense",
+          "value": "32"
+        },
+        {
+          "key": "attack",
+          "value": "51"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        }
+      ]
+    },
+    {
+      "id": "25420",
+      "name": "Ferumbras' staff",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "2900"
+        },
+        {
+          "key": "defense",
+          "value": "30"
+        },
+        {
+          "key": "attack",
+          "value": "20"
+        },
+        {
+          "key": "description",
+          "value": "It is made of platinum and emeralds and topped by a large F made of gold."
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        }
+      ]
+    },
+    {
+      "id": "25883",
+      "article": "a",
+      "name": "mace of mayhem",
+      "attributes": [
+        {
+          "key": "defense",
+          "value": "30"
+        },
+        {
+          "key": "attack",
+          "value": "50"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "weight",
+          "value": "5000"
+        }
+      ]
+    },
+    {
+      "id": "25884",
+      "article": "a",
+      "name": "hammer of mayhem",
+      "attributes": [
+        {
+          "key": "defense",
+          "value": "30"
+        },
+        {
+          "key": "attack",
+          "value": "53"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "weight",
+          "value": "7000"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "fromid": "25935",
+      "toid": "25938",
+      "article": "a",
+      "name": "mace of remedy",
+      "attributes": [
+        {
+          "key": "defense",
+          "value": "30"
+        },
+        {
+          "key": "attack",
+          "value": "50"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "weight",
+          "value": "5000"
+        }
+      ]
+    },
+    {
+      "fromid": "25939",
+      "toid": "25942",
+      "article": "a",
+      "name": "hammer of remedy",
+      "attributes": [
+        {
+          "key": "defense",
+          "value": "30"
+        },
+        {
+          "key": "attack",
+          "value": "53"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "weight",
+          "value": "7000"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "fromid": "25975",
+      "toid": "25978",
+      "article": "a",
+      "name": "mace of carving",
+      "attributes": [
+        {
+          "key": "defense",
+          "value": "30"
+        },
+        {
+          "key": "attack",
+          "value": "50"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "weight",
+          "value": "5000"
+        }
+      ]
+    },
+    {
+      "fromid": "25979",
+      "toid": "25982",
+      "article": "a",
+      "name": "hammer of carving",
+      "attributes": [
+        {
+          "key": "defense",
+          "value": "30"
+        },
+        {
+          "key": "attack",
+          "value": "53"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "weight",
+          "value": "7000"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "30109",
+      "article": "a",
+      "name": "mace of destruction",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5000"
+        },
+        {
+          "key": "defense",
+          "value": "32"
+        },
+        {
+          "key": "attack",
+          "value": "50"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        }
+      ]
+    },
+    {
+      "id": "30110",
+      "article": "a",
+      "name": "hammer of destruction",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "7000"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "defense",
+          "value": "29"
+        },
+        {
+          "key": "attack",
+          "value": "53"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        }
+      ]
+    }
+  ]
+}

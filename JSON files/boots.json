@@ -1,961 +1,963 @@
-[
-  {
-    "id": "2195",
-    "name": "boots of haste",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "750"
-      },
-      {
-        "key": "slotType",
-        "value": "feet"
-      },
-      {
-        "key": "speed",
-        "value": "40"
-      },
-      {
-        "key": "showattributes",
-        "value": "true"
-      }
-    ]
-  },
-  {
-    "id": "2358",
-    "name": "boots of waterwalking",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "(This item has 5 charges left)."
-      },
-      {
-        "key": "weight",
-        "value": "770"
-      },
-      {
-        "key": "slotType",
-        "value": "feet"
-      }
-    ]
-  },
-  {
-    "id": "2640",
-    "article": "a",
-    "name": "pair of soft boots",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "800"
-      },
-      {
-        "key": "slotType",
-        "value": "feet"
-      },
-      {
-        "key": "decayTo",
-        "value": "10021"
-      },
-      {
-        "key": "transformDeEquipTo",
-        "value": "6132"
-      },
-      {
-        "key": "duration",
-        "value": "14400"
-      },
-      {
-        "key": "healthGain",
-        "value": "3"
-      },
-      {
-        "key": "healthTicks",
-        "value": "6000"
-      },
-      {
-        "key": "manaGain",
-        "value": "12"
-      },
-      {
-        "key": "manaTicks",
-        "value": "6000"
-      },
-      {
-        "key": "showduration",
-        "value": "true"
-      },
-      {
-        "key": "showattributes",
-        "value": "true"
-      }
-    ]
-  },
-  {
-    "id": "2641",
-    "name": "patched boots",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "1000"
-      },
-      {
-        "key": "armor",
-        "value": "2"
-      },
-      {
-        "key": "slotType",
-        "value": "feet"
-      }
-    ]
-  },
-  {
-    "id": "2642",
-    "name": "sandals",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "600"
-      },
-      {
-        "key": "slotType",
-        "value": "feet"
-      }
-    ]
-  },
-  {
-    "id": "2643",
-    "name": "leather boots",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "900"
-      },
-      {
-        "key": "armor",
-        "value": "1"
-      },
-      {
-        "key": "slotType",
-        "value": "feet"
-      }
-    ]
-  },
-  {
-    "id": "2644",
-    "name": "bunnyslippers",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "600"
-      },
-      {
-        "key": "slotType",
-        "value": "feet"
-      }
-    ]
-  },
-  {
-    "id": "2645",
-    "name": "steel boots",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "2900"
-      },
-      {
-        "key": "armor",
-        "value": "3"
-      },
-      {
-        "key": "slotType",
-        "value": "feet"
-      }
-    ]
-  },
-  {
-    "id": "2646",
-    "name": "golden boots",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "3100"
-      },
-      {
-        "key": "armor",
-        "value": "4"
-      },
-      {
-        "key": "slotType",
-        "value": "feet"
-      }
-    ]
-  },
-  {
-    "id": "3982",
-    "name": "crocodile boots",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "900"
-      },
-      {
-        "key": "armor",
-        "value": "1"
-      },
-      {
-        "key": "slotType",
-        "value": "feet"
-      }
-    ]
-  },
-  {
-    "id": "5462",
-    "name": "pirate boots",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "800"
-      },
-      {
-        "key": "armor",
-        "value": "2"
-      },
-      {
-        "key": "slotType",
-        "value": "feet"
-      }
-    ]
-  },
-  {
-    "id": "6132",
-    "article": "a",
-    "name": "pair of soft boots",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "800"
-      },
-      {
-        "key": "slotType",
-        "value": "feet"
-      },
-      {
-        "key": "transformEquipTo",
-        "value": "2640"
-      },
-      {
-        "key": "stopduration",
-        "value": "true"
-      },
-      {
-        "key": "showduration",
-        "value": "true"
-      }
-    ]
-  },
-  {
-    "id": "7457",
-    "name": "fur boots",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "These boots keep your toes warm in even the iciest regions, but they feel kind of heavy."
-      },
-      {
-        "key": "weight",
-        "value": "1200"
-      },
-      {
-        "key": "armor",
-        "value": "2"
-      },
-      {
-        "key": "slotType",
-        "value": "feet"
-      },
-      {
-        "key": "speed",
-        "value": "-12"
-      }
-    ]
-  },
-  {
-    "id": "7886",
-    "name": "terra boots",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "750"
-      },
-      {
-        "key": "armor",
-        "value": "2"
-      },
-      {
-        "key": "slotType",
-        "value": "feet"
-      },
-      {
-        "key": "absorbPercentEarth",
-        "value": "5"
-      },
-      {
-        "key": "absorbPercentFire",
-        "value": "-5"
-      }
-    ]
-  },
-  {
-    "id": "7891",
-    "name": "magma boots",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "750"
-      },
-      {
-        "key": "armor",
-        "value": "2"
-      },
-      {
-        "key": "absorbPercentFire",
-        "value": "5"
-      },
-      {
-        "key": "absorbPercentIce",
-        "value": "-5"
-      },
-      {
-        "key": "slotType",
-        "value": "feet"
-      }
-    ]
-  },
-  {
-    "id": "7892",
-    "name": "glacier shoes",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "750"
-      },
-      {
-        "key": "armor",
-        "value": "2"
-      },
-      {
-        "key": "slotType",
-        "value": "feet"
-      },
-      {
-        "key": "absorbPercentIce",
-        "value": "5"
-      },
-      {
-        "key": "absorbPercentEnergy",
-        "value": "-5"
-      }
-    ]
-  },
-  {
-    "id": "7893",
-    "name": "lightning boots",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "750"
-      },
-      {
-        "key": "armor",
-        "value": "2"
-      },
-      {
-        "key": "absorbPercentEnergy",
-        "value": "5"
-      },
-      {
-        "key": "absorbPercentEarth",
-        "value": "-5"
-      },
-      {
-        "key": "slotType",
-        "value": "feet"
-      }
-    ]
-  },
-  {
-    "fromid": "9817",
-    "toid": "9819",
-    "name": "rusty boots",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "If you can remove the rust layer and dirt from the boots you will be able to see what it is."
-      },
-      {
-        "key": "weight",
-        "value": "2800"
-      },
-      {
-        "key": "armor",
-        "value": "1"
-      },
-      {
-        "key": "slotType",
-        "value": "feet"
-      }
-    ]
-  },
-  {
-    "id": "9931",
-    "name": "coconut shoes",
-    "attributes": [
-      {
-        "key": "slotType",
-        "value": "feet"
-      },
-      {
-        "key": "weight",
-        "value": "600"
-      }
-    ]
-  },
-  {
-    "id": "9932",
-    "name": "firewalker boots",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "Wearing these boots reduces the damage gotten from fiery ground."
-      },
-      {
-        "key": "weight",
-        "value": "950"
-      },
-      {
-        "key": "armor",
-        "value": "2"
-      },
-      {
-        "key": "slotType",
-        "value": "feet"
-      },
-      {
-        "key": "decayTo",
-        "value": "10022"
-      },
-      {
-        "key": "transformDeEquipTo",
-        "value": "9933"
-      },
-      {
-        "key": "fieldabsorbpercentfire",
-        "value": "90"
-      },
-      {
-        "key": "duration",
-        "value": "3600"
-      },
-      {
-        "key": "showduration",
-        "value": "true"
-      },
-      {
-        "key": "showattributes",
-        "value": "true"
-      }
-    ]
-  },
-  {
-    "id": "9933",
-    "name": "firewalker boots",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "Wearing these boots reduces the damage gotten from fiery ground."
-      },
-      {
-        "key": "weight",
-        "value": "950"
-      },
-      {
-        "key": "armor",
-        "value": "2"
-      },
-      {
-        "key": "slotType",
-        "value": "feet"
-      },
-      {
-        "key": "transformEquipTo",
-        "value": "9932"
-      },
-      {
-        "key": "stopduration",
-        "value": "true"
-      },
-      {
-        "key": "showduration",
-        "value": "true"
-      }
-    ]
-  },
-  {
-    "id": "10021",
-    "name": "worn soft boots",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "Someone specialised in shoes might be able to repair them for you."
-      },
-      {
-        "key": "weight",
-        "value": "800"
-      },
-      {
-        "key": "slotType",
-        "value": "feet"
-      }
-    ]
-  },
-  {
-    "id": "10022",
-    "name": "worn firewalker boots",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "They can be recharged with an enchanted ruby."
-      },
-      {
-        "key": "weight",
-        "value": "950"
-      },
-      {
-        "key": "slotType",
-        "value": "feet"
-      }
-    ]
-  },
-  {
-    "id": "11117",
-    "name": "crystal boots",
-    "attributes": [
-      {
-        "key": "armor",
-        "value": "3"
-      },
-      {
-        "key": "absorbPercentIce",
-        "value": "3"
-      },
-      {
-        "key": "absorbPercentEnergy",
-        "value": "-3"
-      },
-      {
-        "key": "slotType",
-        "value": "feet"
-      },
-      {
-        "key": "weight",
-        "value": "1850"
-      }
-    ]
-  },
-  {
-    "id": "11118",
-    "name": "dragon scale boots",
-    "attributes": [
-      {
-        "key": "armor",
-        "value": "3"
-      },
-      {
-        "key": "absorbPercentFire",
-        "value": "3"
-      },
-      {
-        "key": "absorbPercentIce",
-        "value": "-3"
-      },
-      {
-        "key": "slotType",
-        "value": "feet"
-      },
-      {
-        "key": "weight",
-        "value": "1850"
-      }
-    ]
-  },
-  {
-    "id": "11240",
-    "name": "guardian boots",
-    "attributes": [
-      {
-        "key": "armor",
-        "value": "3"
-      },
-      {
-        "key": "absorbPercentPhysical",
-        "value": "2"
-      },
-      {
-        "key": "absorbPercentHoly",
-        "value": "-2"
-      },
-      {
-        "key": "slotType",
-        "value": "feet"
-      },
-      {
-        "key": "weight",
-        "value": "2250"
-      }
-    ]
-  },
-  {
-    "id": "11303",
-    "name": "Zaoan shoes",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "700"
-      },
-      {
-        "key": "armor",
-        "value": "1"
-      },
-      {
-        "key": "slotType",
-        "value": "feet"
-      },
-      {
-        "key": "speed",
-        "value": "10"
-      }
-    ]
-  },
-  {
-    "id": "12498",
-    "article": "a",
-    "name": "fish tail",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "250"
-      },
-      {
-        "key": "slotType",
-        "value": "feet"
-      },
-      {
-        "key": "transformEquipTo",
-        "value": "13580"
-      }
-    ]
-  },
-  {
-    "id": "12646",
-    "name": "draken boots",
-    "attributes": [
-      {
-        "key": "armor",
-        "value": "3"
-      },
-      {
-        "key": "speed",
-        "value": "30"
-      },
-      {
-        "key": "weight",
-        "value": "2500"
-      },
-      {
-        "key": "slotType",
-        "value": "feet"
-      }
-    ]
-  },
-  {
-    "id": "13580",
-    "article": "a",
-    "name": "fish tail",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "800"
-      },
-      {
-        "key": "slotType",
-        "value": "feet"
-      },
-      {
-        "key": "transformDeEquipTo",
-        "value": "12498"
-      },
-      {
-        "key": "speed",
-        "value": "600"
-      },
-      {
-        "key": "showattributes",
-        "value": "true"
-      }
-    ]
-  },
-  {
-    "id": "15410",
-    "name": "depth calcei",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "3700"
-      },
-      {
-        "key": "armor",
-        "value": "3"
-      },
-      {
-        "key": "slotType",
-        "value": "feet"
-      },
-      {
-        "key": "speed",
-        "value": "-10"
-      },
-      {
-        "key": "absorbPercentPhysical",
-        "value": "5"
-      },
-      {
-        "key": "showattributes",
-        "value": "true"
-      }
-    ]
-  },
-  {
-    "id": "18406",
-    "name": "prismatic boots",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "1800"
-      },
-      {
-        "key": "armor",
-        "value": "3"
-      },
-      {
-        "key": "slotType",
-        "value": "feet"
-      },
-      {
-        "key": "speed",
-        "value": "30"
-      },
-      {
-        "key": "absorbPercentDeath",
-        "value": "3"
-      },
-      {
-        "key": "showattributes",
-        "value": "true"
-      }
-    ]
-  },
-  {
-    "id": "23540",
-    "name": "metal spats",
-    "attributes": [
-      {
-        "key": "armor",
-        "value": "1"
-      },
-      {
-        "key": "slotType",
-        "value": "feet"
-      },
-      {
-        "key": "absorbPercentPhysical",
-        "value": "1"
-      },
-      {
-        "key": "weight",
-        "value": "1800"
-      }
-    ]
-  },
-  {
-    "id": "24637",
-    "name": "oriental shoes",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "500"
-      },
-      {
-        "key": "slotType",
-        "value": "feet"
-      },
-      {
-        "key": "speed",
-        "value": "30"
-      },
-      {
-        "key": "armor",
-        "value": "2"
-      }
-    ]
-  },
-  {
-    "id": "24742",
-    "name": "badger boots",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "1200"
-      },
-      {
-        "key": "slotType",
-        "value": "feet"
-      },
-      {
-        "key": "speed",
-        "value": "20"
-      },
-      {
-        "key": "armor",
-        "value": "2"
-      }
-    ]
-  },
-  {
-    "id": "25412",
-    "name": "treader of torment",
-    "attributes": [
-      {
-        "key": "armor",
-        "value": "4"
-      },
-      {
-        "key": "weight",
-        "value": "3600"
-      },
-      {
-        "key": "slotType",
-        "value": "feet"
-      }
-    ]
-  },
-  {
-    "id": "25429",
-    "name": "boots of homecoming",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "1600"
-      },
-      {
-        "key": "armor",
-        "value": "2"
-      },
-      {
-        "key": "description",
-        "value": "They are made of dark red buckskin and the golden clasps look like the letter F."
-      },
-      {
-        "key": "slotType",
-        "value": "feet"
-      }
-    ]
-  },
-  {
-    "id": "26132",
-    "name": "void boots",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "1500"
-      },
-      {
-        "key": "slotType",
-        "value": "feet"
-      },
-      {
-        "key": "decayTo",
-        "value": "0"
-      },
-      {
-        "key": "transformDeEquipTo",
-        "value": "26133"
-      },
-      {
-        "key": "duration",
-        "value": "3600"
-      },
-      {
-        "key": "showduration",
-        "value": "true"
-      },
-      {
-        "key": "speed",
-        "value": "60"
-      },
-      {
-        "key": "armor",
-        "value": "2"
-      },
-      {
-        "key": "healthGain",
-        "value": "3"
-      },
-      {
-        "key": "healthTicks",
-        "value": "6000"
-      },
-      {
-        "key": "manaGain",
-        "value": "12"
-      },
-      {
-        "key": "manaTicks",
-        "value": "6000"
-      },
-      {
-        "key": "absorbPercentEnergy",
-        "value": "10"
-      },
-      {
-        "key": "showattributes",
-        "value": "true"
-      }
-    ]
-  },
-  {
-    "id": "26133",
-    "name": "void boots",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "1500"
-      },
-      {
-        "key": "slotType",
-        "value": "feet"
-      },
-      {
-        "key": "transformEquipTo",
-        "value": "26132"
-      },
-      {
-        "key": "stopduration",
-        "value": "true"
-      },
-      {
-        "key": "showduration",
-        "value": "true"
-      }
-    ]
-  }
-]
+{
+  "items": [
+    {
+      "id": "2195",
+      "name": "boots of haste",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "750"
+        },
+        {
+          "key": "slotType",
+          "value": "feet"
+        },
+        {
+          "key": "speed",
+          "value": "40"
+        },
+        {
+          "key": "showattributes",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "id": "2358",
+      "name": "boots of waterwalking",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "(This item has 5 charges left)."
+        },
+        {
+          "key": "weight",
+          "value": "770"
+        },
+        {
+          "key": "slotType",
+          "value": "feet"
+        }
+      ]
+    },
+    {
+      "id": "2640",
+      "article": "a",
+      "name": "pair of soft boots",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "800"
+        },
+        {
+          "key": "slotType",
+          "value": "feet"
+        },
+        {
+          "key": "decayTo",
+          "value": "10021"
+        },
+        {
+          "key": "transformDeEquipTo",
+          "value": "6132"
+        },
+        {
+          "key": "duration",
+          "value": "14400"
+        },
+        {
+          "key": "healthGain",
+          "value": "3"
+        },
+        {
+          "key": "healthTicks",
+          "value": "6000"
+        },
+        {
+          "key": "manaGain",
+          "value": "12"
+        },
+        {
+          "key": "manaTicks",
+          "value": "6000"
+        },
+        {
+          "key": "showduration",
+          "value": "true"
+        },
+        {
+          "key": "showattributes",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "id": "2641",
+      "name": "patched boots",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "1000"
+        },
+        {
+          "key": "armor",
+          "value": "2"
+        },
+        {
+          "key": "slotType",
+          "value": "feet"
+        }
+      ]
+    },
+    {
+      "id": "2642",
+      "name": "sandals",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "600"
+        },
+        {
+          "key": "slotType",
+          "value": "feet"
+        }
+      ]
+    },
+    {
+      "id": "2643",
+      "name": "leather boots",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "900"
+        },
+        {
+          "key": "armor",
+          "value": "1"
+        },
+        {
+          "key": "slotType",
+          "value": "feet"
+        }
+      ]
+    },
+    {
+      "id": "2644",
+      "name": "bunnyslippers",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "600"
+        },
+        {
+          "key": "slotType",
+          "value": "feet"
+        }
+      ]
+    },
+    {
+      "id": "2645",
+      "name": "steel boots",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "2900"
+        },
+        {
+          "key": "armor",
+          "value": "3"
+        },
+        {
+          "key": "slotType",
+          "value": "feet"
+        }
+      ]
+    },
+    {
+      "id": "2646",
+      "name": "golden boots",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "3100"
+        },
+        {
+          "key": "armor",
+          "value": "4"
+        },
+        {
+          "key": "slotType",
+          "value": "feet"
+        }
+      ]
+    },
+    {
+      "id": "3982",
+      "name": "crocodile boots",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "900"
+        },
+        {
+          "key": "armor",
+          "value": "1"
+        },
+        {
+          "key": "slotType",
+          "value": "feet"
+        }
+      ]
+    },
+    {
+      "id": "5462",
+      "name": "pirate boots",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "800"
+        },
+        {
+          "key": "armor",
+          "value": "2"
+        },
+        {
+          "key": "slotType",
+          "value": "feet"
+        }
+      ]
+    },
+    {
+      "id": "6132",
+      "article": "a",
+      "name": "pair of soft boots",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "800"
+        },
+        {
+          "key": "slotType",
+          "value": "feet"
+        },
+        {
+          "key": "transformEquipTo",
+          "value": "2640"
+        },
+        {
+          "key": "stopduration",
+          "value": "true"
+        },
+        {
+          "key": "showduration",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "id": "7457",
+      "name": "fur boots",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "These boots keep your toes warm in even the iciest regions, but they feel kind of heavy."
+        },
+        {
+          "key": "weight",
+          "value": "1200"
+        },
+        {
+          "key": "armor",
+          "value": "2"
+        },
+        {
+          "key": "slotType",
+          "value": "feet"
+        },
+        {
+          "key": "speed",
+          "value": "-12"
+        }
+      ]
+    },
+    {
+      "id": "7886",
+      "name": "terra boots",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "750"
+        },
+        {
+          "key": "armor",
+          "value": "2"
+        },
+        {
+          "key": "slotType",
+          "value": "feet"
+        },
+        {
+          "key": "absorbPercentEarth",
+          "value": "5"
+        },
+        {
+          "key": "absorbPercentFire",
+          "value": "-5"
+        }
+      ]
+    },
+    {
+      "id": "7891",
+      "name": "magma boots",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "750"
+        },
+        {
+          "key": "armor",
+          "value": "2"
+        },
+        {
+          "key": "absorbPercentFire",
+          "value": "5"
+        },
+        {
+          "key": "absorbPercentIce",
+          "value": "-5"
+        },
+        {
+          "key": "slotType",
+          "value": "feet"
+        }
+      ]
+    },
+    {
+      "id": "7892",
+      "name": "glacier shoes",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "750"
+        },
+        {
+          "key": "armor",
+          "value": "2"
+        },
+        {
+          "key": "slotType",
+          "value": "feet"
+        },
+        {
+          "key": "absorbPercentIce",
+          "value": "5"
+        },
+        {
+          "key": "absorbPercentEnergy",
+          "value": "-5"
+        }
+      ]
+    },
+    {
+      "id": "7893",
+      "name": "lightning boots",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "750"
+        },
+        {
+          "key": "armor",
+          "value": "2"
+        },
+        {
+          "key": "absorbPercentEnergy",
+          "value": "5"
+        },
+        {
+          "key": "absorbPercentEarth",
+          "value": "-5"
+        },
+        {
+          "key": "slotType",
+          "value": "feet"
+        }
+      ]
+    },
+    {
+      "fromid": "9817",
+      "toid": "9819",
+      "name": "rusty boots",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "If you can remove the rust layer and dirt from the boots you will be able to see what it is."
+        },
+        {
+          "key": "weight",
+          "value": "2800"
+        },
+        {
+          "key": "armor",
+          "value": "1"
+        },
+        {
+          "key": "slotType",
+          "value": "feet"
+        }
+      ]
+    },
+    {
+      "id": "9931",
+      "name": "coconut shoes",
+      "attributes": [
+        {
+          "key": "slotType",
+          "value": "feet"
+        },
+        {
+          "key": "weight",
+          "value": "600"
+        }
+      ]
+    },
+    {
+      "id": "9932",
+      "name": "firewalker boots",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "Wearing these boots reduces the damage gotten from fiery ground."
+        },
+        {
+          "key": "weight",
+          "value": "950"
+        },
+        {
+          "key": "armor",
+          "value": "2"
+        },
+        {
+          "key": "slotType",
+          "value": "feet"
+        },
+        {
+          "key": "decayTo",
+          "value": "10022"
+        },
+        {
+          "key": "transformDeEquipTo",
+          "value": "9933"
+        },
+        {
+          "key": "fieldabsorbpercentfire",
+          "value": "90"
+        },
+        {
+          "key": "duration",
+          "value": "3600"
+        },
+        {
+          "key": "showduration",
+          "value": "true"
+        },
+        {
+          "key": "showattributes",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "id": "9933",
+      "name": "firewalker boots",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "Wearing these boots reduces the damage gotten from fiery ground."
+        },
+        {
+          "key": "weight",
+          "value": "950"
+        },
+        {
+          "key": "armor",
+          "value": "2"
+        },
+        {
+          "key": "slotType",
+          "value": "feet"
+        },
+        {
+          "key": "transformEquipTo",
+          "value": "9932"
+        },
+        {
+          "key": "stopduration",
+          "value": "true"
+        },
+        {
+          "key": "showduration",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "id": "10021",
+      "name": "worn soft boots",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "Someone specialised in shoes might be able to repair them for you."
+        },
+        {
+          "key": "weight",
+          "value": "800"
+        },
+        {
+          "key": "slotType",
+          "value": "feet"
+        }
+      ]
+    },
+    {
+      "id": "10022",
+      "name": "worn firewalker boots",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "They can be recharged with an enchanted ruby."
+        },
+        {
+          "key": "weight",
+          "value": "950"
+        },
+        {
+          "key": "slotType",
+          "value": "feet"
+        }
+      ]
+    },
+    {
+      "id": "11117",
+      "name": "crystal boots",
+      "attributes": [
+        {
+          "key": "armor",
+          "value": "3"
+        },
+        {
+          "key": "absorbPercentIce",
+          "value": "3"
+        },
+        {
+          "key": "absorbPercentEnergy",
+          "value": "-3"
+        },
+        {
+          "key": "slotType",
+          "value": "feet"
+        },
+        {
+          "key": "weight",
+          "value": "1850"
+        }
+      ]
+    },
+    {
+      "id": "11118",
+      "name": "dragon scale boots",
+      "attributes": [
+        {
+          "key": "armor",
+          "value": "3"
+        },
+        {
+          "key": "absorbPercentFire",
+          "value": "3"
+        },
+        {
+          "key": "absorbPercentIce",
+          "value": "-3"
+        },
+        {
+          "key": "slotType",
+          "value": "feet"
+        },
+        {
+          "key": "weight",
+          "value": "1850"
+        }
+      ]
+    },
+    {
+      "id": "11240",
+      "name": "guardian boots",
+      "attributes": [
+        {
+          "key": "armor",
+          "value": "3"
+        },
+        {
+          "key": "absorbPercentPhysical",
+          "value": "2"
+        },
+        {
+          "key": "absorbPercentHoly",
+          "value": "-2"
+        },
+        {
+          "key": "slotType",
+          "value": "feet"
+        },
+        {
+          "key": "weight",
+          "value": "2250"
+        }
+      ]
+    },
+    {
+      "id": "11303",
+      "name": "Zaoan shoes",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "700"
+        },
+        {
+          "key": "armor",
+          "value": "1"
+        },
+        {
+          "key": "slotType",
+          "value": "feet"
+        },
+        {
+          "key": "speed",
+          "value": "10"
+        }
+      ]
+    },
+    {
+      "id": "12498",
+      "article": "a",
+      "name": "fish tail",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "250"
+        },
+        {
+          "key": "slotType",
+          "value": "feet"
+        },
+        {
+          "key": "transformEquipTo",
+          "value": "13580"
+        }
+      ]
+    },
+    {
+      "id": "12646",
+      "name": "draken boots",
+      "attributes": [
+        {
+          "key": "armor",
+          "value": "3"
+        },
+        {
+          "key": "speed",
+          "value": "30"
+        },
+        {
+          "key": "weight",
+          "value": "2500"
+        },
+        {
+          "key": "slotType",
+          "value": "feet"
+        }
+      ]
+    },
+    {
+      "id": "13580",
+      "article": "a",
+      "name": "fish tail",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "800"
+        },
+        {
+          "key": "slotType",
+          "value": "feet"
+        },
+        {
+          "key": "transformDeEquipTo",
+          "value": "12498"
+        },
+        {
+          "key": "speed",
+          "value": "600"
+        },
+        {
+          "key": "showattributes",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "id": "15410",
+      "name": "depth calcei",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "3700"
+        },
+        {
+          "key": "armor",
+          "value": "3"
+        },
+        {
+          "key": "slotType",
+          "value": "feet"
+        },
+        {
+          "key": "speed",
+          "value": "-10"
+        },
+        {
+          "key": "absorbPercentPhysical",
+          "value": "5"
+        },
+        {
+          "key": "showattributes",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "id": "18406",
+      "name": "prismatic boots",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "1800"
+        },
+        {
+          "key": "armor",
+          "value": "3"
+        },
+        {
+          "key": "slotType",
+          "value": "feet"
+        },
+        {
+          "key": "speed",
+          "value": "30"
+        },
+        {
+          "key": "absorbPercentDeath",
+          "value": "3"
+        },
+        {
+          "key": "showattributes",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "id": "23540",
+      "name": "metal spats",
+      "attributes": [
+        {
+          "key": "armor",
+          "value": "1"
+        },
+        {
+          "key": "slotType",
+          "value": "feet"
+        },
+        {
+          "key": "absorbPercentPhysical",
+          "value": "1"
+        },
+        {
+          "key": "weight",
+          "value": "1800"
+        }
+      ]
+    },
+    {
+      "id": "24637",
+      "name": "oriental shoes",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "500"
+        },
+        {
+          "key": "slotType",
+          "value": "feet"
+        },
+        {
+          "key": "speed",
+          "value": "30"
+        },
+        {
+          "key": "armor",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "id": "24742",
+      "name": "badger boots",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "1200"
+        },
+        {
+          "key": "slotType",
+          "value": "feet"
+        },
+        {
+          "key": "speed",
+          "value": "20"
+        },
+        {
+          "key": "armor",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "id": "25412",
+      "name": "treader of torment",
+      "attributes": [
+        {
+          "key": "armor",
+          "value": "4"
+        },
+        {
+          "key": "weight",
+          "value": "3600"
+        },
+        {
+          "key": "slotType",
+          "value": "feet"
+        }
+      ]
+    },
+    {
+      "id": "25429",
+      "name": "boots of homecoming",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "1600"
+        },
+        {
+          "key": "armor",
+          "value": "2"
+        },
+        {
+          "key": "description",
+          "value": "They are made of dark red buckskin and the golden clasps look like the letter F."
+        },
+        {
+          "key": "slotType",
+          "value": "feet"
+        }
+      ]
+    },
+    {
+      "id": "26132",
+      "name": "void boots",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "1500"
+        },
+        {
+          "key": "slotType",
+          "value": "feet"
+        },
+        {
+          "key": "decayTo",
+          "value": "0"
+        },
+        {
+          "key": "transformDeEquipTo",
+          "value": "26133"
+        },
+        {
+          "key": "duration",
+          "value": "3600"
+        },
+        {
+          "key": "showduration",
+          "value": "true"
+        },
+        {
+          "key": "speed",
+          "value": "60"
+        },
+        {
+          "key": "armor",
+          "value": "2"
+        },
+        {
+          "key": "healthGain",
+          "value": "3"
+        },
+        {
+          "key": "healthTicks",
+          "value": "6000"
+        },
+        {
+          "key": "manaGain",
+          "value": "12"
+        },
+        {
+          "key": "manaTicks",
+          "value": "6000"
+        },
+        {
+          "key": "absorbPercentEnergy",
+          "value": "10"
+        },
+        {
+          "key": "showattributes",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "id": "26133",
+      "name": "void boots",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "1500"
+        },
+        {
+          "key": "slotType",
+          "value": "feet"
+        },
+        {
+          "key": "transformEquipTo",
+          "value": "26132"
+        },
+        {
+          "key": "stopduration",
+          "value": "true"
+        },
+        {
+          "key": "showduration",
+          "value": "true"
+        }
+      ]
+    }
+  ]
+}

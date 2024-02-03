@@ -1,1101 +1,1103 @@
-[
-  {
-    "id": "2181",
-    "article": "a",
-    "name": "terra rod",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "Small stones are flying from its tip."
-      },
-      {
-        "key": "weight",
-        "value": "2500"
-      },
-      {
-        "key": "weaponType",
-        "value": "wand"
-      },
-      {
-        "key": "shootType",
-        "value": "smallearth"
-      },
-      {
-        "key": "range",
-        "value": "3"
-      }
-    ]
-  },
-  {
-    "id": "2182",
-    "article": "a",
-    "name": "snakebite rod",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "It seems to twitch and quiver as if trying to escape your grip."
-      },
-      {
-        "key": "weight",
-        "value": "1900"
-      },
-      {
-        "key": "weaponType",
-        "value": "wand"
-      },
-      {
-        "key": "shootType",
-        "value": "smallearth"
-      },
-      {
-        "key": "range",
-        "value": "3"
-      }
-    ]
-  },
-  {
-    "id": "2183",
-    "article": "a",
-    "name": "hailstorm rod",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "It grants you the power of striking your foes with furious hailstorms."
-      },
-      {
-        "key": "weight",
-        "value": "2700"
-      },
-      {
-        "key": "weaponType",
-        "value": "wand"
-      },
-      {
-        "key": "shootType",
-        "value": "smallice"
-      },
-      {
-        "key": "range",
-        "value": "3"
-      }
-    ]
-  },
-  {
-    "id": "2185",
-    "article": "a",
-    "name": "necrotic rod",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "It was brought up from hell to deliver death."
-      },
-      {
-        "key": "weight",
-        "value": "2300"
-      },
-      {
-        "key": "weaponType",
-        "value": "wand"
-      },
-      {
-        "key": "shootType",
-        "value": "death"
-      },
-      {
-        "key": "range",
-        "value": "3"
-      }
-    ]
-  },
-  {
-    "id": "2186",
-    "article": "a",
-    "name": "moonlight rod",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "Icecold rays of moonlight shimmer on its tip."
-      },
-      {
-        "key": "weight",
-        "value": "2100"
-      },
-      {
-        "key": "weaponType",
-        "value": "wand"
-      },
-      {
-        "key": "shootType",
-        "value": "smallice"
-      },
-      {
-        "key": "range",
-        "value": "3"
-      }
-    ]
-  },
-  {
-    "id": "2187",
-    "article": "a",
-    "name": "wand of inferno",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "It unleashes the very fires of hell."
-      },
-      {
-        "key": "weight",
-        "value": "2700"
-      },
-      {
-        "key": "weaponType",
-        "value": "wand"
-      },
-      {
-        "key": "shootType",
-        "value": "fire"
-      },
-      {
-        "key": "range",
-        "value": "3"
-      }
-    ]
-  },
-  {
-    "id": "2188",
-    "article": "a",
-    "name": "wand of decay",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "It is half-rotten itself and reeks terribly."
-      },
-      {
-        "key": "weight",
-        "value": "2300"
-      },
-      {
-        "key": "weaponType",
-        "value": "wand"
-      },
-      {
-        "key": "shootType",
-        "value": "death"
-      },
-      {
-        "key": "range",
-        "value": "3"
-      }
-    ]
-  },
-  {
-    "id": "2189",
-    "article": "a",
-    "name": "wand of cosmic energy",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "The energy of a radiant star is trapped inside its globe."
-      },
-      {
-        "key": "weight",
-        "value": "2500"
-      },
-      {
-        "key": "weaponType",
-        "value": "wand"
-      },
-      {
-        "key": "shootType",
-        "value": "energy"
-      },
-      {
-        "key": "range",
-        "value": "3"
-      }
-    ]
-  },
-  {
-    "id": "2190",
-    "article": "a",
-    "name": "wand of vortex",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "Surges of energy rush through the tip of this wand."
-      },
-      {
-        "key": "weight",
-        "value": "1900"
-      },
-      {
-        "key": "weaponType",
-        "value": "wand"
-      },
-      {
-        "key": "shootType",
-        "value": "energy"
-      },
-      {
-        "key": "range",
-        "value": "3"
-      }
-    ]
-  },
-  {
-    "id": "2191",
-    "article": "a",
-    "name": "wand of dragonbreath",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "Legends say that this wand holds the soul of a young dragon."
-      },
-      {
-        "key": "weight",
-        "value": "2100"
-      },
-      {
-        "key": "weaponType",
-        "value": "wand"
-      },
-      {
-        "key": "shootType",
-        "value": "fire"
-      },
-      {
-        "key": "range",
-        "value": "3"
-      }
-    ]
-  },
-  {
-    "id": "8910",
-    "article": "an",
-    "name": "underworld rod",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "No one knows which hell this unholy rod comes from."
-      },
-      {
-        "key": "weight",
-        "value": "2900"
-      },
-      {
-        "key": "weaponType",
-        "value": "wand"
-      },
-      {
-        "key": "shootType",
-        "value": "death"
-      },
-      {
-        "key": "range",
-        "value": "3"
-      }
-    ]
-  },
-  {
-    "id": "8911",
-    "article": "a",
-    "name": "northwind rod",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "It was made by one of the shamans in Svargrond and symbolises an icy mammoth."
-      },
-      {
-        "key": "weight",
-        "value": "2900"
-      },
-      {
-        "key": "weaponType",
-        "value": "wand"
-      },
-      {
-        "key": "shootType",
-        "value": "ice"
-      },
-      {
-        "key": "range",
-        "value": "3"
-      }
-    ]
-  },
-  {
-    "id": "8912",
-    "article": "a",
-    "name": "springsprout rod",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "It is filled with the energy of growing plants."
-      },
-      {
-        "key": "weight",
-        "value": "2700"
-      },
-      {
-        "key": "weaponType",
-        "value": "wand"
-      },
-      {
-        "key": "shootType",
-        "value": "smallearth"
-      },
-      {
-        "key": "range",
-        "value": "3"
-      }
-    ]
-  },
-  {
-    "id": "8920",
-    "article": "a",
-    "name": "wand of starstorm",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "It is sparkling with universal energy."
-      },
-      {
-        "key": "weight",
-        "value": "2550"
-      },
-      {
-        "key": "weaponType",
-        "value": "wand"
-      },
-      {
-        "key": "shootType",
-        "value": "energy"
-      },
-      {
-        "key": "range",
-        "value": "3"
-      }
-    ]
-  },
-  {
-    "id": "8921",
-    "article": "a",
-    "name": "wand of draconia",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "This wand holds the spirit and soul of a dragon lord."
-      },
-      {
-        "key": "weight",
-        "value": "2700"
-      },
-      {
-        "key": "weaponType",
-        "value": "wand"
-      },
-      {
-        "key": "shootType",
-        "value": "fire"
-      },
-      {
-        "key": "range",
-        "value": "3"
-      }
-    ]
-  },
-  {
-    "id": "8922",
-    "article": "a",
-    "name": "wand of voodoo",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "It is filled with the dark hatred and rage of a tormented demonic being."
-      },
-      {
-        "key": "weight",
-        "value": "2850"
-      },
-      {
-        "key": "weaponType",
-        "value": "wand"
-      },
-      {
-        "key": "shootType",
-        "value": "death"
-      },
-      {
-        "key": "range",
-        "value": "3"
-      }
-    ]
-  },
-  {
-    "id": "13760",
-    "article": "a",
-    "name": "wand of dimensions",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "This wand controls the rift between time and space."
-      },
-      {
-        "key": "weight",
-        "value": "2800"
-      },
-      {
-        "key": "weaponType",
-        "value": "wand"
-      },
-      {
-        "key": "shootType",
-        "value": "death"
-      },
-      {
-        "key": "range",
-        "value": "3"
-      }
-    ]
-  },
-  {
-    "id": "13872",
-    "article": "a",
-    "name": "shimmer rod",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "It feels cold and smooth."
-      },
-      {
-        "key": "weight",
-        "value": "3100"
-      },
-      {
-        "key": "weaponType",
-        "value": "wand"
-      },
-      {
-        "key": "shootType",
-        "value": "smallice"
-      },
-      {
-        "key": "range",
-        "value": "4"
-      },
-      {
-        "key": "decayTo",
-        "value": "0"
-      },
-      {
-        "key": "duration",
-        "value": "604800"
-      }
-    ]
-  },
-  {
-    "id": "13880",
-    "article": "a",
-    "name": "shimmer wand",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "3100"
-      },
-      {
-        "key": "description",
-        "value": "It feels cold and smooth."
-      },
-      {
-        "key": "weaponType",
-        "value": "wand"
-      },
-      {
-        "key": "shootType",
-        "value": "energy"
-      },
-      {
-        "key": "range",
-        "value": "4"
-      },
-      {
-        "key": "decayTo",
-        "value": "0"
-      },
-      {
-        "key": "duration",
-        "value": "604800"
-      }
-    ]
-  },
-  {
-    "id": "18390",
-    "article": "a",
-    "name": "wand of defiance",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "It reveals devastating energy arcs."
-      },
-      {
-        "key": "weight",
-        "value": "3700"
-      },
-      {
-        "key": "weaponType",
-        "value": "wand"
-      },
-      {
-        "key": "shootType",
-        "value": "energy"
-      },
-      {
-        "key": "range",
-        "value": "4"
-      },
-      {
-        "key": "magiclevelpoints",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "id": "18409",
-    "article": "a",
-    "name": "wand of everblazing",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "It contains the everblazing fire."
-      },
-      {
-        "key": "weight",
-        "value": "3700"
-      },
-      {
-        "key": "weaponType",
-        "value": "wand"
-      },
-      {
-        "key": "shootType",
-        "value": "fire"
-      },
-      {
-        "key": "range",
-        "value": "4"
-      },
-      {
-        "key": "magiclevelpoints",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "id": "18411",
-    "article": "a",
-    "name": "muck rod",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "A true staff of old, spitting slimy orbs."
-      },
-      {
-        "key": "weight",
-        "value": "3700"
-      },
-      {
-        "key": "weaponType",
-        "value": "wand"
-      },
-      {
-        "key": "shootType",
-        "value": "smallearth"
-      },
-      {
-        "key": "range",
-        "value": "4"
-      },
-      {
-        "key": "magiclevelpoints",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "id": "18412",
-    "article": "a",
-    "name": "glacial rod",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "Hurls the icy essence of the Svargrond glaciers."
-      },
-      {
-        "key": "weight",
-        "value": "3700"
-      },
-      {
-        "key": "weaponType",
-        "value": "wand"
-      },
-      {
-        "key": "shootType",
-        "value": "smallice"
-      },
-      {
-        "key": "range",
-        "value": "4"
-      },
-      {
-        "key": "magiclevelpoints",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "id": "19391",
-    "article": "a",
-    "name": "sorcerer and druid staff",
-    "attributes": [
-      {
-        "key": "weaponType",
-        "value": "wand"
-      },
-      {
-        "key": "weight",
-        "value": "1900"
-      },
-      {
-        "key": "shootType",
-        "value": "energy"
-      },
-      {
-        "key": "range",
-        "value": "3"
-      }
-    ]
-  },
-  {
-    "id": "23719",
-    "article": "the",
-    "name": "scorcher",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "It's warm to the touch."
-      },
-      {
-        "key": "weight",
-        "value": "1500"
-      },
-      {
-        "key": "weaponType",
-        "value": "wand"
-      },
-      {
-        "key": "shootType",
-        "value": "fire"
-      },
-      {
-        "key": "range",
-        "value": "3"
-      }
-    ]
-  },
-  {
-    "id": "23721",
-    "article": "the",
-    "name": "chiller",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "It is a little, well, chilly to the touch."
-      },
-      {
-        "key": "weight",
-        "value": "1500"
-      },
-      {
-        "key": "weaponType",
-        "value": "wand"
-      },
-      {
-        "key": "shootType",
-        "value": "smallice"
-      },
-      {
-        "key": "range",
-        "value": "3"
-      }
-    ]
-  },
-  {
-    "id": "24839",
-    "article": "an",
-    "name": "ogre scepta",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "2900"
-      },
-      {
-        "key": "weaponType",
-        "value": "wand"
-      },
-      {
-        "key": "shootType",
-        "value": "smallearth"
-      },
-      {
-        "key": "range",
-        "value": "3"
-      }
-    ]
-  },
-  {
-    "id": "25421",
-    "name": "Ferumbras' staff",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "2250"
-      },
-      {
-        "key": "description",
-        "value": "It is made of platinum and emeralds and topped by a large F made of gold."
-      },
-      {
-        "key": "weaponType",
-        "value": "wand"
-      },
-      {
-        "key": "shootType",
-        "value": "energy"
-      },
-      {
-        "key": "range",
-        "value": "3"
-      },
-      {
-        "key": "decayTo",
-        "value": "25420"
-      },
-      {
-        "key": "duration",
-        "value": "43200"
-      }
-    ]
-  },
-  {
-    "id": "25422",
-    "name": "Ferumbras' staff",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "3400"
-      },
-      {
-        "key": "description",
-        "value": "It is made of platinum and emeralds and topped by a large F made of gold."
-      },
-      {
-        "key": "weaponType",
-        "value": "wand"
-      },
-      {
-        "key": "shootType",
-        "value": "energy"
-      },
-      {
-        "key": "magiclevelpoints",
-        "value": "1"
-      },
-      {
-        "key": "range",
-        "value": "4"
-      },
-      {
-        "key": "decayTo",
-        "value": "25420"
-      },
-      {
-        "key": "duration",
-        "value": "43200"
-      }
-    ]
-  },
-  {
-    "id": "25887",
-    "article": "a",
-    "name": "wand of mayhem",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "3500"
-      },
-      {
-        "key": "weaponType",
-        "value": "wand"
-      },
-      {
-        "key": "shootType",
-        "value": "energy"
-      },
-      {
-        "key": "range",
-        "value": "3"
-      }
-    ]
-  },
-  {
-    "id": "25888",
-    "article": "a",
-    "name": "rod of mayhem",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "3500"
-      },
-      {
-        "key": "weaponType",
-        "value": "wand"
-      },
-      {
-        "key": "shootType",
-        "value": "ice"
-      },
-      {
-        "key": "range",
-        "value": "3"
-      }
-    ]
-  },
-  {
-    "fromid": "25951",
-    "toid": "25954",
-    "article": "a",
-    "name": "wand of remedy",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "3500"
-      },
-      {
-        "key": "weaponType",
-        "value": "wand"
-      },
-      {
-        "key": "shootType",
-        "value": "energy"
-      },
-      {
-        "key": "range",
-        "value": "3"
-      }
-    ]
-  },
-  {
-    "fromid": "25955",
-    "toid": "25958",
-    "article": "a",
-    "name": "rod of remedy",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "3500"
-      },
-      {
-        "key": "weaponType",
-        "value": "wand"
-      },
-      {
-        "key": "shootType",
-        "value": "ice"
-      },
-      {
-        "key": "range",
-        "value": "3"
-      }
-    ]
-  },
-  {
-    "fromid": "25991",
-    "toid": "25994",
-    "article": "a",
-    "name": "wand of carving",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "3500"
-      },
-      {
-        "key": "weaponType",
-        "value": "wand"
-      },
-      {
-        "key": "shootType",
-        "value": "energy"
-      },
-      {
-        "key": "range",
-        "value": "3"
-      }
-    ]
-  },
-  {
-    "fromid": "25995",
-    "toid": "25998",
-    "article": "a",
-    "name": "rod of carving",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "3500"
-      },
-      {
-        "key": "weaponType",
-        "value": "wand"
-      },
-      {
-        "key": "shootType",
-        "value": "ice"
-      },
-      {
-        "key": "range",
-        "value": "3"
-      }
-    ]
-  },
-  {
-    "id": "28356",
-    "article": "a",
-    "name": "dream blossom staff",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "It's a gnarly branch with a gleaming blue blossom."
-      },
-      {
-        "key": "weight",
-        "value": "3200"
-      },
-      {
-        "key": "weaponType",
-        "value": "wand"
-      },
-      {
-        "key": "shootType",
-        "value": "energy"
-      },
-      {
-        "key": "range",
-        "value": "4"
-      },
-      {
-        "key": "magiclevelpoints",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "id": "28416",
-    "article": "a",
-    "name": "wand of darkness",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "3200"
-      },
-      {
-        "key": "weapontype",
-        "value": "wand"
-      },
-      {
-        "key": "shoottype",
-        "value": "death"
-      },
-      {
-        "key": "criticalhitamount",
-        "value": "35"
-      },
-      {
-        "key": "criticalhitchance",
-        "value": "10"
-      },
-      {
-        "key": "magiclevelpoints",
-        "value": "2"
-      },
-      {
-        "key": "range",
-        "value": "4"
-      },
-      {
-        "key": "duration",
-        "value": "900"
-      },
-      {
-        "key": "decayto",
-        "value": "0"
-      },
-      {
-        "key": "showduration",
-        "value": "true"
-      }
-    ]
-  },
-  {
-    "id": "30113",
-    "article": "a",
-    "name": "wand of destruction",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "3500"
-      },
-      {
-        "key": "weaponType",
-        "value": "wand"
-      },
-      {
-        "key": "shootType",
-        "value": "energy"
-      },
-      {
-        "key": "range",
-        "value": "4"
-      },
-      {
-        "key": "magiclevelpoints",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "id": "30114",
-    "article": "a",
-    "name": "rod of destruction",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "3500"
-      },
-      {
-        "key": "weaponType",
-        "value": "wand"
-      },
-      {
-        "key": "shootType",
-        "value": "ice"
-      },
-      {
-        "key": "range",
-        "value": "4"
-      },
-      {
-        "key": "magiclevelpoints",
-        "value": "1"
-      }
-    ]
-  }
-]
+{
+  "items": [
+    {
+      "id": "2181",
+      "article": "a",
+      "name": "terra rod",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "Small stones are flying from its tip."
+        },
+        {
+          "key": "weight",
+          "value": "2500"
+        },
+        {
+          "key": "weaponType",
+          "value": "wand"
+        },
+        {
+          "key": "shootType",
+          "value": "smallearth"
+        },
+        {
+          "key": "range",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "id": "2182",
+      "article": "a",
+      "name": "snakebite rod",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "It seems to twitch and quiver as if trying to escape your grip."
+        },
+        {
+          "key": "weight",
+          "value": "1900"
+        },
+        {
+          "key": "weaponType",
+          "value": "wand"
+        },
+        {
+          "key": "shootType",
+          "value": "smallearth"
+        },
+        {
+          "key": "range",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "id": "2183",
+      "article": "a",
+      "name": "hailstorm rod",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "It grants you the power of striking your foes with furious hailstorms."
+        },
+        {
+          "key": "weight",
+          "value": "2700"
+        },
+        {
+          "key": "weaponType",
+          "value": "wand"
+        },
+        {
+          "key": "shootType",
+          "value": "smallice"
+        },
+        {
+          "key": "range",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "id": "2185",
+      "article": "a",
+      "name": "necrotic rod",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "It was brought up from hell to deliver death."
+        },
+        {
+          "key": "weight",
+          "value": "2300"
+        },
+        {
+          "key": "weaponType",
+          "value": "wand"
+        },
+        {
+          "key": "shootType",
+          "value": "death"
+        },
+        {
+          "key": "range",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "id": "2186",
+      "article": "a",
+      "name": "moonlight rod",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "Icecold rays of moonlight shimmer on its tip."
+        },
+        {
+          "key": "weight",
+          "value": "2100"
+        },
+        {
+          "key": "weaponType",
+          "value": "wand"
+        },
+        {
+          "key": "shootType",
+          "value": "smallice"
+        },
+        {
+          "key": "range",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "id": "2187",
+      "article": "a",
+      "name": "wand of inferno",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "It unleashes the very fires of hell."
+        },
+        {
+          "key": "weight",
+          "value": "2700"
+        },
+        {
+          "key": "weaponType",
+          "value": "wand"
+        },
+        {
+          "key": "shootType",
+          "value": "fire"
+        },
+        {
+          "key": "range",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "id": "2188",
+      "article": "a",
+      "name": "wand of decay",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "It is half-rotten itself and reeks terribly."
+        },
+        {
+          "key": "weight",
+          "value": "2300"
+        },
+        {
+          "key": "weaponType",
+          "value": "wand"
+        },
+        {
+          "key": "shootType",
+          "value": "death"
+        },
+        {
+          "key": "range",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "id": "2189",
+      "article": "a",
+      "name": "wand of cosmic energy",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "The energy of a radiant star is trapped inside its globe."
+        },
+        {
+          "key": "weight",
+          "value": "2500"
+        },
+        {
+          "key": "weaponType",
+          "value": "wand"
+        },
+        {
+          "key": "shootType",
+          "value": "energy"
+        },
+        {
+          "key": "range",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "id": "2190",
+      "article": "a",
+      "name": "wand of vortex",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "Surges of energy rush through the tip of this wand."
+        },
+        {
+          "key": "weight",
+          "value": "1900"
+        },
+        {
+          "key": "weaponType",
+          "value": "wand"
+        },
+        {
+          "key": "shootType",
+          "value": "energy"
+        },
+        {
+          "key": "range",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "id": "2191",
+      "article": "a",
+      "name": "wand of dragonbreath",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "Legends say that this wand holds the soul of a young dragon."
+        },
+        {
+          "key": "weight",
+          "value": "2100"
+        },
+        {
+          "key": "weaponType",
+          "value": "wand"
+        },
+        {
+          "key": "shootType",
+          "value": "fire"
+        },
+        {
+          "key": "range",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "id": "8910",
+      "article": "an",
+      "name": "underworld rod",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "No one knows which hell this unholy rod comes from."
+        },
+        {
+          "key": "weight",
+          "value": "2900"
+        },
+        {
+          "key": "weaponType",
+          "value": "wand"
+        },
+        {
+          "key": "shootType",
+          "value": "death"
+        },
+        {
+          "key": "range",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "id": "8911",
+      "article": "a",
+      "name": "northwind rod",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "It was made by one of the shamans in Svargrond and symbolises an icy mammoth."
+        },
+        {
+          "key": "weight",
+          "value": "2900"
+        },
+        {
+          "key": "weaponType",
+          "value": "wand"
+        },
+        {
+          "key": "shootType",
+          "value": "ice"
+        },
+        {
+          "key": "range",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "id": "8912",
+      "article": "a",
+      "name": "springsprout rod",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "It is filled with the energy of growing plants."
+        },
+        {
+          "key": "weight",
+          "value": "2700"
+        },
+        {
+          "key": "weaponType",
+          "value": "wand"
+        },
+        {
+          "key": "shootType",
+          "value": "smallearth"
+        },
+        {
+          "key": "range",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "id": "8920",
+      "article": "a",
+      "name": "wand of starstorm",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "It is sparkling with universal energy."
+        },
+        {
+          "key": "weight",
+          "value": "2550"
+        },
+        {
+          "key": "weaponType",
+          "value": "wand"
+        },
+        {
+          "key": "shootType",
+          "value": "energy"
+        },
+        {
+          "key": "range",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "id": "8921",
+      "article": "a",
+      "name": "wand of draconia",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "This wand holds the spirit and soul of a dragon lord."
+        },
+        {
+          "key": "weight",
+          "value": "2700"
+        },
+        {
+          "key": "weaponType",
+          "value": "wand"
+        },
+        {
+          "key": "shootType",
+          "value": "fire"
+        },
+        {
+          "key": "range",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "id": "8922",
+      "article": "a",
+      "name": "wand of voodoo",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "It is filled with the dark hatred and rage of a tormented demonic being."
+        },
+        {
+          "key": "weight",
+          "value": "2850"
+        },
+        {
+          "key": "weaponType",
+          "value": "wand"
+        },
+        {
+          "key": "shootType",
+          "value": "death"
+        },
+        {
+          "key": "range",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "id": "13760",
+      "article": "a",
+      "name": "wand of dimensions",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "This wand controls the rift between time and space."
+        },
+        {
+          "key": "weight",
+          "value": "2800"
+        },
+        {
+          "key": "weaponType",
+          "value": "wand"
+        },
+        {
+          "key": "shootType",
+          "value": "death"
+        },
+        {
+          "key": "range",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "id": "13872",
+      "article": "a",
+      "name": "shimmer rod",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "It feels cold and smooth."
+        },
+        {
+          "key": "weight",
+          "value": "3100"
+        },
+        {
+          "key": "weaponType",
+          "value": "wand"
+        },
+        {
+          "key": "shootType",
+          "value": "smallice"
+        },
+        {
+          "key": "range",
+          "value": "4"
+        },
+        {
+          "key": "decayTo",
+          "value": "0"
+        },
+        {
+          "key": "duration",
+          "value": "604800"
+        }
+      ]
+    },
+    {
+      "id": "13880",
+      "article": "a",
+      "name": "shimmer wand",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "3100"
+        },
+        {
+          "key": "description",
+          "value": "It feels cold and smooth."
+        },
+        {
+          "key": "weaponType",
+          "value": "wand"
+        },
+        {
+          "key": "shootType",
+          "value": "energy"
+        },
+        {
+          "key": "range",
+          "value": "4"
+        },
+        {
+          "key": "decayTo",
+          "value": "0"
+        },
+        {
+          "key": "duration",
+          "value": "604800"
+        }
+      ]
+    },
+    {
+      "id": "18390",
+      "article": "a",
+      "name": "wand of defiance",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "It reveals devastating energy arcs."
+        },
+        {
+          "key": "weight",
+          "value": "3700"
+        },
+        {
+          "key": "weaponType",
+          "value": "wand"
+        },
+        {
+          "key": "shootType",
+          "value": "energy"
+        },
+        {
+          "key": "range",
+          "value": "4"
+        },
+        {
+          "key": "magiclevelpoints",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "id": "18409",
+      "article": "a",
+      "name": "wand of everblazing",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "It contains the everblazing fire."
+        },
+        {
+          "key": "weight",
+          "value": "3700"
+        },
+        {
+          "key": "weaponType",
+          "value": "wand"
+        },
+        {
+          "key": "shootType",
+          "value": "fire"
+        },
+        {
+          "key": "range",
+          "value": "4"
+        },
+        {
+          "key": "magiclevelpoints",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "id": "18411",
+      "article": "a",
+      "name": "muck rod",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "A true staff of old, spitting slimy orbs."
+        },
+        {
+          "key": "weight",
+          "value": "3700"
+        },
+        {
+          "key": "weaponType",
+          "value": "wand"
+        },
+        {
+          "key": "shootType",
+          "value": "smallearth"
+        },
+        {
+          "key": "range",
+          "value": "4"
+        },
+        {
+          "key": "magiclevelpoints",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "id": "18412",
+      "article": "a",
+      "name": "glacial rod",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "Hurls the icy essence of the Svargrond glaciers."
+        },
+        {
+          "key": "weight",
+          "value": "3700"
+        },
+        {
+          "key": "weaponType",
+          "value": "wand"
+        },
+        {
+          "key": "shootType",
+          "value": "smallice"
+        },
+        {
+          "key": "range",
+          "value": "4"
+        },
+        {
+          "key": "magiclevelpoints",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "id": "19391",
+      "article": "a",
+      "name": "sorcerer and druid staff",
+      "attributes": [
+        {
+          "key": "weaponType",
+          "value": "wand"
+        },
+        {
+          "key": "weight",
+          "value": "1900"
+        },
+        {
+          "key": "shootType",
+          "value": "energy"
+        },
+        {
+          "key": "range",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "id": "23719",
+      "article": "the",
+      "name": "scorcher",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "It's warm to the touch."
+        },
+        {
+          "key": "weight",
+          "value": "1500"
+        },
+        {
+          "key": "weaponType",
+          "value": "wand"
+        },
+        {
+          "key": "shootType",
+          "value": "fire"
+        },
+        {
+          "key": "range",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "id": "23721",
+      "article": "the",
+      "name": "chiller",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "It is a little, well, chilly to the touch."
+        },
+        {
+          "key": "weight",
+          "value": "1500"
+        },
+        {
+          "key": "weaponType",
+          "value": "wand"
+        },
+        {
+          "key": "shootType",
+          "value": "smallice"
+        },
+        {
+          "key": "range",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "id": "24839",
+      "article": "an",
+      "name": "ogre scepta",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "2900"
+        },
+        {
+          "key": "weaponType",
+          "value": "wand"
+        },
+        {
+          "key": "shootType",
+          "value": "smallearth"
+        },
+        {
+          "key": "range",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "id": "25421",
+      "name": "Ferumbras' staff",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "2250"
+        },
+        {
+          "key": "description",
+          "value": "It is made of platinum and emeralds and topped by a large F made of gold."
+        },
+        {
+          "key": "weaponType",
+          "value": "wand"
+        },
+        {
+          "key": "shootType",
+          "value": "energy"
+        },
+        {
+          "key": "range",
+          "value": "3"
+        },
+        {
+          "key": "decayTo",
+          "value": "25420"
+        },
+        {
+          "key": "duration",
+          "value": "43200"
+        }
+      ]
+    },
+    {
+      "id": "25422",
+      "name": "Ferumbras' staff",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "3400"
+        },
+        {
+          "key": "description",
+          "value": "It is made of platinum and emeralds and topped by a large F made of gold."
+        },
+        {
+          "key": "weaponType",
+          "value": "wand"
+        },
+        {
+          "key": "shootType",
+          "value": "energy"
+        },
+        {
+          "key": "magiclevelpoints",
+          "value": "1"
+        },
+        {
+          "key": "range",
+          "value": "4"
+        },
+        {
+          "key": "decayTo",
+          "value": "25420"
+        },
+        {
+          "key": "duration",
+          "value": "43200"
+        }
+      ]
+    },
+    {
+      "id": "25887",
+      "article": "a",
+      "name": "wand of mayhem",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "3500"
+        },
+        {
+          "key": "weaponType",
+          "value": "wand"
+        },
+        {
+          "key": "shootType",
+          "value": "energy"
+        },
+        {
+          "key": "range",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "id": "25888",
+      "article": "a",
+      "name": "rod of mayhem",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "3500"
+        },
+        {
+          "key": "weaponType",
+          "value": "wand"
+        },
+        {
+          "key": "shootType",
+          "value": "ice"
+        },
+        {
+          "key": "range",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "fromid": "25951",
+      "toid": "25954",
+      "article": "a",
+      "name": "wand of remedy",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "3500"
+        },
+        {
+          "key": "weaponType",
+          "value": "wand"
+        },
+        {
+          "key": "shootType",
+          "value": "energy"
+        },
+        {
+          "key": "range",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "fromid": "25955",
+      "toid": "25958",
+      "article": "a",
+      "name": "rod of remedy",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "3500"
+        },
+        {
+          "key": "weaponType",
+          "value": "wand"
+        },
+        {
+          "key": "shootType",
+          "value": "ice"
+        },
+        {
+          "key": "range",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "fromid": "25991",
+      "toid": "25994",
+      "article": "a",
+      "name": "wand of carving",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "3500"
+        },
+        {
+          "key": "weaponType",
+          "value": "wand"
+        },
+        {
+          "key": "shootType",
+          "value": "energy"
+        },
+        {
+          "key": "range",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "fromid": "25995",
+      "toid": "25998",
+      "article": "a",
+      "name": "rod of carving",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "3500"
+        },
+        {
+          "key": "weaponType",
+          "value": "wand"
+        },
+        {
+          "key": "shootType",
+          "value": "ice"
+        },
+        {
+          "key": "range",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "id": "28356",
+      "article": "a",
+      "name": "dream blossom staff",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "It's a gnarly branch with a gleaming blue blossom."
+        },
+        {
+          "key": "weight",
+          "value": "3200"
+        },
+        {
+          "key": "weaponType",
+          "value": "wand"
+        },
+        {
+          "key": "shootType",
+          "value": "energy"
+        },
+        {
+          "key": "range",
+          "value": "4"
+        },
+        {
+          "key": "magiclevelpoints",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "id": "28416",
+      "article": "a",
+      "name": "wand of darkness",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "3200"
+        },
+        {
+          "key": "weapontype",
+          "value": "wand"
+        },
+        {
+          "key": "shoottype",
+          "value": "death"
+        },
+        {
+          "key": "criticalhitamount",
+          "value": "35"
+        },
+        {
+          "key": "criticalhitchance",
+          "value": "10"
+        },
+        {
+          "key": "magiclevelpoints",
+          "value": "2"
+        },
+        {
+          "key": "range",
+          "value": "4"
+        },
+        {
+          "key": "duration",
+          "value": "900"
+        },
+        {
+          "key": "decayto",
+          "value": "0"
+        },
+        {
+          "key": "showduration",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "id": "30113",
+      "article": "a",
+      "name": "wand of destruction",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "3500"
+        },
+        {
+          "key": "weaponType",
+          "value": "wand"
+        },
+        {
+          "key": "shootType",
+          "value": "energy"
+        },
+        {
+          "key": "range",
+          "value": "4"
+        },
+        {
+          "key": "magiclevelpoints",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "id": "30114",
+      "article": "a",
+      "name": "rod of destruction",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "3500"
+        },
+        {
+          "key": "weaponType",
+          "value": "wand"
+        },
+        {
+          "key": "shootType",
+          "value": "ice"
+        },
+        {
+          "key": "range",
+          "value": "4"
+        },
+        {
+          "key": "magiclevelpoints",
+          "value": "1"
+        }
+      ]
+    }
+  ]
+}

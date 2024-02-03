@@ -1,0 +1,928 @@
+{
+  "items": [
+    {
+      "id": "2543",
+      "article": "a",
+      "name": "bolt",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "80"
+        },
+        {
+          "key": "slotType",
+          "value": "ammo"
+        },
+        {
+          "key": "attack",
+          "value": "30"
+        },
+        {
+          "key": "weaponType",
+          "value": "ammunition"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "shootType",
+          "value": "bolt"
+        },
+        {
+          "key": "maxHitChance",
+          "value": "87"
+        },
+        {
+          "key": "supply",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "id": "2544",
+      "article": "an",
+      "name": "arrow",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "70"
+        },
+        {
+          "key": "slotType",
+          "value": "ammo"
+        },
+        {
+          "key": "attack",
+          "value": "25"
+        },
+        {
+          "key": "weaponType",
+          "value": "ammunition"
+        },
+        {
+          "key": "ammoType",
+          "value": "arrow"
+        },
+        {
+          "key": "shootType",
+          "value": "arrow"
+        },
+        {
+          "key": "maxHitChance",
+          "value": "91"
+        },
+        {
+          "key": "supply",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "id": "2545",
+      "article": "a",
+      "name": "poison arrow",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "80"
+        },
+        {
+          "key": "slotType",
+          "value": "ammo"
+        },
+        {
+          "key": "attack",
+          "value": "23"
+        },
+        {
+          "key": "weaponType",
+          "value": "ammunition"
+        },
+        {
+          "key": "ammoType",
+          "value": "arrow"
+        },
+        {
+          "key": "shootType",
+          "value": "poisonarrow"
+        },
+        {
+          "key": "maxHitChance",
+          "value": "91"
+        },
+        {
+          "key": "supply",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "id": "2546",
+      "article": "a",
+      "name": "burst arrow",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "90"
+        },
+        {
+          "key": "slotType",
+          "value": "ammo"
+        },
+        {
+          "key": "attack",
+          "value": "27"
+        },
+        {
+          "key": "weaponType",
+          "value": "ammunition"
+        },
+        {
+          "key": "ammoType",
+          "value": "arrow"
+        },
+        {
+          "key": "shootType",
+          "value": "burstarrow"
+        },
+        {
+          "key": "maxHitChance",
+          "value": "100"
+        },
+        {
+          "key": "supply",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "id": "2547",
+      "article": "a",
+      "name": "power bolt",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "80"
+        },
+        {
+          "key": "slotType",
+          "value": "ammo"
+        },
+        {
+          "key": "attack",
+          "value": "40"
+        },
+        {
+          "key": "weaponType",
+          "value": "ammunition"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "shootType",
+          "value": "powerbolt"
+        },
+        {
+          "key": "maxHitChance",
+          "value": "91"
+        },
+        {
+          "key": "supply",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "id": "6529",
+      "article": "an",
+      "name": "infernal bolt",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "90"
+        },
+        {
+          "key": "slotType",
+          "value": "ammo"
+        },
+        {
+          "key": "attack",
+          "value": "72"
+        },
+        {
+          "key": "weaponType",
+          "value": "ammunition"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "shootType",
+          "value": "infernalbolt"
+        },
+        {
+          "key": "maxHitChance",
+          "value": "91"
+        },
+        {
+          "key": "supply",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "id": "7363",
+      "article": "a",
+      "name": "piercing bolt",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "80"
+        },
+        {
+          "key": "slotType",
+          "value": "ammo"
+        },
+        {
+          "key": "attack",
+          "value": "33"
+        },
+        {
+          "key": "weaponType",
+          "value": "ammunition"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "shootType",
+          "value": "piercingbolt"
+        },
+        {
+          "key": "maxHitChance",
+          "value": "87"
+        },
+        {
+          "key": "supply",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "id": "7364",
+      "article": "a",
+      "name": "sniper arrow",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "70"
+        },
+        {
+          "key": "slotType",
+          "value": "ammo"
+        },
+        {
+          "key": "attack",
+          "value": "28"
+        },
+        {
+          "key": "weaponType",
+          "value": "ammunition"
+        },
+        {
+          "key": "ammoType",
+          "value": "arrow"
+        },
+        {
+          "key": "shootType",
+          "value": "sniperarrow"
+        },
+        {
+          "key": "maxHitChance",
+          "value": "100"
+        },
+        {
+          "key": "supply",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "id": "7365",
+      "article": "an",
+      "name": "onyx arrow",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "70"
+        },
+        {
+          "key": "slotType",
+          "value": "ammo"
+        },
+        {
+          "key": "attack",
+          "value": "38"
+        },
+        {
+          "key": "weaponType",
+          "value": "ammunition"
+        },
+        {
+          "key": "ammoType",
+          "value": "arrow"
+        },
+        {
+          "key": "shootType",
+          "value": "onyxarrow"
+        },
+        {
+          "key": "maxHitChance",
+          "value": "94"
+        },
+        {
+          "key": "supply",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "id": "7838",
+      "article": "a",
+      "name": "flash arrow",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "70"
+        },
+        {
+          "key": "slotType",
+          "value": "ammo"
+        },
+        {
+          "key": "attack",
+          "value": "14"
+        },
+        {
+          "key": "elementEnergy",
+          "value": "14"
+        },
+        {
+          "key": "weaponType",
+          "value": "ammunition"
+        },
+        {
+          "key": "ammoType",
+          "value": "arrow"
+        },
+        {
+          "key": "shootType",
+          "value": "flasharrow"
+        },
+        {
+          "key": "maxHitChance",
+          "value": "91"
+        },
+        {
+          "key": "supply",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "id": "7839",
+      "article": "a",
+      "name": "shiver arrow",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "70"
+        },
+        {
+          "key": "slotType",
+          "value": "ammo"
+        },
+        {
+          "key": "attack",
+          "value": "14"
+        },
+        {
+          "key": "elementIce",
+          "value": "14"
+        },
+        {
+          "key": "weaponType",
+          "value": "ammunition"
+        },
+        {
+          "key": "ammoType",
+          "value": "arrow"
+        },
+        {
+          "key": "shootType",
+          "value": "shiverarrow"
+        },
+        {
+          "key": "maxHitChance",
+          "value": "91"
+        },
+        {
+          "key": "supply",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "id": "7840",
+      "article": "a",
+      "name": "flaming arrow",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "70"
+        },
+        {
+          "key": "slotType",
+          "value": "ammo"
+        },
+        {
+          "key": "attack",
+          "value": "14"
+        },
+        {
+          "key": "elementFire",
+          "value": "14"
+        },
+        {
+          "key": "weaponType",
+          "value": "ammunition"
+        },
+        {
+          "key": "ammoType",
+          "value": "arrow"
+        },
+        {
+          "key": "shootType",
+          "value": "flammingarrow"
+        },
+        {
+          "key": "maxHitChance",
+          "value": "91"
+        },
+        {
+          "key": "supply",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "id": "7850",
+      "article": "an",
+      "name": "earth arrow",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "70"
+        },
+        {
+          "key": "slotType",
+          "value": "ammo"
+        },
+        {
+          "key": "attack",
+          "value": "14"
+        },
+        {
+          "key": "elementEarth",
+          "value": "14"
+        },
+        {
+          "key": "weaponType",
+          "value": "ammunition"
+        },
+        {
+          "key": "shootType",
+          "value": "eartharrow"
+        },
+        {
+          "key": "ammoType",
+          "value": "arrow"
+        },
+        {
+          "key": "maxHitChance",
+          "value": "91"
+        },
+        {
+          "key": "supply",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "id": "15648",
+      "article": "a",
+      "name": "tarsal arrow",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "70"
+        },
+        {
+          "key": "slotType",
+          "value": "ammo"
+        },
+        {
+          "key": "attack",
+          "value": "33"
+        },
+        {
+          "key": "weaponType",
+          "value": "ammunition"
+        },
+        {
+          "key": "ammoType",
+          "value": "arrow"
+        },
+        {
+          "key": "shootType",
+          "value": "tarsalarrow"
+        },
+        {
+          "key": "maxHitChance",
+          "value": "94"
+        },
+        {
+          "key": "supply",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "id": "15649",
+      "article": "a",
+      "name": "vortex bolt",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "80"
+        },
+        {
+          "key": "slotType",
+          "value": "ammo"
+        },
+        {
+          "key": "attack",
+          "value": "36"
+        },
+        {
+          "key": "weaponType",
+          "value": "ammunition"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "shootType",
+          "value": "vortexbolt"
+        },
+        {
+          "key": "maxHitChance",
+          "value": "89"
+        },
+        {
+          "key": "supply",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "id": "18304",
+      "article": "a",
+      "name": "crystalline arrow",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "75"
+        },
+        {
+          "key": "slotType",
+          "value": "ammo"
+        },
+        {
+          "key": "attack",
+          "value": "65"
+        },
+        {
+          "key": "weaponType",
+          "value": "ammunition"
+        },
+        {
+          "key": "ammoType",
+          "value": "arrow"
+        },
+        {
+          "key": "shootType",
+          "value": "crystallinearrow"
+        },
+        {
+          "key": "maxHitChance",
+          "value": "95"
+        },
+        {
+          "key": "supply",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "id": "18435",
+      "article": "a",
+      "name": "prismatic bolt",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "85"
+        },
+        {
+          "key": "slotType",
+          "value": "ammo"
+        },
+        {
+          "key": "attack",
+          "value": "66"
+        },
+        {
+          "key": "weaponType",
+          "value": "ammunition"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "shootType",
+          "value": "prismaticbolt"
+        },
+        {
+          "key": "maxHitChance",
+          "value": "90"
+        },
+        {
+          "key": "supply",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "id": "18436",
+      "article": "a",
+      "name": "drill bolt",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "80"
+        },
+        {
+          "key": "slotType",
+          "value": "ammo"
+        },
+        {
+          "key": "attack",
+          "value": "56"
+        },
+        {
+          "key": "weaponType",
+          "value": "ammunition"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "shootType",
+          "value": "drillbolt"
+        },
+        {
+          "key": "maxHitChance",
+          "value": "90"
+        },
+        {
+          "key": "supply",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "id": "18437",
+      "article": "an",
+      "name": "envenomed arrow",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "70"
+        },
+        {
+          "key": "slotType",
+          "value": "ammo"
+        },
+        {
+          "key": "attack",
+          "value": "27"
+        },
+        {
+          "key": "elementEarth",
+          "value": "27"
+        },
+        {
+          "key": "weaponType",
+          "value": "ammunition"
+        },
+        {
+          "key": "ammoType",
+          "value": "arrow"
+        },
+        {
+          "key": "shootType",
+          "value": "envenomedarrow"
+        },
+        {
+          "key": "maxHitChance",
+          "value": "93"
+        },
+        {
+          "key": "supply",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "id": "23839",
+      "article": "a",
+      "name": "simple arrow",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "60"
+        },
+        {
+          "key": "slotType",
+          "value": "ammo"
+        },
+        {
+          "key": "attack",
+          "value": "20"
+        },
+        {
+          "key": "weaponType",
+          "value": "ammunition"
+        },
+        {
+          "key": "ammoType",
+          "value": "arrow"
+        },
+        {
+          "key": "shootType",
+          "value": "simplearrow"
+        },
+        {
+          "key": "maxHitChance",
+          "value": "91"
+        },
+        {
+          "key": "supply",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "id": "28413",
+      "article": "a",
+      "name": "diamond arrow",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "80"
+        },
+        {
+          "key": "weaponType",
+          "value": "ammunition"
+        },
+        {
+          "key": "ammoType",
+          "value": "arrow"
+        },
+        {
+          "key": "attack",
+          "value": "37"
+        },
+        {
+          "key": "shootType",
+          "value": "diamondarrow"
+        },
+        {
+          "key": "supply",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "id": "28414",
+      "article": "a",
+      "name": "spectral bolt",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "90"
+        },
+        {
+          "key": "weaponType",
+          "value": "ammunition"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "attack",
+          "value": "78"
+        },
+        {
+          "key": "shootType",
+          "value": "spectralbolt"
+        },
+        {
+          "key": "supply",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "id": "38557",
+      "article": "a",
+      "name": "diamond arrow",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "80"
+        },
+        {
+          "key": "weaponType",
+          "value": "ammunition"
+        },
+        {
+          "key": "ammoType",
+          "value": "arrow"
+        },
+        {
+          "key": "attack",
+          "value": "37"
+        },
+        {
+          "key": "shootType",
+          "value": "diamondarrow"
+        },
+        {
+          "key": "supply",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "id": "38558",
+      "article": "a",
+      "name": "spectral bolt",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "90"
+        },
+        {
+          "key": "weaponType",
+          "value": "ammunition"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "attack",
+          "value": "78"
+        },
+        {
+          "key": "shootType",
+          "value": "spectralbolt"
+        },
+        {
+          "key": "supply",
+          "value": "true"
+        }
+      ]
+    }
+  ]
+}

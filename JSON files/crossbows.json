@@ -1,655 +1,657 @@
-[
-  {
-    "id": "2455",
-    "article": "a",
-    "name": "crossbow",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "4000"
-      },
-      {
-        "key": "weaponType",
-        "value": "distance"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "ammoType",
-        "value": "bolt"
-      },
-      {
-        "key": "range",
-        "value": "5"
-      }
-    ]
-  },
-  {
-    "id": "5803",
-    "article": "an",
-    "name": "arbalest",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "It is a bit heavy due to the iron mounting, but very precise."
-      },
-      {
-        "key": "weight",
-        "value": "9500"
-      },
-      {
-        "key": "weaponType",
-        "value": "distance"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "ammoType",
-        "value": "bolt"
-      },
-      {
-        "key": "range",
-        "value": "6"
-      },
-      {
-        "key": "hitChance",
-        "value": "2"
-      },
-      {
-        "key": "attack",
-        "value": "2"
-      }
-    ]
-  },
-  {
-    "id": "8849",
-    "article": "a",
-    "name": "modified crossbow",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "3500"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "weaponType",
-        "value": "distance"
-      },
-      {
-        "key": "ammoType",
-        "value": "bolt"
-      },
-      {
-        "key": "range",
-        "value": "5"
-      },
-      {
-        "key": "hitChance",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "id": "8850",
-    "article": "a",
-    "name": "chain bolter",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "5500"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "weaponType",
-        "value": "distance"
-      },
-      {
-        "key": "ammoType",
-        "value": "bolt"
-      },
-      {
-        "key": "range",
-        "value": "3"
-      },
-      {
-        "key": "attack",
-        "value": "4"
-      }
-    ]
-  },
-  {
-    "id": "8851",
-    "article": "a",
-    "name": "royal crossbow",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "12000"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "weaponType",
-        "value": "distance"
-      },
-      {
-        "key": "ammoType",
-        "value": "bolt"
-      },
-      {
-        "key": "range",
-        "value": "6"
-      },
-      {
-        "key": "hitChance",
-        "value": "3"
-      },
-      {
-        "key": "attack",
-        "value": "5"
-      }
-    ]
-  },
-  {
-    "id": "8852",
-    "name": "the devileye",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "5500"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "weaponType",
-        "value": "distance"
-      },
-      {
-        "key": "ammoType",
-        "value": "bolt"
-      },
-      {
-        "key": "range",
-        "value": "6"
-      },
-      {
-        "key": "hitChance",
-        "value": "-20"
-      },
-      {
-        "key": "attack",
-        "value": "20"
-      }
-    ]
-  },
-  {
-    "id": "8853",
-    "name": "the ironworker",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "5500"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "weaponType",
-        "value": "distance"
-      },
-      {
-        "key": "ammoType",
-        "value": "bolt"
-      },
-      {
-        "key": "range",
-        "value": "5"
-      },
-      {
-        "key": "attack",
-        "value": "4"
-      }
-    ]
-  },
-  {
-    "id": "15644",
-    "article": "an",
-    "name": "ornate crossbow",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "9100"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "weaponType",
-        "value": "distance"
-      },
-      {
-        "key": "ammoType",
-        "value": "bolt"
-      },
-      {
-        "key": "range",
-        "value": "6"
-      },
-      {
-        "key": "hitChance",
-        "value": "2"
-      },
-      {
-        "key": "attack",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "id": "16111",
-    "article": "a",
-    "name": "thorn spitter",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "12600"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "weaponType",
-        "value": "distance"
-      },
-      {
-        "key": "ammoType",
-        "value": "bolt"
-      },
-      {
-        "key": "range",
-        "value": "6"
-      },
-      {
-        "key": "attack",
-        "value": "9"
-      },
-      {
-        "key": "hitChance",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "id": "18453",
-    "article": "a",
-    "name": "crystal crossbow",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "8400"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "weaponType",
-        "value": "distance"
-      },
-      {
-        "key": "ammoType",
-        "value": "bolt"
-      },
-      {
-        "key": "range",
-        "value": "6"
-      },
-      {
-        "key": "attack",
-        "value": "4"
-      },
-      {
-        "key": "hitChance",
-        "value": "3"
-      }
-    ]
-  },
-  {
-    "id": "21690",
-    "article": "a",
-    "name": "triple bolt crossbow",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "6200"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "weaponType",
-        "value": "distance"
-      },
-      {
-        "key": "ammoType",
-        "value": "bolt"
-      },
-      {
-        "key": "range",
-        "value": "5"
-      },
-      {
-        "key": "attack",
-        "value": "3"
-      },
-      {
-        "key": "hitChance",
-        "value": "2"
-      }
-    ]
-  },
-  {
-    "id": "22419",
-    "article": "a",
-    "name": "crude umbral crossbow",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "13000"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "weaponType",
-        "value": "distance"
-      },
-      {
-        "key": "ammoType",
-        "value": "bolt"
-      },
-      {
-        "key": "range",
-        "value": "5"
-      },
-      {
-        "key": "hitChance",
-        "value": "1"
-      },
-      {
-        "key": "attack",
-        "value": "3"
-      }
-    ]
-  },
-  {
-    "id": "22420",
-    "article": "an",
-    "name": "umbral crossbow",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "12500"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "weaponType",
-        "value": "distance"
-      },
-      {
-        "key": "ammoType",
-        "value": "bolt"
-      },
-      {
-        "key": "range",
-        "value": "5"
-      },
-      {
-        "key": "hitChance",
-        "value": "2"
-      },
-      {
-        "key": "attack",
-        "value": "6"
-      }
-    ]
-  },
-  {
-    "id": "22421",
-    "article": "an",
-    "name": "umbral master crossbow",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "12000"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "weaponType",
-        "value": "distance"
-      },
-      {
-        "key": "ammoType",
-        "value": "bolt"
-      },
-      {
-        "key": "range",
-        "value": "5"
-      },
-      {
-        "key": "hitChance",
-        "value": "4"
-      },
-      {
-        "key": "attack",
-        "value": "9"
-      },
-      {
-        "key": "skillDist",
-        "value": "3"
-      }
-    ]
-  },
-  {
-    "id": "25523",
-    "article": "a",
-    "name": "rift crossbow",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "13000"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "weaponType",
-        "value": "distance"
-      },
-      {
-        "key": "ammoType",
-        "value": "bolt"
-      },
-      {
-        "key": "range",
-        "value": "5"
-      },
-      {
-        "key": "hitChance",
-        "value": "4"
-      },
-      {
-        "key": "attack",
-        "value": "5"
-      }
-    ]
-  },
-  {
-    "id": "25886",
-    "article": "a",
-    "name": "crossbow of mayhem",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "6500"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "weaponType",
-        "value": "distance"
-      },
-      {
-        "key": "ammoType",
-        "value": "bolt"
-      },
-      {
-        "key": "range",
-        "value": "5"
-      },
-      {
-        "key": "hitChance",
-        "value": "6"
-      },
-      {
-        "key": "attack",
-        "value": "6"
-      }
-    ]
-  },
-  {
-    "fromid": "25947",
-    "toid": "25950",
-    "article": "a",
-    "name": "crossbow of remedy",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "6500"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "weaponType",
-        "value": "distance"
-      },
-      {
-        "key": "ammoType",
-        "value": "bolt"
-      },
-      {
-        "key": "range",
-        "value": "5"
-      },
-      {
-        "key": "hitChance",
-        "value": "6"
-      },
-      {
-        "key": "attack",
-        "value": "6"
-      }
-    ]
-  },
-  {
-    "fromid": "25987",
-    "toid": "25990",
-    "article": "a",
-    "name": "crossbow of carving",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "6500"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "weaponType",
-        "value": "distance"
-      },
-      {
-        "key": "ammoType",
-        "value": "bolt"
-      },
-      {
-        "key": "range",
-        "value": "5"
-      },
-      {
-        "key": "hitChance",
-        "value": "6"
-      },
-      {
-        "key": "attack",
-        "value": "6"
-      }
-    ]
-  },
-  {
-    "id": "30112",
-    "article": "a",
-    "name": "crossbow of destruction",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "6500"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "weaponType",
-        "value": "distance"
-      },
-      {
-        "key": "ammoType",
-        "value": "bolt"
-      },
-      {
-        "key": "range",
-        "value": "5"
-      },
-      {
-        "key": "hitChance",
-        "value": "5"
-      },
-      {
-        "key": "attack",
-        "value": "5"
-      }
-    ]
-  }
-]
+{
+  "items": [
+    {
+      "id": "2455",
+      "article": "a",
+      "name": "crossbow",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "4000"
+        },
+        {
+          "key": "weaponType",
+          "value": "distance"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "range",
+          "value": "5"
+        }
+      ]
+    },
+    {
+      "id": "5803",
+      "article": "an",
+      "name": "arbalest",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "It is a bit heavy due to the iron mounting, but very precise."
+        },
+        {
+          "key": "weight",
+          "value": "9500"
+        },
+        {
+          "key": "weaponType",
+          "value": "distance"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "range",
+          "value": "6"
+        },
+        {
+          "key": "hitChance",
+          "value": "2"
+        },
+        {
+          "key": "attack",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "id": "8849",
+      "article": "a",
+      "name": "modified crossbow",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "3500"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "weaponType",
+          "value": "distance"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "range",
+          "value": "5"
+        },
+        {
+          "key": "hitChance",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "id": "8850",
+      "article": "a",
+      "name": "chain bolter",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5500"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "weaponType",
+          "value": "distance"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "range",
+          "value": "3"
+        },
+        {
+          "key": "attack",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "id": "8851",
+      "article": "a",
+      "name": "royal crossbow",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "12000"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "weaponType",
+          "value": "distance"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "range",
+          "value": "6"
+        },
+        {
+          "key": "hitChance",
+          "value": "3"
+        },
+        {
+          "key": "attack",
+          "value": "5"
+        }
+      ]
+    },
+    {
+      "id": "8852",
+      "name": "the devileye",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5500"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "weaponType",
+          "value": "distance"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "range",
+          "value": "6"
+        },
+        {
+          "key": "hitChance",
+          "value": "-20"
+        },
+        {
+          "key": "attack",
+          "value": "20"
+        }
+      ]
+    },
+    {
+      "id": "8853",
+      "name": "the ironworker",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5500"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "weaponType",
+          "value": "distance"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "range",
+          "value": "5"
+        },
+        {
+          "key": "attack",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "id": "15644",
+      "article": "an",
+      "name": "ornate crossbow",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "9100"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "weaponType",
+          "value": "distance"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "range",
+          "value": "6"
+        },
+        {
+          "key": "hitChance",
+          "value": "2"
+        },
+        {
+          "key": "attack",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "id": "16111",
+      "article": "a",
+      "name": "thorn spitter",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "12600"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "weaponType",
+          "value": "distance"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "range",
+          "value": "6"
+        },
+        {
+          "key": "attack",
+          "value": "9"
+        },
+        {
+          "key": "hitChance",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "id": "18453",
+      "article": "a",
+      "name": "crystal crossbow",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "8400"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "weaponType",
+          "value": "distance"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "range",
+          "value": "6"
+        },
+        {
+          "key": "attack",
+          "value": "4"
+        },
+        {
+          "key": "hitChance",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "id": "21690",
+      "article": "a",
+      "name": "triple bolt crossbow",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "6200"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "weaponType",
+          "value": "distance"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "range",
+          "value": "5"
+        },
+        {
+          "key": "attack",
+          "value": "3"
+        },
+        {
+          "key": "hitChance",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "id": "22419",
+      "article": "a",
+      "name": "crude umbral crossbow",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "13000"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "weaponType",
+          "value": "distance"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "range",
+          "value": "5"
+        },
+        {
+          "key": "hitChance",
+          "value": "1"
+        },
+        {
+          "key": "attack",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "id": "22420",
+      "article": "an",
+      "name": "umbral crossbow",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "12500"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "weaponType",
+          "value": "distance"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "range",
+          "value": "5"
+        },
+        {
+          "key": "hitChance",
+          "value": "2"
+        },
+        {
+          "key": "attack",
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "id": "22421",
+      "article": "an",
+      "name": "umbral master crossbow",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "12000"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "weaponType",
+          "value": "distance"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "range",
+          "value": "5"
+        },
+        {
+          "key": "hitChance",
+          "value": "4"
+        },
+        {
+          "key": "attack",
+          "value": "9"
+        },
+        {
+          "key": "skillDist",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "id": "25523",
+      "article": "a",
+      "name": "rift crossbow",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "13000"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "weaponType",
+          "value": "distance"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "range",
+          "value": "5"
+        },
+        {
+          "key": "hitChance",
+          "value": "4"
+        },
+        {
+          "key": "attack",
+          "value": "5"
+        }
+      ]
+    },
+    {
+      "id": "25886",
+      "article": "a",
+      "name": "crossbow of mayhem",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "6500"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "weaponType",
+          "value": "distance"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "range",
+          "value": "5"
+        },
+        {
+          "key": "hitChance",
+          "value": "6"
+        },
+        {
+          "key": "attack",
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "fromid": "25947",
+      "toid": "25950",
+      "article": "a",
+      "name": "crossbow of remedy",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "6500"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "weaponType",
+          "value": "distance"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "range",
+          "value": "5"
+        },
+        {
+          "key": "hitChance",
+          "value": "6"
+        },
+        {
+          "key": "attack",
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "fromid": "25987",
+      "toid": "25990",
+      "article": "a",
+      "name": "crossbow of carving",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "6500"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "weaponType",
+          "value": "distance"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "range",
+          "value": "5"
+        },
+        {
+          "key": "hitChance",
+          "value": "6"
+        },
+        {
+          "key": "attack",
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "id": "30112",
+      "article": "a",
+      "name": "crossbow of destruction",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "6500"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "weaponType",
+          "value": "distance"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "range",
+          "value": "5"
+        },
+        {
+          "key": "hitChance",
+          "value": "5"
+        },
+        {
+          "key": "attack",
+          "value": "5"
+        }
+      ]
+    }
+  ]
+}

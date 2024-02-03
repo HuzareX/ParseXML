@@ -1,3345 +1,3347 @@
-[
-  {
-    "id": "2376",
-    "article": "a",
-    "name": "sword",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "3500"
-      },
-      {
-        "key": "defense",
-        "value": "12"
-      },
-      {
-        "key": "attack",
-        "value": "14"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "id": "2377",
-    "article": "a",
-    "name": "two handed sword",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "7000"
-      },
-      {
-        "key": "defense",
-        "value": "25"
-      },
-      {
-        "key": "attack",
-        "value": "30"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "2379",
-    "article": "a",
-    "name": "dagger",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "950"
-      },
-      {
-        "key": "defense",
-        "value": "6"
-      },
-      {
-        "key": "attack",
-        "value": "8"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      }
-    ]
-  },
-  {
-    "id": "2383",
-    "article": "a",
-    "name": "spike sword",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "5000"
-      },
-      {
-        "key": "defense",
-        "value": "21"
-      },
-      {
-        "key": "attack",
-        "value": "24"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "2"
-      }
-    ]
-  },
-  {
-    "id": "2384",
-    "article": "a",
-    "name": "rapier",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "1500"
-      },
-      {
-        "key": "defense",
-        "value": "8"
-      },
-      {
-        "key": "attack",
-        "value": "10"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "id": "2385",
-    "article": "a",
-    "name": "sabre",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "2500"
-      },
-      {
-        "key": "defense",
-        "value": "10"
-      },
-      {
-        "key": "attack",
-        "value": "12"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "id": "2390",
-    "article": "a",
-    "name": "magic longsword",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "It's the magic Cyclopmania Sword."
-      },
-      {
-        "key": "weight",
-        "value": "4300"
-      },
-      {
-        "key": "defense",
-        "value": "40"
-      },
-      {
-        "key": "attack",
-        "value": "55"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "2392",
-    "article": "a",
-    "name": "fire sword",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "The blade is a magic flame."
-      },
-      {
-        "key": "weight",
-        "value": "2300"
-      },
-      {
-        "key": "defense",
-        "value": "20"
-      },
-      {
-        "key": "attack",
-        "value": "24"
-      },
-      {
-        "key": "elementFire",
-        "value": "11"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "id": "2393",
-    "article": "a",
-    "name": "giant sword",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "This sword has been forged by ancient giants."
-      },
-      {
-        "key": "weight",
-        "value": "18000"
-      },
-      {
-        "key": "defense",
-        "value": "22"
-      },
-      {
-        "key": "attack",
-        "value": "46"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "2395",
-    "article": "a",
-    "name": "carlin sword",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "4000"
-      },
-      {
-        "key": "defense",
-        "value": "13"
-      },
-      {
-        "key": "attack",
-        "value": "15"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "id": "2396",
-    "article": "an",
-    "name": "ice rapier",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "A deadly but fragile weapon."
-      },
-      {
-        "key": "weight",
-        "value": "1500"
-      },
-      {
-        "key": "attack",
-        "value": "42"
-      },
-      {
-        "key": "defense",
-        "value": "1"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "elementIce",
-        "value": "18"
-      },
-      {
-        "key": "charges",
-        "value": "1"
-      },
-      {
-        "key": "supply",
-        "value": "true"
-      }
-    ]
-  },
-  {
-    "id": "2397",
-    "article": "a",
-    "name": "longsword",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "4200"
-      },
-      {
-        "key": "defense",
-        "value": "14"
-      },
-      {
-        "key": "attack",
-        "value": "17"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      }
-    ]
-  },
-  {
-    "id": "2400",
-    "article": "a",
-    "name": "magic sword",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "It's the Sword of Valor."
-      },
-      {
-        "key": "weight",
-        "value": "4200"
-      },
-      {
-        "key": "defense",
-        "value": "35"
-      },
-      {
-        "key": "attack",
-        "value": "48"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "3"
-      }
-    ]
-  },
-  {
-    "id": "2402",
-    "article": "a",
-    "name": "silver dagger",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "1020"
-      },
-      {
-        "key": "defense",
-        "value": "7"
-      },
-      {
-        "key": "attack",
-        "value": "9"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      }
-    ]
-  },
-  {
-    "id": "2403",
-    "article": "a",
-    "name": "knife",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "420"
-      },
-      {
-        "key": "defense",
-        "value": "5"
-      },
-      {
-        "key": "attack",
-        "value": "5"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      }
-    ]
-  },
-  {
-    "id": "2404",
-    "article": "a",
-    "name": "combat knife",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "870"
-      },
-      {
-        "key": "defense",
-        "value": "6"
-      },
-      {
-        "key": "attack",
-        "value": "8"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      }
-    ]
-  },
-  {
-    "id": "2406",
-    "article": "a",
-    "name": "short sword",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "3500"
-      },
-      {
-        "key": "defense",
-        "value": "11"
-      },
-      {
-        "key": "attack",
-        "value": "11"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      }
-    ]
-  },
-  {
-    "id": "2407",
-    "article": "a",
-    "name": "bright sword",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "The blade shimmers in light blue."
-      },
-      {
-        "key": "weight",
-        "value": "2900"
-      },
-      {
-        "key": "defense",
-        "value": "30"
-      },
-      {
-        "key": "attack",
-        "value": "36"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "id": "2408",
-    "article": "a",
-    "name": "warlord sword",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "Strong powers flow in this magic sword."
-      },
-      {
-        "key": "weight",
-        "value": "6400"
-      },
-      {
-        "key": "defense",
-        "value": "38"
-      },
-      {
-        "key": "attack",
-        "value": "53"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "2409",
-    "article": "a",
-    "name": "serpent sword",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "4100"
-      },
-      {
-        "key": "defense",
-        "value": "15"
-      },
-      {
-        "key": "attack",
-        "value": "18"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "1"
-      },
-      {
-        "key": "elementEarth",
-        "value": "8"
-      }
-    ]
-  },
-  {
-    "id": "2411",
-    "article": "a",
-    "name": "poison dagger",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "880"
-      },
-      {
-        "key": "defense",
-        "value": "8"
-      },
-      {
-        "key": "attack",
-        "value": "18"
-      },
-      {
-        "key": "elementEarth",
-        "value": "2"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      }
-    ]
-  },
-  {
-    "id": "2412",
-    "article": "a",
-    "name": "katana",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "3100"
-      },
-      {
-        "key": "defense",
-        "value": "12"
-      },
-      {
-        "key": "attack",
-        "value": "16"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "id": "2413",
-    "article": "a",
-    "name": "broadsword",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "5250"
-      },
-      {
-        "key": "defense",
-        "value": "23"
-      },
-      {
-        "key": "attack",
-        "value": "26"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "2419",
-    "article": "a",
-    "name": "scimitar",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "2900"
-      },
-      {
-        "key": "defense",
-        "value": "13"
-      },
-      {
-        "key": "attack",
-        "value": "19"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "id": "2420",
-    "article": "a",
-    "name": "machete",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "1650"
-      },
-      {
-        "key": "defense",
-        "value": "9"
-      },
-      {
-        "key": "attack",
-        "value": "12"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      }
-    ]
-  },
-  {
-    "id": "2438",
-    "article": "an",
-    "name": "epee",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "1450"
-      },
-      {
-        "key": "defense",
-        "value": "23"
-      },
-      {
-        "key": "attack",
-        "value": "37"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      }
-    ]
-  },
-  {
-    "id": "2442",
-    "article": "a",
-    "name": "heavy machete",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "1840"
-      },
-      {
-        "key": "defense",
-        "value": "10"
-      },
-      {
-        "key": "attack",
-        "value": "16"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      }
-    ]
-  },
-  {
-    "id": "2446",
-    "article": "a",
-    "name": "pharaoh sword",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "5200"
-      },
-      {
-        "key": "defense",
-        "value": "23"
-      },
-      {
-        "key": "attack",
-        "value": "41"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "2"
-      }
-    ]
-  },
-  {
-    "id": "2450",
-    "article": "a",
-    "name": "bone sword",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "1900"
-      },
-      {
-        "key": "defense",
-        "value": "10"
-      },
-      {
-        "key": "attack",
-        "value": "13"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      }
-    ]
-  },
-  {
-    "id": "2451",
-    "article": "a",
-    "name": "djinn blade",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "2450"
-      },
-      {
-        "key": "defense",
-        "value": "22"
-      },
-      {
-        "key": "attack",
-        "value": "38"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "2"
-      }
-    ]
-  },
-  {
-    "id": "3963",
-    "article": "a",
-    "name": "templar scytheblade",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "2900"
-      },
-      {
-        "key": "defense",
-        "value": "15"
-      },
-      {
-        "key": "attack",
-        "value": "23"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "id": "6101",
-    "name": "Ron the Ripper's sabre",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "2500"
-      },
-      {
-        "key": "defense",
-        "value": "10"
-      },
-      {
-        "key": "attack",
-        "value": "12"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      }
-    ]
-  },
-  {
-    "id": "6528",
-    "name": "the avenger",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "This holy blade was forged of shattered dreams."
-      },
-      {
-        "key": "weight",
-        "value": "6400"
-      },
-      {
-        "key": "defense",
-        "value": "38"
-      },
-      {
-        "key": "attack",
-        "value": "50"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "7382",
-    "article": "a",
-    "name": "demonrage sword",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "15000"
-      },
-      {
-        "key": "defense",
-        "value": "22"
-      },
-      {
-        "key": "attack",
-        "value": "47"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "7383",
-    "article": "a",
-    "name": "relic sword",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "4800"
-      },
-      {
-        "key": "defense",
-        "value": "24"
-      },
-      {
-        "key": "attack",
-        "value": "42"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "id": "7384",
-    "article": "a",
-    "name": "mystic blade",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "This sword is only granted to a scrapper of the Svargrond arena."
-      },
-      {
-        "key": "weight",
-        "value": "3500"
-      },
-      {
-        "key": "defense",
-        "value": "25"
-      },
-      {
-        "key": "attack",
-        "value": "44"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "2"
-      }
-    ]
-  },
-  {
-    "id": "7385",
-    "article": "a",
-    "name": "crimson sword",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "3600"
-      },
-      {
-        "key": "defense",
-        "value": "20"
-      },
-      {
-        "key": "attack",
-        "value": "28"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "id": "7386",
-    "article": "a",
-    "name": "mercenary sword",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "6800"
-      },
-      {
-        "key": "defense",
-        "value": "27"
-      },
-      {
-        "key": "attack",
-        "value": "43"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "7390",
-    "name": "the justice seeker",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "5000"
-      },
-      {
-        "key": "defense",
-        "value": "24"
-      },
-      {
-        "key": "attack",
-        "value": "47"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "3"
-      },
-      {
-        "key": "description",
-        "value": "This sword is only granted to a warlord of the Svargrond arena."
-      }
-    ]
-  },
-  {
-    "id": "7391",
-    "article": "a",
-    "name": "thaian sword",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "6100"
-      },
-      {
-        "key": "defense",
-        "value": "29"
-      },
-      {
-        "key": "attack",
-        "value": "45"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "7402",
-    "article": "a",
-    "name": "dragon slayer",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "8200"
-      },
-      {
-        "key": "defense",
-        "value": "28"
-      },
-      {
-        "key": "attack",
-        "value": "44"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "7403",
-    "article": "a",
-    "name": "berserker",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "13000"
-      },
-      {
-        "key": "defense",
-        "value": "21"
-      },
-      {
-        "key": "attack",
-        "value": "48"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "7404",
-    "article": "an",
-    "name": "assassin dagger",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "1700"
-      },
-      {
-        "key": "defense",
-        "value": "12"
-      },
-      {
-        "key": "attack",
-        "value": "40"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "-2"
-      }
-    ]
-  },
-  {
-    "id": "7405",
-    "article": "a",
-    "name": "havoc blade",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "7200"
-      },
-      {
-        "key": "defense",
-        "value": "34"
-      },
-      {
-        "key": "attack",
-        "value": "49"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "7406",
-    "article": "a",
-    "name": "blacksteel sword",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "This sword is only granted to a greenhorn of the Svargrond arena."
-      },
-      {
-        "key": "weight",
-        "value": "5900"
-      },
-      {
-        "key": "defense",
-        "value": "22"
-      },
-      {
-        "key": "attack",
-        "value": "42"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "7407",
-    "article": "a",
-    "name": "haunted blade",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "3100"
-      },
-      {
-        "key": "defense",
-        "value": "12"
-      },
-      {
-        "key": "attack",
-        "value": "40"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "7408",
-    "article": "a",
-    "name": "wyvern fang",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "2000"
-      },
-      {
-        "key": "defense",
-        "value": "19"
-      },
-      {
-        "key": "attack",
-        "value": "32"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "id": "7416",
-    "article": "a",
-    "name": "bloody edge",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "5200"
-      },
-      {
-        "key": "defense",
-        "value": "21"
-      },
-      {
-        "key": "attack",
-        "value": "43"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "-3"
-      }
-    ]
-  },
-  {
-    "id": "7417",
-    "article": "a",
-    "name": "runed sword",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "4600"
-      },
-      {
-        "key": "defense",
-        "value": "32"
-      },
-      {
-        "key": "attack",
-        "value": "45"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "2"
-      }
-    ]
-  },
-  {
-    "id": "7418",
-    "article": "a",
-    "name": "nightmare blade",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "4600"
-      },
-      {
-        "key": "defense",
-        "value": "23"
-      },
-      {
-        "key": "attack",
-        "value": "46"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "-3"
-      }
-    ]
-  },
-  {
-    "id": "7449",
-    "article": "a",
-    "name": "crystal sword",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "6900"
-      },
-      {
-        "key": "defense",
-        "value": "26"
-      },
-      {
-        "key": "attack",
-        "value": "35"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "7744",
-    "article": "a",
-    "name": "fiery spike sword",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "5000"
-      },
-      {
-        "key": "defense",
-        "value": "21"
-      },
-      {
-        "key": "attack",
-        "value": "20"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "2"
-      },
-      {
-        "key": "elementFire",
-        "value": "4"
-      },
-      {
-        "key": "charges",
-        "value": "1000"
-      },
-      {
-        "key": "showcharges",
-        "value": "true"
-      },
-      {
-        "key": "decayTo",
-        "value": "2383"
-      }
-    ]
-  },
-  {
-    "id": "7745",
-    "article": "a",
-    "name": "fiery relic sword",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "4800"
-      },
-      {
-        "key": "defense",
-        "value": "24"
-      },
-      {
-        "key": "attack",
-        "value": "34"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "1"
-      },
-      {
-        "key": "elementFire",
-        "value": "8"
-      },
-      {
-        "key": "charges",
-        "value": "1000"
-      },
-      {
-        "key": "showcharges",
-        "value": "true"
-      },
-      {
-        "key": "decayTo",
-        "value": "7383"
-      }
-    ]
-  },
-  {
-    "id": "7746",
-    "article": "a",
-    "name": "fiery mystic blade",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "3500"
-      },
-      {
-        "key": "defense",
-        "value": "25"
-      },
-      {
-        "key": "attack",
-        "value": "36"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "2"
-      },
-      {
-        "key": "elementFire",
-        "value": "8"
-      },
-      {
-        "key": "charges",
-        "value": "1000"
-      },
-      {
-        "key": "showcharges",
-        "value": "true"
-      },
-      {
-        "key": "decayTo",
-        "value": "7384"
-      }
-    ]
-  },
-  {
-    "id": "7747",
-    "article": "a",
-    "name": "fiery blacksteel sword",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "5900"
-      },
-      {
-        "key": "defense",
-        "value": "22"
-      },
-      {
-        "key": "attack",
-        "value": "35"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "elementFire",
-        "value": "7"
-      },
-      {
-        "key": "charges",
-        "value": "1000"
-      },
-      {
-        "key": "showcharges",
-        "value": "true"
-      },
-      {
-        "key": "decayTo",
-        "value": "7406"
-      }
-    ]
-  },
-  {
-    "id": "7748",
-    "article": "a",
-    "name": "fiery dragon slayer",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "8200"
-      },
-      {
-        "key": "defense",
-        "value": "28"
-      },
-      {
-        "key": "attack",
-        "value": "35"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "elementFire",
-        "value": "9"
-      },
-      {
-        "key": "charges",
-        "value": "1000"
-      },
-      {
-        "key": "showcharges",
-        "value": "true"
-      },
-      {
-        "key": "decayTo",
-        "value": "7402"
-      }
-    ]
-  },
-  {
-    "id": "7763",
-    "article": "an",
-    "name": "icy spike sword",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "5000"
-      },
-      {
-        "key": "defense",
-        "value": "21"
-      },
-      {
-        "key": "attack",
-        "value": "20"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "2"
-      },
-      {
-        "key": "elementIce",
-        "value": "4"
-      },
-      {
-        "key": "charges",
-        "value": "1000"
-      },
-      {
-        "key": "showcharges",
-        "value": "true"
-      },
-      {
-        "key": "decayTo",
-        "value": "2383"
-      }
-    ]
-  },
-  {
-    "id": "7764",
-    "article": "an",
-    "name": "icy relic sword",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "4800"
-      },
-      {
-        "key": "defense",
-        "value": "24"
-      },
-      {
-        "key": "attack",
-        "value": "34"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "1"
-      },
-      {
-        "key": "elementIce",
-        "value": "8"
-      },
-      {
-        "key": "charges",
-        "value": "1000"
-      },
-      {
-        "key": "showcharges",
-        "value": "true"
-      },
-      {
-        "key": "decayTo",
-        "value": "7383"
-      }
-    ]
-  },
-  {
-    "id": "7765",
-    "article": "an",
-    "name": "icy mystic blade",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "3500"
-      },
-      {
-        "key": "defense",
-        "value": "25"
-      },
-      {
-        "key": "attack",
-        "value": "36"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "2"
-      },
-      {
-        "key": "elementIce",
-        "value": "8"
-      },
-      {
-        "key": "charges",
-        "value": "1000"
-      },
-      {
-        "key": "showcharges",
-        "value": "true"
-      },
-      {
-        "key": "decayTo",
-        "value": "7384"
-      }
-    ]
-  },
-  {
-    "id": "7766",
-    "article": "an",
-    "name": "icy blacksteel sword",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "5900"
-      },
-      {
-        "key": "defense",
-        "value": "22"
-      },
-      {
-        "key": "attack",
-        "value": "35"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "elementIce",
-        "value": "7"
-      },
-      {
-        "key": "charges",
-        "value": "1000"
-      },
-      {
-        "key": "showcharges",
-        "value": "true"
-      },
-      {
-        "key": "decayTo",
-        "value": "7406"
-      }
-    ]
-  },
-  {
-    "id": "7767",
-    "article": "an",
-    "name": "icy dragon slayer",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "8200"
-      },
-      {
-        "key": "defense",
-        "value": "28"
-      },
-      {
-        "key": "attack",
-        "value": "35"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "elementIce",
-        "value": "9"
-      },
-      {
-        "key": "charges",
-        "value": "1000"
-      },
-      {
-        "key": "showcharges",
-        "value": "true"
-      },
-      {
-        "key": "decayTo",
-        "value": "7402"
-      }
-    ]
-  },
-  {
-    "id": "7854",
-    "article": "an",
-    "name": "earth spike sword",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "5000"
-      },
-      {
-        "key": "defense",
-        "value": "21"
-      },
-      {
-        "key": "attack",
-        "value": "20"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "2"
-      },
-      {
-        "key": "elementEarth",
-        "value": "4"
-      },
-      {
-        "key": "charges",
-        "value": "1000"
-      },
-      {
-        "key": "showcharges",
-        "value": "true"
-      },
-      {
-        "key": "decayTo",
-        "value": "2383"
-      }
-    ]
-  },
-  {
-    "id": "7855",
-    "article": "an",
-    "name": "earth relic sword",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "4800"
-      },
-      {
-        "key": "defense",
-        "value": "24"
-      },
-      {
-        "key": "attack",
-        "value": "34"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "1"
-      },
-      {
-        "key": "elementEarth",
-        "value": "8"
-      },
-      {
-        "key": "charges",
-        "value": "1000"
-      },
-      {
-        "key": "showcharges",
-        "value": "true"
-      },
-      {
-        "key": "decayTo",
-        "value": "7383"
-      }
-    ]
-  },
-  {
-    "id": "7856",
-    "article": "an",
-    "name": "earth mystic blade",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "3500"
-      },
-      {
-        "key": "defense",
-        "value": "25"
-      },
-      {
-        "key": "attack",
-        "value": "36"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "2"
-      },
-      {
-        "key": "elementEarth",
-        "value": "8"
-      },
-      {
-        "key": "charges",
-        "value": "1000"
-      },
-      {
-        "key": "showcharges",
-        "value": "true"
-      },
-      {
-        "key": "decayTo",
-        "value": "7384"
-      }
-    ]
-  },
-  {
-    "id": "7857",
-    "article": "an",
-    "name": "earth blacksteel sword",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "5900"
-      },
-      {
-        "key": "defense",
-        "value": "22"
-      },
-      {
-        "key": "attack",
-        "value": "35"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "elementEarth",
-        "value": "7"
-      },
-      {
-        "key": "charges",
-        "value": "1000"
-      },
-      {
-        "key": "showcharges",
-        "value": "true"
-      },
-      {
-        "key": "decayTo",
-        "value": "7406"
-      }
-    ]
-  },
-  {
-    "id": "7858",
-    "article": "an",
-    "name": "earth dragon slayer",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "8200"
-      },
-      {
-        "key": "defense",
-        "value": "28"
-      },
-      {
-        "key": "attack",
-        "value": "35"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "elementEarth",
-        "value": "9"
-      },
-      {
-        "key": "charges",
-        "value": "1000"
-      },
-      {
-        "key": "showcharges",
-        "value": "true"
-      },
-      {
-        "key": "decayTo",
-        "value": "7402"
-      }
-    ]
-  },
-  {
-    "id": "7869",
-    "article": "an",
-    "name": "energy spike sword",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "5000"
-      },
-      {
-        "key": "defense",
-        "value": "21"
-      },
-      {
-        "key": "attack",
-        "value": "20"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "2"
-      },
-      {
-        "key": "elementEnergy",
-        "value": "4"
-      },
-      {
-        "key": "charges",
-        "value": "1000"
-      },
-      {
-        "key": "showcharges",
-        "value": "true"
-      },
-      {
-        "key": "decayTo",
-        "value": "2383"
-      }
-    ]
-  },
-  {
-    "id": "7870",
-    "article": "an",
-    "name": "energy relic sword",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "4800"
-      },
-      {
-        "key": "defense",
-        "value": "24"
-      },
-      {
-        "key": "attack",
-        "value": "34"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "1"
-      },
-      {
-        "key": "elementEnergy",
-        "value": "8"
-      },
-      {
-        "key": "charges",
-        "value": "1000"
-      },
-      {
-        "key": "showcharges",
-        "value": "true"
-      },
-      {
-        "key": "decayTo",
-        "value": "7383"
-      }
-    ]
-  },
-  {
-    "id": "7871",
-    "article": "an",
-    "name": "energy mystic blade",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "3500"
-      },
-      {
-        "key": "defense",
-        "value": "25"
-      },
-      {
-        "key": "attack",
-        "value": "36"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "2"
-      },
-      {
-        "key": "elementEnergy",
-        "value": "8"
-      },
-      {
-        "key": "charges",
-        "value": "1000"
-      },
-      {
-        "key": "showcharges",
-        "value": "true"
-      },
-      {
-        "key": "decayTo",
-        "value": "7384"
-      }
-    ]
-  },
-  {
-    "id": "7872",
-    "article": "an",
-    "name": "energy blacksteel sword",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "5900"
-      },
-      {
-        "key": "defense",
-        "value": "22"
-      },
-      {
-        "key": "attack",
-        "value": "35"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "elementEnergy",
-        "value": "7"
-      },
-      {
-        "key": "charges",
-        "value": "1000"
-      },
-      {
-        "key": "showcharges",
-        "value": "true"
-      },
-      {
-        "key": "decayTo",
-        "value": "7406"
-      }
-    ]
-  },
-  {
-    "id": "7873",
-    "article": "an",
-    "name": "energy dragon slayer",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "8200"
-      },
-      {
-        "key": "defense",
-        "value": "28"
-      },
-      {
-        "key": "attack",
-        "value": "35"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "elementEnergy",
-        "value": "9"
-      },
-      {
-        "key": "charges",
-        "value": "1000"
-      },
-      {
-        "key": "showcharges",
-        "value": "true"
-      },
-      {
-        "key": "decayTo",
-        "value": "7402"
-      }
-    ]
-  },
-  {
-    "id": "8209",
-    "article": "a",
-    "name": "crimson sword",
-    "editorsuffix": " (Old notchy one)",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "Its blade is very notchy"
-      },
-      {
-        "key": "weight",
-        "value": "3600"
-      },
-      {
-        "key": "defense",
-        "value": "10"
-      },
-      {
-        "key": "attack",
-        "value": "18"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      }
-    ]
-  },
-  {
-    "id": "8602",
-    "article": "a",
-    "name": "jagged sword",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "2900"
-      },
-      {
-        "key": "defense",
-        "value": "14"
-      },
-      {
-        "key": "attack",
-        "value": "21"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "id": "8930",
-    "article": "an",
-    "name": "emerald sword",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "4100"
-      },
-      {
-        "key": "defense",
-        "value": "33"
-      },
-      {
-        "key": "attack",
-        "value": "49"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "3"
-      }
-    ]
-  },
-  {
-    "id": "8931",
-    "name": "the epiphany",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "4500"
-      },
-      {
-        "key": "defense",
-        "value": "35"
-      },
-      {
-        "key": "attack",
-        "value": "50"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "3"
-      }
-    ]
-  },
-  {
-    "id": "8932",
-    "name": "the calamity",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "6800"
-      },
-      {
-        "key": "defense",
-        "value": "35"
-      },
-      {
-        "key": "attack",
-        "value": "51"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "10292",
-    "article": "a",
-    "name": "pointed rabbitslayer",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "Someone has sharpened this carrot to inflict some nasty damage especially on rabbits."
-      },
-      {
-        "key": "weight",
-        "value": "160"
-      },
-      {
-        "key": "defense",
-        "value": "8"
-      },
-      {
-        "key": "attack",
-        "value": "16"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      }
-    ]
-  },
-  {
-    "id": "10303",
-    "article": "a",
-    "name": "farmer's avenger",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "A weapon forged to fight oppression of the poor underdogs."
-      },
-      {
-        "key": "weight",
-        "value": "2500"
-      },
-      {
-        "key": "defense",
-        "value": "7"
-      },
-      {
-        "key": "attack",
-        "value": "17"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "10304",
-    "article": "a",
-    "name": "poet's fencing quill",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "This feather is mightier than a sword."
-      },
-      {
-        "key": "weight",
-        "value": "200"
-      },
-      {
-        "key": "defense",
-        "value": "8"
-      },
-      {
-        "key": "attack",
-        "value": "10"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      }
-    ]
-  },
-  {
-    "id": "10313",
-    "article": "an",
-    "name": "incredible mumpiz slayer",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "This magnificent weapon was forged to slay arch mumpiz demons with a single blow."
-      },
-      {
-        "key": "weight",
-        "value": "4200"
-      },
-      {
-        "key": "defense",
-        "value": "14"
-      },
-      {
-        "key": "attack",
-        "value": "17"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      }
-    ]
-  },
-  {
-    "id": "11306",
-    "name": "sai",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "5000"
-      },
-      {
-        "key": "defense",
-        "value": "27"
-      },
-      {
-        "key": "attack",
-        "value": "45"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "11307",
-    "article": "a",
-    "name": "Zaoan sword",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "4900"
-      },
-      {
-        "key": "defense",
-        "value": "18"
-      },
-      {
-        "key": "attack",
-        "value": "43"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "2"
-      }
-    ]
-  },
-  {
-    "id": "11395",
-    "article": "a",
-    "name": "crimson sword",
-    "attributes": [
-      {
-        "key": "description",
-        "value": "Its blade is very notchy"
-      },
-      {
-        "key": "weight",
-        "value": "3600"
-      },
-      {
-        "key": "defense",
-        "value": "10"
-      },
-      {
-        "key": "attack",
-        "value": "18"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      }
-    ]
-  },
-  {
-    "id": "11426",
-    "name": "the Ron the Ripper's sabre",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "2500"
-      },
-      {
-        "key": "defense",
-        "value": "10"
-      },
-      {
-        "key": "attack",
-        "value": "12"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      }
-    ]
-  },
-  {
-    "id": "12613",
-    "article": "a",
-    "name": "twiceslicer",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "18000"
-      },
-      {
-        "key": "defense",
-        "value": "30"
-      },
-      {
-        "key": "attack",
-        "value": "47"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "12649",
-    "article": "a",
-    "name": "blade of corruption",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "6400"
-      },
-      {
-        "key": "defense",
-        "value": "29"
-      },
-      {
-        "key": "attack",
-        "value": "48"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "2"
-      }
-    ]
-  },
-  {
-    "id": "13829",
-    "article": "a",
-    "name": "wooden sword",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "2000"
-      },
-      {
-        "key": "defense",
-        "value": "7"
-      },
-      {
-        "key": "attack",
-        "value": "7"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      }
-    ]
-  },
-  {
-    "id": "13838",
-    "article": "a",
-    "name": "heavy trident",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "9000"
-      },
-      {
-        "key": "defense",
-        "value": "17"
-      },
-      {
-        "key": "attack",
-        "value": "35"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "13871",
-    "article": "a",
-    "name": "shimmer sword",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "5200"
-      },
-      {
-        "key": "defense",
-        "value": "20"
-      },
-      {
-        "key": "attack",
-        "value": "42"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "decayTo",
-        "value": "0"
-      },
-      {
-        "key": "duration",
-        "value": "604800"
-      }
-    ]
-  },
-  {
-    "id": "18450",
-    "article": "a",
-    "name": "crystalline sword",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "4800"
-      },
-      {
-        "key": "defense",
-        "value": "34"
-      },
-      {
-        "key": "attack",
-        "value": "47"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "id": "18465",
-    "article": "a",
-    "name": "shiny blade",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "4500"
-      },
-      {
-        "key": "defense",
-        "value": "35"
-      },
-      {
-        "key": "attack",
-        "value": "49"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "2"
-      },
-      {
-        "key": "skillSword",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "id": "19389",
-    "article": "a",
-    "name": "mean knight sword",
-    "attributes": [
-      {
-        "key": "defense",
-        "value": "7"
-      },
-      {
-        "key": "attack",
-        "value": "14"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "weight",
-        "value": "2000"
-      }
-    ]
-  },
-  {
-    "id": "20092",
-    "article": "a",
-    "name": "ratana",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "3300"
-      },
-      {
-        "key": "attack",
-        "value": "27"
-      },
-      {
-        "key": "defense",
-        "value": "19"
-      },
-      {
-        "key": "extradef",
-        "value": "1"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      }
-    ]
-  },
-  {
-    "id": "22398",
-    "article": "a",
-    "name": "crude umbral blade",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "6300"
-      },
-      {
-        "key": "defense",
-        "value": "26"
-      },
-      {
-        "key": "attack",
-        "value": "48"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "id": "22399",
-    "article": "an",
-    "name": "umbral blade",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "5900"
-      },
-      {
-        "key": "defense",
-        "value": "29"
-      },
-      {
-        "key": "attack",
-        "value": "50"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "2"
-      }
-    ]
-  },
-  {
-    "id": "22400",
-    "article": "an",
-    "name": "umbral masterblade",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "5500"
-      },
-      {
-        "key": "defense",
-        "value": "31"
-      },
-      {
-        "key": "attack",
-        "value": "52"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "3"
-      },
-      {
-        "key": "skillSword",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "id": "22401",
-    "article": "a",
-    "name": "crude umbral slayer",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "10000"
-      },
-      {
-        "key": "defense",
-        "value": "29"
-      },
-      {
-        "key": "attack",
-        "value": "51"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "22402",
-    "article": "an",
-    "name": "umbral slayer",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "9500"
-      },
-      {
-        "key": "defense",
-        "value": "31"
-      },
-      {
-        "key": "attack",
-        "value": "52"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      }
-    ]
-  },
-  {
-    "id": "22403",
-    "article": "an",
-    "name": "umbral master slayer",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "9000"
-      },
-      {
-        "key": "defense",
-        "value": "35"
-      },
-      {
-        "key": "attack",
-        "value": "54"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "skillSword",
-        "value": "3"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "skillSword",
-        "value": "3"
-      }
-    ]
-  },
-  {
-    "id": "22690",
-    "article": "a",
-    "name": "light rapier",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "1500"
-      },
-      {
-        "key": "defense",
-        "value": "8"
-      },
-      {
-        "key": "attack",
-        "value": "10"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "1"
-      },
-      {
-        "key": "description",
-        "value": "It has been used a lot, judging by its jagged blade."
-      }
-    ]
-  },
-  {
-    "id": "23548",
-    "article": "a",
-    "name": "cowtana",
-    "attributes": [
-      {
-        "key": "defense",
-        "value": "19"
-      },
-      {
-        "key": "extradef",
-        "value": "1"
-      },
-      {
-        "key": "attack",
-        "value": "34"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "weight",
-        "value": "2800"
-      }
-    ]
-  },
-  {
-    "id": "23550",
-    "article": "a",
-    "name": "glooth blade",
-    "attributes": [
-      {
-        "key": "defense",
-        "value": "1"
-      },
-      {
-        "key": "attack",
-        "value": "39"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "elementEarth",
-        "value": "26"
-      },
-      {
-        "key": "charges",
-        "value": "2"
-      },
-      {
-        "key": "weight",
-        "value": "1900"
-      }
-    ]
-  },
-  {
-    "id": "25416",
-    "article": "an",
-    "name": "impaler of the igniter",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "5900"
-      },
-      {
-        "key": "defense",
-        "value": "31"
-      },
-      {
-        "key": "attack",
-        "value": "26"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "extradef",
-        "value": "3"
-      },
-      {
-        "key": "elementFire",
-        "value": "26"
-      }
-    ]
-  },
-  {
-    "id": "25879",
-    "article": "a",
-    "name": "blade of mayhem",
-    "attributes": [
-      {
-        "key": "defense",
-        "value": "33"
-      },
-      {
-        "key": "attack",
-        "value": "50"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "weight",
-        "value": "5000"
-      }
-    ]
-  },
-  {
-    "id": "25880",
-    "article": "a",
-    "name": "slayer of mayhem",
-    "attributes": [
-      {
-        "key": "defense",
-        "value": "32"
-      },
-      {
-        "key": "attack",
-        "value": "52"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "weight",
-        "value": "7000"
-      }
-    ]
-  },
-  {
-    "fromid": "25919",
-    "toid": "25922",
-    "article": "a",
-    "name": "blade of remedy",
-    "attributes": [
-      {
-        "key": "defense",
-        "value": "33"
-      },
-      {
-        "key": "attack",
-        "value": "50"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "weight",
-        "value": "5000"
-      }
-    ]
-  },
-  {
-    "fromid": "25923",
-    "toid": "25926",
-    "article": "a",
-    "name": "slayer of remedy",
-    "attributes": [
-      {
-        "key": "defense",
-        "value": "32"
-      },
-      {
-        "key": "attack",
-        "value": "52"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "weight",
-        "value": "7000"
-      }
-    ]
-  },
-  {
-    "fromid": "25959",
-    "toid": "25962",
-    "article": "a",
-    "name": "blade of carving",
-    "attributes": [
-      {
-        "key": "defense",
-        "value": "33"
-      },
-      {
-        "key": "attack",
-        "value": "50"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "weight",
-        "value": "5000"
-      }
-    ]
-  },
-  {
-    "fromid": "25963",
-    "toid": "25966",
-    "article": "a",
-    "name": "slayer of carving",
-    "attributes": [
-      {
-        "key": "defense",
-        "value": "32"
-      },
-      {
-        "key": "attack",
-        "value": "52"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "weight",
-        "value": "7000"
-      }
-    ]
-  },
-  {
-    "id": "30105",
-    "article": "a",
-    "name": "blade of destruction",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "5000"
-      },
-      {
-        "key": "defense",
-        "value": "33"
-      },
-      {
-        "key": "attack",
-        "value": "50"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      }
-    ]
-  },
-  {
-    "id": "30106",
-    "article": "a",
-    "name": "slayer of destruction",
-    "attributes": [
-      {
-        "key": "weight",
-        "value": "7000"
-      },
-      {
-        "key": "slotType",
-        "value": "two-handed"
-      },
-      {
-        "key": "defense",
-        "value": "30"
-      },
-      {
-        "key": "attack",
-        "value": "52"
-      },
-      {
-        "key": "weaponType",
-        "value": "sword"
-      }
-    ]
-  }
-]
+{
+  "items": [
+    {
+      "id": "2376",
+      "article": "a",
+      "name": "sword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "3500"
+        },
+        {
+          "key": "defense",
+          "value": "12"
+        },
+        {
+          "key": "attack",
+          "value": "14"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "id": "2377",
+      "article": "a",
+      "name": "two handed sword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "7000"
+        },
+        {
+          "key": "defense",
+          "value": "25"
+        },
+        {
+          "key": "attack",
+          "value": "30"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "2379",
+      "article": "a",
+      "name": "dagger",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "950"
+        },
+        {
+          "key": "defense",
+          "value": "6"
+        },
+        {
+          "key": "attack",
+          "value": "8"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        }
+      ]
+    },
+    {
+      "id": "2383",
+      "article": "a",
+      "name": "spike sword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5000"
+        },
+        {
+          "key": "defense",
+          "value": "21"
+        },
+        {
+          "key": "attack",
+          "value": "24"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "id": "2384",
+      "article": "a",
+      "name": "rapier",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "1500"
+        },
+        {
+          "key": "defense",
+          "value": "8"
+        },
+        {
+          "key": "attack",
+          "value": "10"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "id": "2385",
+      "article": "a",
+      "name": "sabre",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "2500"
+        },
+        {
+          "key": "defense",
+          "value": "10"
+        },
+        {
+          "key": "attack",
+          "value": "12"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "id": "2390",
+      "article": "a",
+      "name": "magic longsword",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "It's the magic Cyclopmania Sword."
+        },
+        {
+          "key": "weight",
+          "value": "4300"
+        },
+        {
+          "key": "defense",
+          "value": "40"
+        },
+        {
+          "key": "attack",
+          "value": "55"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "2392",
+      "article": "a",
+      "name": "fire sword",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "The blade is a magic flame."
+        },
+        {
+          "key": "weight",
+          "value": "2300"
+        },
+        {
+          "key": "defense",
+          "value": "20"
+        },
+        {
+          "key": "attack",
+          "value": "24"
+        },
+        {
+          "key": "elementFire",
+          "value": "11"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "id": "2393",
+      "article": "a",
+      "name": "giant sword",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "This sword has been forged by ancient giants."
+        },
+        {
+          "key": "weight",
+          "value": "18000"
+        },
+        {
+          "key": "defense",
+          "value": "22"
+        },
+        {
+          "key": "attack",
+          "value": "46"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "2395",
+      "article": "a",
+      "name": "carlin sword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "4000"
+        },
+        {
+          "key": "defense",
+          "value": "13"
+        },
+        {
+          "key": "attack",
+          "value": "15"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "id": "2396",
+      "article": "an",
+      "name": "ice rapier",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "A deadly but fragile weapon."
+        },
+        {
+          "key": "weight",
+          "value": "1500"
+        },
+        {
+          "key": "attack",
+          "value": "42"
+        },
+        {
+          "key": "defense",
+          "value": "1"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "elementIce",
+          "value": "18"
+        },
+        {
+          "key": "charges",
+          "value": "1"
+        },
+        {
+          "key": "supply",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "id": "2397",
+      "article": "a",
+      "name": "longsword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "4200"
+        },
+        {
+          "key": "defense",
+          "value": "14"
+        },
+        {
+          "key": "attack",
+          "value": "17"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        }
+      ]
+    },
+    {
+      "id": "2400",
+      "article": "a",
+      "name": "magic sword",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "It's the Sword of Valor."
+        },
+        {
+          "key": "weight",
+          "value": "4200"
+        },
+        {
+          "key": "defense",
+          "value": "35"
+        },
+        {
+          "key": "attack",
+          "value": "48"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "id": "2402",
+      "article": "a",
+      "name": "silver dagger",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "1020"
+        },
+        {
+          "key": "defense",
+          "value": "7"
+        },
+        {
+          "key": "attack",
+          "value": "9"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        }
+      ]
+    },
+    {
+      "id": "2403",
+      "article": "a",
+      "name": "knife",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "420"
+        },
+        {
+          "key": "defense",
+          "value": "5"
+        },
+        {
+          "key": "attack",
+          "value": "5"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        }
+      ]
+    },
+    {
+      "id": "2404",
+      "article": "a",
+      "name": "combat knife",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "870"
+        },
+        {
+          "key": "defense",
+          "value": "6"
+        },
+        {
+          "key": "attack",
+          "value": "8"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        }
+      ]
+    },
+    {
+      "id": "2406",
+      "article": "a",
+      "name": "short sword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "3500"
+        },
+        {
+          "key": "defense",
+          "value": "11"
+        },
+        {
+          "key": "attack",
+          "value": "11"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        }
+      ]
+    },
+    {
+      "id": "2407",
+      "article": "a",
+      "name": "bright sword",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "The blade shimmers in light blue."
+        },
+        {
+          "key": "weight",
+          "value": "2900"
+        },
+        {
+          "key": "defense",
+          "value": "30"
+        },
+        {
+          "key": "attack",
+          "value": "36"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "id": "2408",
+      "article": "a",
+      "name": "warlord sword",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "Strong powers flow in this magic sword."
+        },
+        {
+          "key": "weight",
+          "value": "6400"
+        },
+        {
+          "key": "defense",
+          "value": "38"
+        },
+        {
+          "key": "attack",
+          "value": "53"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "2409",
+      "article": "a",
+      "name": "serpent sword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "4100"
+        },
+        {
+          "key": "defense",
+          "value": "15"
+        },
+        {
+          "key": "attack",
+          "value": "18"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "1"
+        },
+        {
+          "key": "elementEarth",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "id": "2411",
+      "article": "a",
+      "name": "poison dagger",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "880"
+        },
+        {
+          "key": "defense",
+          "value": "8"
+        },
+        {
+          "key": "attack",
+          "value": "18"
+        },
+        {
+          "key": "elementEarth",
+          "value": "2"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        }
+      ]
+    },
+    {
+      "id": "2412",
+      "article": "a",
+      "name": "katana",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "3100"
+        },
+        {
+          "key": "defense",
+          "value": "12"
+        },
+        {
+          "key": "attack",
+          "value": "16"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "id": "2413",
+      "article": "a",
+      "name": "broadsword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5250"
+        },
+        {
+          "key": "defense",
+          "value": "23"
+        },
+        {
+          "key": "attack",
+          "value": "26"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "2419",
+      "article": "a",
+      "name": "scimitar",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "2900"
+        },
+        {
+          "key": "defense",
+          "value": "13"
+        },
+        {
+          "key": "attack",
+          "value": "19"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "id": "2420",
+      "article": "a",
+      "name": "machete",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "1650"
+        },
+        {
+          "key": "defense",
+          "value": "9"
+        },
+        {
+          "key": "attack",
+          "value": "12"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        }
+      ]
+    },
+    {
+      "id": "2438",
+      "article": "an",
+      "name": "epee",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "1450"
+        },
+        {
+          "key": "defense",
+          "value": "23"
+        },
+        {
+          "key": "attack",
+          "value": "37"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        }
+      ]
+    },
+    {
+      "id": "2442",
+      "article": "a",
+      "name": "heavy machete",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "1840"
+        },
+        {
+          "key": "defense",
+          "value": "10"
+        },
+        {
+          "key": "attack",
+          "value": "16"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        }
+      ]
+    },
+    {
+      "id": "2446",
+      "article": "a",
+      "name": "pharaoh sword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5200"
+        },
+        {
+          "key": "defense",
+          "value": "23"
+        },
+        {
+          "key": "attack",
+          "value": "41"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "id": "2450",
+      "article": "a",
+      "name": "bone sword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "1900"
+        },
+        {
+          "key": "defense",
+          "value": "10"
+        },
+        {
+          "key": "attack",
+          "value": "13"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        }
+      ]
+    },
+    {
+      "id": "2451",
+      "article": "a",
+      "name": "djinn blade",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "2450"
+        },
+        {
+          "key": "defense",
+          "value": "22"
+        },
+        {
+          "key": "attack",
+          "value": "38"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "id": "3963",
+      "article": "a",
+      "name": "templar scytheblade",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "2900"
+        },
+        {
+          "key": "defense",
+          "value": "15"
+        },
+        {
+          "key": "attack",
+          "value": "23"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "id": "6101",
+      "name": "Ron the Ripper's sabre",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "2500"
+        },
+        {
+          "key": "defense",
+          "value": "10"
+        },
+        {
+          "key": "attack",
+          "value": "12"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        }
+      ]
+    },
+    {
+      "id": "6528",
+      "name": "the avenger",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "This holy blade was forged of shattered dreams."
+        },
+        {
+          "key": "weight",
+          "value": "6400"
+        },
+        {
+          "key": "defense",
+          "value": "38"
+        },
+        {
+          "key": "attack",
+          "value": "50"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "7382",
+      "article": "a",
+      "name": "demonrage sword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "15000"
+        },
+        {
+          "key": "defense",
+          "value": "22"
+        },
+        {
+          "key": "attack",
+          "value": "47"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "7383",
+      "article": "a",
+      "name": "relic sword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "4800"
+        },
+        {
+          "key": "defense",
+          "value": "24"
+        },
+        {
+          "key": "attack",
+          "value": "42"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "id": "7384",
+      "article": "a",
+      "name": "mystic blade",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "This sword is only granted to a scrapper of the Svargrond arena."
+        },
+        {
+          "key": "weight",
+          "value": "3500"
+        },
+        {
+          "key": "defense",
+          "value": "25"
+        },
+        {
+          "key": "attack",
+          "value": "44"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "id": "7385",
+      "article": "a",
+      "name": "crimson sword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "3600"
+        },
+        {
+          "key": "defense",
+          "value": "20"
+        },
+        {
+          "key": "attack",
+          "value": "28"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "id": "7386",
+      "article": "a",
+      "name": "mercenary sword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "6800"
+        },
+        {
+          "key": "defense",
+          "value": "27"
+        },
+        {
+          "key": "attack",
+          "value": "43"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "7390",
+      "name": "the justice seeker",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5000"
+        },
+        {
+          "key": "defense",
+          "value": "24"
+        },
+        {
+          "key": "attack",
+          "value": "47"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "3"
+        },
+        {
+          "key": "description",
+          "value": "This sword is only granted to a warlord of the Svargrond arena."
+        }
+      ]
+    },
+    {
+      "id": "7391",
+      "article": "a",
+      "name": "thaian sword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "6100"
+        },
+        {
+          "key": "defense",
+          "value": "29"
+        },
+        {
+          "key": "attack",
+          "value": "45"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "7402",
+      "article": "a",
+      "name": "dragon slayer",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "8200"
+        },
+        {
+          "key": "defense",
+          "value": "28"
+        },
+        {
+          "key": "attack",
+          "value": "44"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "7403",
+      "article": "a",
+      "name": "berserker",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "13000"
+        },
+        {
+          "key": "defense",
+          "value": "21"
+        },
+        {
+          "key": "attack",
+          "value": "48"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "7404",
+      "article": "an",
+      "name": "assassin dagger",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "1700"
+        },
+        {
+          "key": "defense",
+          "value": "12"
+        },
+        {
+          "key": "attack",
+          "value": "40"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "-2"
+        }
+      ]
+    },
+    {
+      "id": "7405",
+      "article": "a",
+      "name": "havoc blade",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "7200"
+        },
+        {
+          "key": "defense",
+          "value": "34"
+        },
+        {
+          "key": "attack",
+          "value": "49"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "7406",
+      "article": "a",
+      "name": "blacksteel sword",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "This sword is only granted to a greenhorn of the Svargrond arena."
+        },
+        {
+          "key": "weight",
+          "value": "5900"
+        },
+        {
+          "key": "defense",
+          "value": "22"
+        },
+        {
+          "key": "attack",
+          "value": "42"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "7407",
+      "article": "a",
+      "name": "haunted blade",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "3100"
+        },
+        {
+          "key": "defense",
+          "value": "12"
+        },
+        {
+          "key": "attack",
+          "value": "40"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "7408",
+      "article": "a",
+      "name": "wyvern fang",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "2000"
+        },
+        {
+          "key": "defense",
+          "value": "19"
+        },
+        {
+          "key": "attack",
+          "value": "32"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "id": "7416",
+      "article": "a",
+      "name": "bloody edge",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5200"
+        },
+        {
+          "key": "defense",
+          "value": "21"
+        },
+        {
+          "key": "attack",
+          "value": "43"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "-3"
+        }
+      ]
+    },
+    {
+      "id": "7417",
+      "article": "a",
+      "name": "runed sword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "4600"
+        },
+        {
+          "key": "defense",
+          "value": "32"
+        },
+        {
+          "key": "attack",
+          "value": "45"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "id": "7418",
+      "article": "a",
+      "name": "nightmare blade",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "4600"
+        },
+        {
+          "key": "defense",
+          "value": "23"
+        },
+        {
+          "key": "attack",
+          "value": "46"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "-3"
+        }
+      ]
+    },
+    {
+      "id": "7449",
+      "article": "a",
+      "name": "crystal sword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "6900"
+        },
+        {
+          "key": "defense",
+          "value": "26"
+        },
+        {
+          "key": "attack",
+          "value": "35"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "7744",
+      "article": "a",
+      "name": "fiery spike sword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5000"
+        },
+        {
+          "key": "defense",
+          "value": "21"
+        },
+        {
+          "key": "attack",
+          "value": "20"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "2"
+        },
+        {
+          "key": "elementFire",
+          "value": "4"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "2383"
+        }
+      ]
+    },
+    {
+      "id": "7745",
+      "article": "a",
+      "name": "fiery relic sword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "4800"
+        },
+        {
+          "key": "defense",
+          "value": "24"
+        },
+        {
+          "key": "attack",
+          "value": "34"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "1"
+        },
+        {
+          "key": "elementFire",
+          "value": "8"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "7383"
+        }
+      ]
+    },
+    {
+      "id": "7746",
+      "article": "a",
+      "name": "fiery mystic blade",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "3500"
+        },
+        {
+          "key": "defense",
+          "value": "25"
+        },
+        {
+          "key": "attack",
+          "value": "36"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "2"
+        },
+        {
+          "key": "elementFire",
+          "value": "8"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "7384"
+        }
+      ]
+    },
+    {
+      "id": "7747",
+      "article": "a",
+      "name": "fiery blacksteel sword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5900"
+        },
+        {
+          "key": "defense",
+          "value": "22"
+        },
+        {
+          "key": "attack",
+          "value": "35"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementFire",
+          "value": "7"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "7406"
+        }
+      ]
+    },
+    {
+      "id": "7748",
+      "article": "a",
+      "name": "fiery dragon slayer",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "8200"
+        },
+        {
+          "key": "defense",
+          "value": "28"
+        },
+        {
+          "key": "attack",
+          "value": "35"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementFire",
+          "value": "9"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "7402"
+        }
+      ]
+    },
+    {
+      "id": "7763",
+      "article": "an",
+      "name": "icy spike sword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5000"
+        },
+        {
+          "key": "defense",
+          "value": "21"
+        },
+        {
+          "key": "attack",
+          "value": "20"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "2"
+        },
+        {
+          "key": "elementIce",
+          "value": "4"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "2383"
+        }
+      ]
+    },
+    {
+      "id": "7764",
+      "article": "an",
+      "name": "icy relic sword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "4800"
+        },
+        {
+          "key": "defense",
+          "value": "24"
+        },
+        {
+          "key": "attack",
+          "value": "34"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "1"
+        },
+        {
+          "key": "elementIce",
+          "value": "8"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "7383"
+        }
+      ]
+    },
+    {
+      "id": "7765",
+      "article": "an",
+      "name": "icy mystic blade",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "3500"
+        },
+        {
+          "key": "defense",
+          "value": "25"
+        },
+        {
+          "key": "attack",
+          "value": "36"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "2"
+        },
+        {
+          "key": "elementIce",
+          "value": "8"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "7384"
+        }
+      ]
+    },
+    {
+      "id": "7766",
+      "article": "an",
+      "name": "icy blacksteel sword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5900"
+        },
+        {
+          "key": "defense",
+          "value": "22"
+        },
+        {
+          "key": "attack",
+          "value": "35"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementIce",
+          "value": "7"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "7406"
+        }
+      ]
+    },
+    {
+      "id": "7767",
+      "article": "an",
+      "name": "icy dragon slayer",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "8200"
+        },
+        {
+          "key": "defense",
+          "value": "28"
+        },
+        {
+          "key": "attack",
+          "value": "35"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementIce",
+          "value": "9"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "7402"
+        }
+      ]
+    },
+    {
+      "id": "7854",
+      "article": "an",
+      "name": "earth spike sword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5000"
+        },
+        {
+          "key": "defense",
+          "value": "21"
+        },
+        {
+          "key": "attack",
+          "value": "20"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "2"
+        },
+        {
+          "key": "elementEarth",
+          "value": "4"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "2383"
+        }
+      ]
+    },
+    {
+      "id": "7855",
+      "article": "an",
+      "name": "earth relic sword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "4800"
+        },
+        {
+          "key": "defense",
+          "value": "24"
+        },
+        {
+          "key": "attack",
+          "value": "34"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "1"
+        },
+        {
+          "key": "elementEarth",
+          "value": "8"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "7383"
+        }
+      ]
+    },
+    {
+      "id": "7856",
+      "article": "an",
+      "name": "earth mystic blade",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "3500"
+        },
+        {
+          "key": "defense",
+          "value": "25"
+        },
+        {
+          "key": "attack",
+          "value": "36"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "2"
+        },
+        {
+          "key": "elementEarth",
+          "value": "8"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "7384"
+        }
+      ]
+    },
+    {
+      "id": "7857",
+      "article": "an",
+      "name": "earth blacksteel sword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5900"
+        },
+        {
+          "key": "defense",
+          "value": "22"
+        },
+        {
+          "key": "attack",
+          "value": "35"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementEarth",
+          "value": "7"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "7406"
+        }
+      ]
+    },
+    {
+      "id": "7858",
+      "article": "an",
+      "name": "earth dragon slayer",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "8200"
+        },
+        {
+          "key": "defense",
+          "value": "28"
+        },
+        {
+          "key": "attack",
+          "value": "35"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementEarth",
+          "value": "9"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "7402"
+        }
+      ]
+    },
+    {
+      "id": "7869",
+      "article": "an",
+      "name": "energy spike sword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5000"
+        },
+        {
+          "key": "defense",
+          "value": "21"
+        },
+        {
+          "key": "attack",
+          "value": "20"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "2"
+        },
+        {
+          "key": "elementEnergy",
+          "value": "4"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "2383"
+        }
+      ]
+    },
+    {
+      "id": "7870",
+      "article": "an",
+      "name": "energy relic sword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "4800"
+        },
+        {
+          "key": "defense",
+          "value": "24"
+        },
+        {
+          "key": "attack",
+          "value": "34"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "1"
+        },
+        {
+          "key": "elementEnergy",
+          "value": "8"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "7383"
+        }
+      ]
+    },
+    {
+      "id": "7871",
+      "article": "an",
+      "name": "energy mystic blade",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "3500"
+        },
+        {
+          "key": "defense",
+          "value": "25"
+        },
+        {
+          "key": "attack",
+          "value": "36"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "2"
+        },
+        {
+          "key": "elementEnergy",
+          "value": "8"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "7384"
+        }
+      ]
+    },
+    {
+      "id": "7872",
+      "article": "an",
+      "name": "energy blacksteel sword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5900"
+        },
+        {
+          "key": "defense",
+          "value": "22"
+        },
+        {
+          "key": "attack",
+          "value": "35"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementEnergy",
+          "value": "7"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "7406"
+        }
+      ]
+    },
+    {
+      "id": "7873",
+      "article": "an",
+      "name": "energy dragon slayer",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "8200"
+        },
+        {
+          "key": "defense",
+          "value": "28"
+        },
+        {
+          "key": "attack",
+          "value": "35"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementEnergy",
+          "value": "9"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "7402"
+        }
+      ]
+    },
+    {
+      "id": "8209",
+      "article": "a",
+      "name": "crimson sword",
+      "editorsuffix": " (Old notchy one)",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "Its blade is very notchy"
+        },
+        {
+          "key": "weight",
+          "value": "3600"
+        },
+        {
+          "key": "defense",
+          "value": "10"
+        },
+        {
+          "key": "attack",
+          "value": "18"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        }
+      ]
+    },
+    {
+      "id": "8602",
+      "article": "a",
+      "name": "jagged sword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "2900"
+        },
+        {
+          "key": "defense",
+          "value": "14"
+        },
+        {
+          "key": "attack",
+          "value": "21"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "id": "8930",
+      "article": "an",
+      "name": "emerald sword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "4100"
+        },
+        {
+          "key": "defense",
+          "value": "33"
+        },
+        {
+          "key": "attack",
+          "value": "49"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "id": "8931",
+      "name": "the epiphany",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "4500"
+        },
+        {
+          "key": "defense",
+          "value": "35"
+        },
+        {
+          "key": "attack",
+          "value": "50"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "id": "8932",
+      "name": "the calamity",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "6800"
+        },
+        {
+          "key": "defense",
+          "value": "35"
+        },
+        {
+          "key": "attack",
+          "value": "51"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "10292",
+      "article": "a",
+      "name": "pointed rabbitslayer",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "Someone has sharpened this carrot to inflict some nasty damage especially on rabbits."
+        },
+        {
+          "key": "weight",
+          "value": "160"
+        },
+        {
+          "key": "defense",
+          "value": "8"
+        },
+        {
+          "key": "attack",
+          "value": "16"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        }
+      ]
+    },
+    {
+      "id": "10303",
+      "article": "a",
+      "name": "farmer's avenger",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "A weapon forged to fight oppression of the poor underdogs."
+        },
+        {
+          "key": "weight",
+          "value": "2500"
+        },
+        {
+          "key": "defense",
+          "value": "7"
+        },
+        {
+          "key": "attack",
+          "value": "17"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "10304",
+      "article": "a",
+      "name": "poet's fencing quill",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "This feather is mightier than a sword."
+        },
+        {
+          "key": "weight",
+          "value": "200"
+        },
+        {
+          "key": "defense",
+          "value": "8"
+        },
+        {
+          "key": "attack",
+          "value": "10"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        }
+      ]
+    },
+    {
+      "id": "10313",
+      "article": "an",
+      "name": "incredible mumpiz slayer",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "This magnificent weapon was forged to slay arch mumpiz demons with a single blow."
+        },
+        {
+          "key": "weight",
+          "value": "4200"
+        },
+        {
+          "key": "defense",
+          "value": "14"
+        },
+        {
+          "key": "attack",
+          "value": "17"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        }
+      ]
+    },
+    {
+      "id": "11306",
+      "name": "sai",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5000"
+        },
+        {
+          "key": "defense",
+          "value": "27"
+        },
+        {
+          "key": "attack",
+          "value": "45"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "11307",
+      "article": "a",
+      "name": "Zaoan sword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "4900"
+        },
+        {
+          "key": "defense",
+          "value": "18"
+        },
+        {
+          "key": "attack",
+          "value": "43"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "id": "11395",
+      "article": "a",
+      "name": "crimson sword",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "Its blade is very notchy"
+        },
+        {
+          "key": "weight",
+          "value": "3600"
+        },
+        {
+          "key": "defense",
+          "value": "10"
+        },
+        {
+          "key": "attack",
+          "value": "18"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        }
+      ]
+    },
+    {
+      "id": "11426",
+      "name": "the Ron the Ripper's sabre",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "2500"
+        },
+        {
+          "key": "defense",
+          "value": "10"
+        },
+        {
+          "key": "attack",
+          "value": "12"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        }
+      ]
+    },
+    {
+      "id": "12613",
+      "article": "a",
+      "name": "twiceslicer",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "18000"
+        },
+        {
+          "key": "defense",
+          "value": "30"
+        },
+        {
+          "key": "attack",
+          "value": "47"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "12649",
+      "article": "a",
+      "name": "blade of corruption",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "6400"
+        },
+        {
+          "key": "defense",
+          "value": "29"
+        },
+        {
+          "key": "attack",
+          "value": "48"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "id": "13829",
+      "article": "a",
+      "name": "wooden sword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "2000"
+        },
+        {
+          "key": "defense",
+          "value": "7"
+        },
+        {
+          "key": "attack",
+          "value": "7"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        }
+      ]
+    },
+    {
+      "id": "13838",
+      "article": "a",
+      "name": "heavy trident",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "9000"
+        },
+        {
+          "key": "defense",
+          "value": "17"
+        },
+        {
+          "key": "attack",
+          "value": "35"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "13871",
+      "article": "a",
+      "name": "shimmer sword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5200"
+        },
+        {
+          "key": "defense",
+          "value": "20"
+        },
+        {
+          "key": "attack",
+          "value": "42"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "decayTo",
+          "value": "0"
+        },
+        {
+          "key": "duration",
+          "value": "604800"
+        }
+      ]
+    },
+    {
+      "id": "18450",
+      "article": "a",
+      "name": "crystalline sword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "4800"
+        },
+        {
+          "key": "defense",
+          "value": "34"
+        },
+        {
+          "key": "attack",
+          "value": "47"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "id": "18465",
+      "article": "a",
+      "name": "shiny blade",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "4500"
+        },
+        {
+          "key": "defense",
+          "value": "35"
+        },
+        {
+          "key": "attack",
+          "value": "49"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "2"
+        },
+        {
+          "key": "skillSword",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "id": "19389",
+      "article": "a",
+      "name": "mean knight sword",
+      "attributes": [
+        {
+          "key": "defense",
+          "value": "7"
+        },
+        {
+          "key": "attack",
+          "value": "14"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "weight",
+          "value": "2000"
+        }
+      ]
+    },
+    {
+      "id": "20092",
+      "article": "a",
+      "name": "ratana",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "3300"
+        },
+        {
+          "key": "attack",
+          "value": "27"
+        },
+        {
+          "key": "defense",
+          "value": "19"
+        },
+        {
+          "key": "extradef",
+          "value": "1"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        }
+      ]
+    },
+    {
+      "id": "22398",
+      "article": "a",
+      "name": "crude umbral blade",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "6300"
+        },
+        {
+          "key": "defense",
+          "value": "26"
+        },
+        {
+          "key": "attack",
+          "value": "48"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "id": "22399",
+      "article": "an",
+      "name": "umbral blade",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5900"
+        },
+        {
+          "key": "defense",
+          "value": "29"
+        },
+        {
+          "key": "attack",
+          "value": "50"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "id": "22400",
+      "article": "an",
+      "name": "umbral masterblade",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5500"
+        },
+        {
+          "key": "defense",
+          "value": "31"
+        },
+        {
+          "key": "attack",
+          "value": "52"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "3"
+        },
+        {
+          "key": "skillSword",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "id": "22401",
+      "article": "a",
+      "name": "crude umbral slayer",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "10000"
+        },
+        {
+          "key": "defense",
+          "value": "29"
+        },
+        {
+          "key": "attack",
+          "value": "51"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "22402",
+      "article": "an",
+      "name": "umbral slayer",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "9500"
+        },
+        {
+          "key": "defense",
+          "value": "31"
+        },
+        {
+          "key": "attack",
+          "value": "52"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "22403",
+      "article": "an",
+      "name": "umbral master slayer",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "9000"
+        },
+        {
+          "key": "defense",
+          "value": "35"
+        },
+        {
+          "key": "attack",
+          "value": "54"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "skillSword",
+          "value": "3"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "skillSword",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "id": "22690",
+      "article": "a",
+      "name": "light rapier",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "1500"
+        },
+        {
+          "key": "defense",
+          "value": "8"
+        },
+        {
+          "key": "attack",
+          "value": "10"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "1"
+        },
+        {
+          "key": "description",
+          "value": "It has been used a lot, judging by its jagged blade."
+        }
+      ]
+    },
+    {
+      "id": "23548",
+      "article": "a",
+      "name": "cowtana",
+      "attributes": [
+        {
+          "key": "defense",
+          "value": "19"
+        },
+        {
+          "key": "extradef",
+          "value": "1"
+        },
+        {
+          "key": "attack",
+          "value": "34"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "weight",
+          "value": "2800"
+        }
+      ]
+    },
+    {
+      "id": "23550",
+      "article": "a",
+      "name": "glooth blade",
+      "attributes": [
+        {
+          "key": "defense",
+          "value": "1"
+        },
+        {
+          "key": "attack",
+          "value": "39"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementEarth",
+          "value": "26"
+        },
+        {
+          "key": "charges",
+          "value": "2"
+        },
+        {
+          "key": "weight",
+          "value": "1900"
+        }
+      ]
+    },
+    {
+      "id": "25416",
+      "article": "an",
+      "name": "impaler of the igniter",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5900"
+        },
+        {
+          "key": "defense",
+          "value": "31"
+        },
+        {
+          "key": "attack",
+          "value": "26"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "extradef",
+          "value": "3"
+        },
+        {
+          "key": "elementFire",
+          "value": "26"
+        }
+      ]
+    },
+    {
+      "id": "25879",
+      "article": "a",
+      "name": "blade of mayhem",
+      "attributes": [
+        {
+          "key": "defense",
+          "value": "33"
+        },
+        {
+          "key": "attack",
+          "value": "50"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "weight",
+          "value": "5000"
+        }
+      ]
+    },
+    {
+      "id": "25880",
+      "article": "a",
+      "name": "slayer of mayhem",
+      "attributes": [
+        {
+          "key": "defense",
+          "value": "32"
+        },
+        {
+          "key": "attack",
+          "value": "52"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "weight",
+          "value": "7000"
+        }
+      ]
+    },
+    {
+      "fromid": "25919",
+      "toid": "25922",
+      "article": "a",
+      "name": "blade of remedy",
+      "attributes": [
+        {
+          "key": "defense",
+          "value": "33"
+        },
+        {
+          "key": "attack",
+          "value": "50"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "weight",
+          "value": "5000"
+        }
+      ]
+    },
+    {
+      "fromid": "25923",
+      "toid": "25926",
+      "article": "a",
+      "name": "slayer of remedy",
+      "attributes": [
+        {
+          "key": "defense",
+          "value": "32"
+        },
+        {
+          "key": "attack",
+          "value": "52"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "weight",
+          "value": "7000"
+        }
+      ]
+    },
+    {
+      "fromid": "25959",
+      "toid": "25962",
+      "article": "a",
+      "name": "blade of carving",
+      "attributes": [
+        {
+          "key": "defense",
+          "value": "33"
+        },
+        {
+          "key": "attack",
+          "value": "50"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "weight",
+          "value": "5000"
+        }
+      ]
+    },
+    {
+      "fromid": "25963",
+      "toid": "25966",
+      "article": "a",
+      "name": "slayer of carving",
+      "attributes": [
+        {
+          "key": "defense",
+          "value": "32"
+        },
+        {
+          "key": "attack",
+          "value": "52"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "weight",
+          "value": "7000"
+        }
+      ]
+    },
+    {
+      "id": "30105",
+      "article": "a",
+      "name": "blade of destruction",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5000"
+        },
+        {
+          "key": "defense",
+          "value": "33"
+        },
+        {
+          "key": "attack",
+          "value": "50"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        }
+      ]
+    },
+    {
+      "id": "30106",
+      "article": "a",
+      "name": "slayer of destruction",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "7000"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "defense",
+          "value": "30"
+        },
+        {
+          "key": "attack",
+          "value": "52"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        }
+      ]
+    }
+  ]
+}
