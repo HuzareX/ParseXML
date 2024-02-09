@@ -1,222 +1,75 @@
 const fs = require('fs')
 
-const jsonData = fs.readFileSync('../JSON files/items.json', 'utf-8')
-const parsedData = JSON.parse(jsonData)
+class ItemFilter {
+    constructor(dataPath) {
+        this.jsonData = fs.readFileSync(dataPath, 'utf-8')
+        this.parsedData = JSON.parse(this.jsonData)
+    }
 
-const filterBodyItems = (result, outputPath) => {
-	const filteredItems = result.items.filter(
-		item =>
-			item.attributes && Array.isArray(item.attributes) && item.attributes.some(attribute => attribute.value === 'body')
-	)
-	const outputData = {
-		items: filteredItems,
-	}
 
-	fs.writeFileSync(outputPath, JSON.stringify(outputData, null, 2), 'utf-8')
+    filterItems(attributePairs, outputPath) {
+        const filteredItems = this.parsedData.items.filter(
+            item =>
+            item.attributes &&
+            Array.isArray(item.attributes) &&
+            attributePairs.every(pair =>
+                item.attributes.some(attribute =>
+                    pair.key ? (attribute.key === pair.key && (pair.value ? attribute.value === pair.value : true)) : true
+                )
+            )
+        );
+    
+        const outputData = {
+            items: filteredItems
+        };
+    
+        fs.writeFileSync(outputPath, JSON.stringify(outputData, null, 2), 'utf-8');
+    }
+    
+
 }
 
-const filterHeadItems = (result, outputPath) => {
-	const filteredItems = result.items.filter(
-		item =>
-			item.attributes && Array.isArray(item.attributes) && item.attributes.some(attribute => attribute.value === 'head')
-	)
+const bodyItemsFilter = new ItemFilter('../JSON files/items.json')
+bodyItemsFilter.filterItems([{key:'slotType', value: 'body'}], '../JSON files/armors.json')
 
-	const outputData = {
-		items: filteredItems,
-	}
+const headItemsFilter = new ItemFilter('../JSON files/items.json')
+headItemsFilter.filterItems([{key:'slotType', value: 'head'}], '../JSON files/helmets.json')
 
-	fs.writeFileSync(outputPath, JSON.stringify(outputData, null, 2), 'utf-8')
-}
+const legsItemsFilter = new ItemFilter('../JSON files/items.json')
+legsItemsFilter.filterItems([{key:'slotType', value: 'legs'}], '../JSON files/legs.json')
 
-const filterLegsItems = (result, outputPath) => {
-	const filteredItems = result.items.filter(
-		item =>
-			item.attributes && Array.isArray(item.attributes) && item.attributes.some(attribute => attribute.value === 'legs')
-	)
-	const outputData = {
-		items: filteredItems,
-	}
+const bootsItemsFilter = new ItemFilter('../JSON files/items.json')
+bootsItemsFilter.filterItems([{key:'slotType', value: 'feet'}], '../JSON files/boots.json')
 
-	fs.writeFileSync(outputPath, JSON.stringify(outputData, null, 2), 'utf-8')
-}
+const shieldsItemsFilter = new ItemFilter('../JSON files/items.json')
+shieldsItemsFilter.filterItems([{key:'weaponType', value: 'shield'}], '../JSON files/shields.json')
 
-const filterBootsItems = (result, outputPath) => {
-	const filteredItems = result.items.filter(
-		item =>
-			item.attributes && Array.isArray(item.attributes) && item.attributes.some(attribute => attribute.value === 'feet')
-	)
-	const outputData = {
-		items: filteredItems,
-	}
+const quiversItemsFilter = new ItemFilter('../JSON files/items.json')
+quiversItemsFilter.filterItems([{key:'weaponType', value: 'quiver'}], '../JSON files/quivers.json')
 
-	fs.writeFileSync(outputPath, JSON.stringify(outputData, null, 2), 'utf-8')
-}
+const axesItemsFilter = new ItemFilter('../JSON files/items.json')
+axesItemsFilter.filterItems([{key:'weaponType', value: 'axe'}], '../JSON files/axes.json')
 
-const filterShieldsItems = (result, outputPath) => {
-	const filteredItems = result.items.filter(
-		item =>
-			item.attributes &&
-			Array.isArray(item.attributes) &&
-			item.attributes.some(attribute => attribute.value === 'shield')
-	)
-	const outputData = {
-		items: filteredItems,
-	}
+const swordsItemsFilter = new ItemFilter('../JSON files/items.json')
+swordsItemsFilter.filterItems([{key:'weaponType', value: 'sword'}], '../JSON files/swords.json')
 
-	fs.writeFileSync(outputPath, JSON.stringify(outputData, null, 2), 'utf-8')
-}
+const clubsItemsFilter = new ItemFilter('../JSON files/items.json')
+clubsItemsFilter.filterItems([{ key:'weaponType', value:'club'}], '../JSON files/clubs.json')
 
-const filterQuiversItems = (result, outputPath) => {
-	const filteredItems = result.items.filter(
-		item =>
-			item.attributes &&
-			Array.isArray(item.attributes) &&
-			item.attributes.some(attribute => attribute.value === 'quiver')
-	)
-	const outputData = {
-		items: filteredItems,
-	}
+const wandsItemsFilter = new ItemFilter('../JSON files/items.json')
+wandsItemsFilter.filterItems([{key:'weaponType', value: 'wand'}], '../JSON files/wands.json')
 
-	fs.writeFileSync(outputPath, JSON.stringify(outputData, null, 2), 'utf-8')
-}
+const backpacksItemsFilter = new ItemFilter('../JSON files/items.json')
+backpacksItemsFilter.filterItems([{key:'slotType', value: 'backpack'}], '../JSON files/backpacks.json')
 
-const filterAxesItems = (result, outputPath) => {
-	const filteredItems = result.items.filter(
-		item =>
-			item.attributes && Array.isArray(item.attributes) && item.attributes.some(attribute => attribute.value === 'axe')
-	)
-	const outputData = {
-		items: filteredItems,
-	}
+const ammunitionItemsFilter = new ItemFilter('../JSON files/items.json')
+ammunitionItemsFilter.filterItems([{key: 'weaponType', value: 'ammunition'}], '../JSON files/ammunition.json')
 
-	fs.writeFileSync(outputPath, JSON.stringify(outputData, null, 2), 'utf-8')
-}
+const crossbowsItemsFilter = new ItemFilter('../JSON files/items.json')
+crossbowsItemsFilter.filterItems([{key: 'slotType', value: 'two-handed'}, {key: 'ammoType', value: 'bolt'}], '../JSON files/crossbows.json')
 
-const filterSwordsItems = (result, outputPath) => {
-	const filteredItems = result.items.filter(
-		item =>
-			item.attributes &&
-			Array.isArray(item.attributes) &&
-			item.attributes.some(attribute => attribute.value === 'sword')
-	)
-	const outputData = {
-		items: filteredItems,
-	}
+const bowsItemsFilter = new ItemFilter('../JSON files/items.json')
+bowsItemsFilter.filterItems([{key: 'slotType', value: 'two-handed'}, {key: 'ammoType', value: 'arrow'}], '../JSON files/bows.json')
 
-	fs.writeFileSync(outputPath, JSON.stringify(outputData, null, 2), 'utf-8')
-}
-
-const filterClubsItems = (result, outputPath) => {
-	const filteredItems = result.items.filter(
-		item =>
-			item.attributes && Array.isArray(item.attributes) && item.attributes.some(attribute => attribute.value === 'club')
-	)
-	const outputData = {
-		items: filteredItems,
-	}
-
-	fs.writeFileSync(outputPath, JSON.stringify(outputData, null, 2), 'utf-8')
-}
-
-const filterWandsItems = (result, outputPath) => {
-	const filteredItems = result.items.filter(
-		item =>
-			item.attributes && Array.isArray(item.attributes) && item.attributes.some(attribute => attribute.value === 'wand')
-	)
-	const outputData = {
-		items: filteredItems,
-	}
-
-	fs.writeFileSync(outputPath, JSON.stringify(outputData, null, 2), 'utf-8')
-}
-
-const filterBackpacksItems = (result, outputPath) => {
-	const filteredItems = result.items.filter(
-		item =>
-			item.attributes &&
-			Array.isArray(item.attributes) &&
-			item.attributes.some(attribute => attribute.value === 'backpack')
-	)
-	const outputData = {
-		items: filteredItems,
-	}
-
-	fs.writeFileSync(outputPath, JSON.stringify(outputData, null, 2), 'utf-8')
-}
-
-const filterThrowItems = (result, outputPath) => {
-	const filteredItems = result.items.filter(
-		item =>
-			item.attributes &&
-			Array.isArray(item.attributes) &&
-			item.attributes.some(attribute => attribute.value === 'distance') &&
-			item.attributes.some(attribute => attribute.key === 'shootType')
-	)
-	const outputData = {
-		items: filteredItems,
-	}
-
-	fs.writeFileSync(outputPath, JSON.stringify(outputData, null, 2), 'utf-8')
-}
-
-const filterAmmunitionItems = (result, outputPath) => {
-	const filteredItems = result.items.filter(
-		item =>
-			item.attributes &&
-			Array.isArray(item.attributes) &&
-			item.attributes.some(attribute => attribute.value === 'ammunition')
-	)
-	const outputData = {
-		items: filteredItems,
-	}
-
-	fs.writeFileSync(outputPath, JSON.stringify(outputData, null, 2), 'utf-8')
-}
-
-const filterBowsItems = (result, outputPath) => {
-	const filteredItems = result.items.filter(
-		item =>
-			item.attributes &&
-			Array.isArray(item.attributes) &&
-			item.attributes.some(attribute => attribute.value === 'arrow') &&
-			item.attributes.some(attribute => attribute.value === 'two-handed')
-	)
-
-	const outputData = {
-		items: filteredItems,
-	}
-
-	fs.writeFileSync(outputPath, JSON.stringify(outputData, null, 2), 'utf-8')
-}
-
-const filterCrossbowsItems = (result, outputPath) => {
-	const filteredItems = result.items.filter(
-		item =>
-			item.attributes &&
-			Array.isArray(item.attributes) &&
-			item.attributes.some(attribute => attribute.value === 'bolt') &&
-			item.attributes.some(attribute => attribute.value === 'two-handed')
-	)
-
-	const outputData = {
-		items: filteredItems
-	}
-
-	fs.writeFileSync(outputPath, JSON.stringify(outputData, null, 2), 'utf-8')
-}
-
-filterBodyItems(parsedData, '../JSON files/armors.json')
-filterHeadItems(parsedData, '../JSON files/helmets.json')
-filterLegsItems(parsedData, '../JSON files/legs.json')
-filterBootsItems(parsedData, '../JSON files/boots.json')
-filterShieldsItems(parsedData, '../JSON files/shields.json')
-filterQuiversItems(parsedData, '../JSON files/quivers.json')
-filterAxesItems(parsedData, '../JSON files/axes.json')
-filterSwordsItems(parsedData, '../JSON files/swords.json')
-filterClubsItems(parsedData, '../JSON files/clubs.json')
-filterWandsItems(parsedData, '../JSON files/wands.json')
-filterBackpacksItems(parsedData, '../JSON files/backpacks.json')
-filterThrowItems(parsedData, '../JSON files/throw.json')
-filterAmmunitionItems(parsedData, '../JSON files/ammunition.json')
-filterBowsItems(parsedData, '../JSON files/bows.json')
-filterCrossbowsItems(parsedData, '../JSON files/crossbows.json')
+const throwItemsFilter = new ItemFilter('../JSON files/items.json')
+throwItemsFilter.filterItems([{key: 'weaponType', value: 'distance'}, {key: 'shootType'}], '../JSON files/throw.json')

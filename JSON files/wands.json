@@ -999,53 +999,6 @@
       ]
     },
     {
-      "id": "28416",
-      "article": "a",
-      "name": "wand of darkness",
-      "attributes": [
-        {
-          "key": "weight",
-          "value": "3200"
-        },
-        {
-          "key": "weapontype",
-          "value": "wand"
-        },
-        {
-          "key": "shoottype",
-          "value": "death"
-        },
-        {
-          "key": "criticalhitamount",
-          "value": "35"
-        },
-        {
-          "key": "criticalhitchance",
-          "value": "10"
-        },
-        {
-          "key": "magiclevelpoints",
-          "value": "2"
-        },
-        {
-          "key": "range",
-          "value": "4"
-        },
-        {
-          "key": "duration",
-          "value": "900"
-        },
-        {
-          "key": "decayto",
-          "value": "0"
-        },
-        {
-          "key": "showduration",
-          "value": "true"
-        }
-      ]
-    },
-    {
       "id": "30113",
       "article": "a",
       "name": "wand of destruction",
