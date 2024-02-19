@@ -1541,30 +1541,6 @@
       ]
     },
     {
-      "fromid": "16103",
-      "toid": "16104",
-      "article": "a",
-      "name": "mathmaster shield",
-      "attributes": [
-        {
-          "key": "weight",
-          "value": "314"
-        },
-        {
-          "key": "description",
-          "value": "It's an Emblem of Wisdom."
-        },
-        {
-          "key": "defense",
-          "value": "0"
-        },
-        {
-          "key": "weaponType",
-          "value": "shield"
-        }
-      ]
-    },
-    {
       "id": "16112",
       "article": "a",
       "name": "spellbook of ancient arcana",

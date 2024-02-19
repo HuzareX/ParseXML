@@ -385,29 +385,6 @@
       ]
     },
     {
-      "fromid": "9817",
-      "toid": "9819",
-      "name": "rusty boots",
-      "attributes": [
-        {
-          "key": "description",
-          "value": "If you can remove the rust layer and dirt from the boots you will be able to see what it is."
-        },
-        {
-          "key": "weight",
-          "value": "2800"
-        },
-        {
-          "key": "armor",
-          "value": "1"
-        },
-        {
-          "key": "slotType",
-          "value": "feet"
-        }
-      ]
-    },
-    {
       "id": "9931",
       "name": "coconut shoes",
       "attributes": [

@@ -3008,10 +3008,6 @@
         {
           "key": "slotType",
           "value": "two-handed"
-        },
-        {
-          "key": "skillSword",
-          "value": "3"
         }
       ]
     },
@@ -3166,110 +3162,6 @@
       "id": "25880",
       "article": "a",
       "name": "slayer of mayhem",
-      "attributes": [
-        {
-          "key": "defense",
-          "value": "32"
-        },
-        {
-          "key": "attack",
-          "value": "52"
-        },
-        {
-          "key": "weaponType",
-          "value": "sword"
-        },
-        {
-          "key": "slotType",
-          "value": "two-handed"
-        },
-        {
-          "key": "weight",
-          "value": "7000"
-        }
-      ]
-    },
-    {
-      "fromid": "25919",
-      "toid": "25922",
-      "article": "a",
-      "name": "blade of remedy",
-      "attributes": [
-        {
-          "key": "defense",
-          "value": "33"
-        },
-        {
-          "key": "attack",
-          "value": "50"
-        },
-        {
-          "key": "weaponType",
-          "value": "sword"
-        },
-        {
-          "key": "weight",
-          "value": "5000"
-        }
-      ]
-    },
-    {
-      "fromid": "25923",
-      "toid": "25926",
-      "article": "a",
-      "name": "slayer of remedy",
-      "attributes": [
-        {
-          "key": "defense",
-          "value": "32"
-        },
-        {
-          "key": "attack",
-          "value": "52"
-        },
-        {
-          "key": "weaponType",
-          "value": "sword"
-        },
-        {
-          "key": "slotType",
-          "value": "two-handed"
-        },
-        {
-          "key": "weight",
-          "value": "7000"
-        }
-      ]
-    },
-    {
-      "fromid": "25959",
-      "toid": "25962",
-      "article": "a",
-      "name": "blade of carving",
-      "attributes": [
-        {
-          "key": "defense",
-          "value": "33"
-        },
-        {
-          "key": "attack",
-          "value": "50"
-        },
-        {
-          "key": "weaponType",
-          "value": "sword"
-        },
-        {
-          "key": "weight",
-          "value": "5000"
-        }
-      ]
-    },
-    {
-      "fromid": "25963",
-      "toid": "25966",
-      "article": "a",
-      "name": "slayer of carving",
       "attributes": [
         {
           "key": "defense",

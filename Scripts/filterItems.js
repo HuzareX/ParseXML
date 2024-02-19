@@ -1,120 +1,133 @@
-const fs = require('fs')
-const { parse } = require('path')
+const fs = require("fs");
+
 
 class ItemFilter {
-	constructor(dataPath) {
-		this.jsonData = fs.readFileSync(dataPath, 'utf-8')
-		this.parsedData = JSON.parse(this.jsonData)
-	}
+  constructor(dataPath) {
+    this.jsonData = fs.readFileSync(dataPath, "utf-8");
+    this.parsedData = JSON.parse(this.jsonData);
+    this.mappedItems = 
+  }
 
-	mapAttributesToHashMap(attributes) {
-		const result = attributes.reduce(function (map, obj) {
-			map[obj.key] = obj.value
-			return map
-		}, {})
+  _mapArrayToHashMap(array) {
+    return array.reduce(function (map, obj) {
+      map[obj.key] = obj.value;
+      return map;
+    }, {});
+  }
 
-		return result
-	}
+  _mapAttributesToArray(hashMap) {
+    return Object.keys(hashMap).map((key) => {
+      return { key: key, value: hashMap[key] };
+    });
+  }
 
-	filterItems(attributePairs, outputPath) {
-		const items = {}
-		this.parsedData.items.forEach(x => {
-			if (!x.attributes || !x.id) {
-				return
-			}
-			items[x.id] = {
-				...x,
-				attributes: this.mapAttributesToHashMap(x.attributes),
-			}
-		})
-	
-		const filteredItems = {}
+  _mapAttributesToHashMap(data) {
+    const mappedData = {};
 
-		for (const item in items) {
-            console.log(item);
-			if (items[item].attributes) {
-				const condition = attributePairs[0]
-				if (items[item].attributes[condition.key] && items[item].attributes[condition.key] === condition.value) {
-					filteredItems[item.id] = item
-				}
-			}
-		}
-        console.log(filteredItems);
-		// const filteredItems = this.parsedData.items.filter(
-		// 	item =>
-		// 		item.attributes &&
-		// 		Array.isArray(item.attributes) &&
-		// 		attributePairs.every(pair =>
-		// 			item.attributes.some(attribute =>
-		// 				pair.key ? attribute.key === pair.key && (pair.value ? attribute.value === pair.value : true) : true
-		// 			)
-		// 		)
-		// )
+    data.forEach((x) => {
+      if (!x.attributes || !x.id) return;
 
-		// const outputData = {
-		// 	items: filteredItems,
-		// }
+      const attributesAsHashMap = this._mapArrayToHashMap(x.attributes);
+      mappedData[x.id] = { ...x, attributes: attributesAsHashMap };
+    });
 
-		// fs.writeFileSync(outputPath, JSON.stringify(outputData, null, 2), 'utf-8')
-	}
+    
+
+    return mappedData;
+  }
+
+  findItemsByConditions(conditions) {
+    const items = this._mapAttributesToHashMap(this.parsedData.items);
+    const filteredItems = [];
+
+    for (const id in items) {
+      const item = items[id];
+
+      if (item.attributes) {
+        conditions.every((condition) => {
+          if (item.attributes[condition.key] === condition.value) {
+            filteredItems.push({
+              ...item,
+              attributes: this._mapAttributesToArray(item.attributes),
+            });
+          }
+        });
+      }
+    }
+
+    return { items: filteredItems };
+  }
+
+  saveItemsToJson(items, path) {
+    fs.writeFileSync(path, JSON.stringify(items, null, 2), "utf-8");
+  }
 }
 
-const bodyItemsFilter = new ItemFilter('../JSON files/items.json')
-bodyItemsFilter.filterItems([{ key: 'slotType', value: 'body' }], '../JSON files/armors.json')
+const itemFilter = new ItemFilter("../JSON files/items.json");
 
-// const headItemsFilter = new ItemFilter('../JSON files/items.json')
-// headItemsFilter.filterItems([{ key: 'slotType', value: 'head' }], '../JSON files/helmets.json')
+const armors = itemFilter.findItemsByConditions([
+  { key: "slotType", value: "body" },
+]);
+const helmets = itemFilter.findItemsByConditions([
+  { key: "slotType", value: "head" },
+]);
+const legs = itemFilter.findItemsByConditions([
+  { key: "slotType", value: "legs" },
+]);
+const boots = itemFilter.findItemsByConditions([
+  { key: "slotType", value: "feet" },
+]);
+const shields = itemFilter.findItemsByConditions([
+  { key: "weaponType", value: "shield" },
+]);
+const quivers = itemFilter.findItemsByConditions([
+  { key: "weaponType", value: "quiver" },
+]);
+const axes = itemFilter.findItemsByConditions([
+  { key: "weaponType", value: "axe" },
+]);
+const swords = itemFilter.findItemsByConditions([
+  { key: "weaponType", value: "sword" },
+]);
+const clubs = itemFilter.findItemsByConditions([
+  { key: "weaponType", value: "club" },
+]);
+const wands = itemFilter.findItemsByConditions([
+  { key: "weaponType", value: "wand" },
+]);
+const backpacks = itemFilter.findItemsByConditions([
+  { key: "slotType", value: "backpack" },
+]);
+const ammunition = itemFilter.findItemsByConditions([
+  { key: "weaponType", value: "ammunition" },
+]);
+const crossbows = itemFilter.findItemsByConditions([
+  { key: "slotType", value: "two-handed" },
+  { key: "ammoType", value: "bolt" },
+]);
 
-// const legsItemsFilter = new ItemFilter('../JSON files/items.json')
-// legsItemsFilter.filterItems([{ key: 'slotType', value: 'legs' }], '../JSON files/legs.json')
+const bows = itemFilter.findItemsByConditions([
+  { key: "slotType", value: "two-handed" },
+  { key: "ammoType", value: "arrow" },
+]);
 
-// const bootsItemsFilter = new ItemFilter('../JSON files/items.json')
-// bootsItemsFilter.filterItems([{ key: 'slotType', value: 'feet' }], '../JSON files/boots.json')
+const throwItems = itemFilter.findItemsByConditions([
+  { key: "weaponType", value: "distance" },
+  { key: "shootType", value: "throw" },
+]);
 
-// const shieldsItemsFilter = new ItemFilter('../JSON files/items.json')
-// shieldsItemsFilter.filterItems([{ key: 'weaponType', value: 'shield' }], '../JSON files/shields.json')
-
-// const quiversItemsFilter = new ItemFilter('../JSON files/items.json')
-// quiversItemsFilter.filterItems([{ key: 'weaponType', value: 'quiver' }], '../JSON files/quivers.json')
-
-// const axesItemsFilter = new ItemFilter('../JSON files/items.json')
-// axesItemsFilter.filterItems([{ key: 'weaponType', value: 'axe' }], '../JSON files/axes.json')
-
-// const swordsItemsFilter = new ItemFilter('../JSON files/items.json')
-// swordsItemsFilter.filterItems([{ key: 'weaponType', value: 'sword' }], '../JSON files/swords.json')
-
-// const clubsItemsFilter = new ItemFilter('../JSON files/items.json')
-// clubsItemsFilter.filterItems([{ key: 'weaponType', value: 'club' }], '../JSON files/clubs.json')
-
-// const wandsItemsFilter = new ItemFilter('../JSON files/items.json')
-// wandsItemsFilter.filterItems([{ key: 'weaponType', value: 'wand' }], '../JSON files/wands.json')
-
-// const backpacksItemsFilter = new ItemFilter('../JSON files/items.json')
-// backpacksItemsFilter.filterItems([{ key: 'slotType', value: 'backpack' }], '../JSON files/backpacks.json')
-
-// const ammunitionItemsFilter = new ItemFilter('../JSON files/items.json')
-// ammunitionItemsFilter.filterItems([{ key: 'weaponType', value: 'ammunition' }], '../JSON files/ammunition.json')
-
-// const crossbowsItemsFilter = new ItemFilter('../JSON files/items.json')
-// crossbowsItemsFilter.filterItems(
-// 	[
-// 		{ key: 'slotType', value: 'two-handed' },
-// 		{ key: 'ammoType', value: 'bolt' },
-// 	],
-// 	'../JSON files/crossbows.json'
-// )
-
-// const bowsItemsFilter = new ItemFilter('../JSON files/items.json')
-// bowsItemsFilter.filterItems(
-// 	[
-// 		{ key: 'slotType', value: 'two-handed' },
-// 		{ key: 'ammoType', value: 'arrow' },
-// 	],
-// 	'../JSON files/bows.json'
-// )
-
-// const throwItemsFilter = new ItemFilter('../JSON files/items.json')
-// throwItemsFilter.filterItems(
-// 	[{ key: 'weaponType', value: 'distance' }, { key: 'shootType' }],
-// 	'../JSON files/throw.json'
-// )
+itemFilter.saveItemsToJson(armors, "../JSON files/armors.json");
+itemFilter.saveItemsToJson(helmets, "../JSON files/helmets.json");
+itemFilter.saveItemsToJson(legs, "../JSON files/legs.json");
+itemFilter.saveItemsToJson(boots, "../JSON files/boots.json");
+itemFilter.saveItemsToJson(shields, "../JSON files/shields.json");
+itemFilter.saveItemsToJson(quivers, "../JSON files/quivers.json");
+itemFilter.saveItemsToJson(axes, "../JSON files/axes.json");
+itemFilter.saveItemsToJson(swords, "../JSON files/swords.json");
+itemFilter.saveItemsToJson(clubs, "../JSON files/clubs.json");
+itemFilter.saveItemsToJson(wands, "../JSON files/wands.json");
+itemFilter.saveItemsToJson(backpacks, "../JSON files/backpacks.json");
+itemFilter.saveItemsToJson(ammunition, "../JSON files/ammunition.json");
+itemFilter.saveItemsToJson(crossbows, "../JSON files/crossbows.json");
+itemFilter.saveItemsToJson(bows, "../JSON files/bows.json");
+itemFilter.saveItemsToJson(throwItems, "../JSON files/throw.json");

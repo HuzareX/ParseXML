@@ -1,6 +1,698 @@
 {
   "items": [
     {
+      "id": "2377",
+      "article": "a",
+      "name": "two handed sword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "7000"
+        },
+        {
+          "key": "defense",
+          "value": "25"
+        },
+        {
+          "key": "attack",
+          "value": "30"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "2378",
+      "article": "a",
+      "name": "battle axe",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5000"
+        },
+        {
+          "key": "defense",
+          "value": "10"
+        },
+        {
+          "key": "attack",
+          "value": "25"
+        },
+        {
+          "key": "weaponType",
+          "value": "axe"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "2381",
+      "article": "a",
+      "name": "halberd",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "9000"
+        },
+        {
+          "key": "defense",
+          "value": "14"
+        },
+        {
+          "key": "attack",
+          "value": "35"
+        },
+        {
+          "key": "weaponType",
+          "value": "axe"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "2387",
+      "article": "a",
+      "name": "double axe",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "7000"
+        },
+        {
+          "key": "defense",
+          "value": "12"
+        },
+        {
+          "key": "attack",
+          "value": "35"
+        },
+        {
+          "key": "weaponType",
+          "value": "axe"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "2390",
+      "article": "a",
+      "name": "magic longsword",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "It's the magic Cyclopmania Sword."
+        },
+        {
+          "key": "weight",
+          "value": "4300"
+        },
+        {
+          "key": "defense",
+          "value": "40"
+        },
+        {
+          "key": "attack",
+          "value": "55"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "2391",
+      "article": "a",
+      "name": "war hammer",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "8500"
+        },
+        {
+          "key": "defense",
+          "value": "10"
+        },
+        {
+          "key": "attack",
+          "value": "45"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "2393",
+      "article": "a",
+      "name": "giant sword",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "This sword has been forged by ancient giants."
+        },
+        {
+          "key": "weight",
+          "value": "18000"
+        },
+        {
+          "key": "defense",
+          "value": "22"
+        },
+        {
+          "key": "attack",
+          "value": "46"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "2401",
+      "article": "a",
+      "name": "staff",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "3800"
+        },
+        {
+          "key": "defense",
+          "value": "25"
+        },
+        {
+          "key": "attack",
+          "value": "10"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "2408",
+      "article": "a",
+      "name": "warlord sword",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "Strong powers flow in this magic sword."
+        },
+        {
+          "key": "weight",
+          "value": "6400"
+        },
+        {
+          "key": "defense",
+          "value": "38"
+        },
+        {
+          "key": "attack",
+          "value": "53"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "2413",
+      "article": "a",
+      "name": "broadsword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5250"
+        },
+        {
+          "key": "defense",
+          "value": "23"
+        },
+        {
+          "key": "attack",
+          "value": "26"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "2414",
+      "article": "a",
+      "name": "dragon lance",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "The extraordinary sharp blade penetrates every armor."
+        },
+        {
+          "key": "weight",
+          "value": "6700"
+        },
+        {
+          "key": "defense",
+          "value": "16"
+        },
+        {
+          "key": "attack",
+          "value": "47"
+        },
+        {
+          "key": "weaponType",
+          "value": "axe"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "2415",
+      "article": "a",
+      "name": "great axe",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "A masterpiece of a dwarven smith."
+        },
+        {
+          "key": "weight",
+          "value": "9000"
+        },
+        {
+          "key": "defense",
+          "value": "22"
+        },
+        {
+          "key": "attack",
+          "value": "52"
+        },
+        {
+          "key": "weaponType",
+          "value": "axe"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "2425",
+      "article": "an",
+      "name": "obsidian lance",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "8000"
+        },
+        {
+          "key": "defense",
+          "value": "10"
+        },
+        {
+          "key": "attack",
+          "value": "34"
+        },
+        {
+          "key": "weaponType",
+          "value": "axe"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "2426",
+      "article": "a",
+      "name": "naginata",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "7800"
+        },
+        {
+          "key": "defense",
+          "value": "25"
+        },
+        {
+          "key": "attack",
+          "value": "39"
+        },
+        {
+          "key": "weaponType",
+          "value": "axe"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "2427",
+      "article": "a",
+      "name": "guardian halberd",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "11000"
+        },
+        {
+          "key": "defense",
+          "value": "15"
+        },
+        {
+          "key": "attack",
+          "value": "46"
+        },
+        {
+          "key": "weaponType",
+          "value": "axe"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "2433",
+      "article": "an",
+      "name": "enchanted staff",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "Temporary magic powers enchant this staff."
+        },
+        {
+          "key": "weight",
+          "value": "3800"
+        },
+        {
+          "key": "defense",
+          "value": "45"
+        },
+        {
+          "key": "attack",
+          "value": "39"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "decayTo",
+          "value": "2401"
+        },
+        {
+          "key": "duration",
+          "value": "60"
+        }
+      ]
+    },
+    {
+      "id": "2440",
+      "article": "a",
+      "name": "daramian waraxe",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5250"
+        },
+        {
+          "key": "defense",
+          "value": "15"
+        },
+        {
+          "key": "attack",
+          "value": "39"
+        },
+        {
+          "key": "weaponType",
+          "value": "axe"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "2443",
+      "article": "a",
+      "name": "ravager's axe",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5250"
+        },
+        {
+          "key": "defense",
+          "value": "14"
+        },
+        {
+          "key": "attack",
+          "value": "49"
+        },
+        {
+          "key": "weaponType",
+          "value": "axe"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "2444",
+      "article": "a",
+      "name": "hammer of wrath",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "A giant is said to have forged this hammer to take revenge for the death of his brother."
+        },
+        {
+          "key": "weight",
+          "value": "7000"
+        },
+        {
+          "key": "defense",
+          "value": "12"
+        },
+        {
+          "key": "attack",
+          "value": "48"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "2447",
+      "article": "a",
+      "name": "twin axe",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "6400"
+        },
+        {
+          "key": "defense",
+          "value": "24"
+        },
+        {
+          "key": "attack",
+          "value": "45"
+        },
+        {
+          "key": "weaponType",
+          "value": "axe"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "2452",
+      "article": "a",
+      "name": "heavy mace",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "Its tip is made of extremely solid steel."
+        },
+        {
+          "key": "weight",
+          "value": "11000"
+        },
+        {
+          "key": "defense",
+          "value": "15"
+        },
+        {
+          "key": "attack",
+          "value": "49"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "2453",
+      "article": "an",
+      "name": "arcane staff",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "It is enchanted with ancient magic that renders a weak staff into a powerful weapon."
+        },
+        {
+          "key": "weight",
+          "value": "4000"
+        },
+        {
+          "key": "defense",
+          "value": "30"
+        },
+        {
+          "key": "attack",
+          "value": "50"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "2454",
+      "article": "a",
+      "name": "war axe",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "6150"
+        },
+        {
+          "key": "defense",
+          "value": "10"
+        },
+        {
+          "key": "attack",
+          "value": "48"
+        },
+        {
+          "key": "weaponType",
+          "value": "axe"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "2455",
+      "article": "a",
+      "name": "crossbow",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "4000"
+        },
+        {
+          "key": "weaponType",
+          "value": "distance"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "range",
+          "value": "5"
+        }
+      ]
+    },
+    {
       "id": "2456",
       "article": "a",
       "name": "bow",
@@ -24,6 +716,724 @@
         {
           "key": "range",
           "value": "6"
+        }
+      ]
+    },
+    {
+      "id": "2550",
+      "article": "a",
+      "name": "scythe",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "3000"
+        },
+        {
+          "key": "defense",
+          "value": "3"
+        },
+        {
+          "key": "attack",
+          "value": "8"
+        },
+        {
+          "key": "weaponType",
+          "value": "axe"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "3964",
+      "article": "a",
+      "name": "ripper lance",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "8000"
+        },
+        {
+          "key": "defense",
+          "value": "7"
+        },
+        {
+          "key": "attack",
+          "value": "28"
+        },
+        {
+          "key": "weaponType",
+          "value": "axe"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "5803",
+      "article": "an",
+      "name": "arbalest",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "It is a bit heavy due to the iron mounting, but very precise."
+        },
+        {
+          "key": "weight",
+          "value": "9500"
+        },
+        {
+          "key": "weaponType",
+          "value": "distance"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "range",
+          "value": "6"
+        },
+        {
+          "key": "hitChance",
+          "value": "2"
+        },
+        {
+          "key": "attack",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "id": "6528",
+      "name": "the avenger",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "This holy blade was forged of shattered dreams."
+        },
+        {
+          "key": "weight",
+          "value": "6400"
+        },
+        {
+          "key": "defense",
+          "value": "38"
+        },
+        {
+          "key": "attack",
+          "value": "50"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "6553",
+      "article": "a",
+      "name": "ruthless axe",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5800"
+        },
+        {
+          "key": "defense",
+          "value": "15"
+        },
+        {
+          "key": "attack",
+          "value": "50"
+        },
+        {
+          "key": "weaponType",
+          "value": "axe"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "7379",
+      "article": "a",
+      "name": "brutetamer's staff",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "3800"
+        },
+        {
+          "key": "defense",
+          "value": "15"
+        },
+        {
+          "key": "attack",
+          "value": "35"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "description",
+          "value": "Barbarian women are said to use it for conjuring beasts."
+        }
+      ]
+    },
+    {
+      "id": "7380",
+      "article": "a",
+      "name": "headchopper",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "This axe is only granted to a greenhorn of the Svargrond arena."
+        },
+        {
+          "key": "weight",
+          "value": "4500"
+        },
+        {
+          "key": "defense",
+          "value": "20"
+        },
+        {
+          "key": "attack",
+          "value": "42"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "weaponType",
+          "value": "axe"
+        }
+      ]
+    },
+    {
+      "id": "7382",
+      "article": "a",
+      "name": "demonrage sword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "15000"
+        },
+        {
+          "key": "defense",
+          "value": "22"
+        },
+        {
+          "key": "attack",
+          "value": "47"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "7386",
+      "article": "a",
+      "name": "mercenary sword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "6800"
+        },
+        {
+          "key": "defense",
+          "value": "27"
+        },
+        {
+          "key": "attack",
+          "value": "43"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "7391",
+      "article": "a",
+      "name": "thaian sword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "6100"
+        },
+        {
+          "key": "defense",
+          "value": "29"
+        },
+        {
+          "key": "attack",
+          "value": "45"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "7392",
+      "article": "an",
+      "name": "orcish maul",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5400"
+        },
+        {
+          "key": "defense",
+          "value": "18"
+        },
+        {
+          "key": "attack",
+          "value": "42"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "description",
+          "value": "This club is only granted to a greenhorn of the Svargrond arena."
+        }
+      ]
+    },
+    {
+      "id": "7402",
+      "article": "a",
+      "name": "dragon slayer",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "8200"
+        },
+        {
+          "key": "defense",
+          "value": "28"
+        },
+        {
+          "key": "attack",
+          "value": "44"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "7403",
+      "article": "a",
+      "name": "berserker",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "13000"
+        },
+        {
+          "key": "defense",
+          "value": "21"
+        },
+        {
+          "key": "attack",
+          "value": "48"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "7405",
+      "article": "a",
+      "name": "havoc blade",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "7200"
+        },
+        {
+          "key": "defense",
+          "value": "34"
+        },
+        {
+          "key": "attack",
+          "value": "49"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "7406",
+      "article": "a",
+      "name": "blacksteel sword",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "This sword is only granted to a greenhorn of the Svargrond arena."
+        },
+        {
+          "key": "weight",
+          "value": "5900"
+        },
+        {
+          "key": "defense",
+          "value": "22"
+        },
+        {
+          "key": "attack",
+          "value": "42"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "7407",
+      "article": "a",
+      "name": "haunted blade",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "3100"
+        },
+        {
+          "key": "defense",
+          "value": "12"
+        },
+        {
+          "key": "attack",
+          "value": "40"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "7413",
+      "article": "a",
+      "name": "titan axe",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "8100"
+        },
+        {
+          "key": "defense",
+          "value": "30"
+        },
+        {
+          "key": "attack",
+          "value": "43"
+        },
+        {
+          "key": "weaponType",
+          "value": "axe"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "7414",
+      "article": "an",
+      "name": "abyss hammer",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "Floating stones form the tip of this strange weapon, held in place by unspeakable magic."
+        },
+        {
+          "key": "weight",
+          "value": "5500"
+        },
+        {
+          "key": "defense",
+          "value": "21"
+        },
+        {
+          "key": "attack",
+          "value": "47"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "7423",
+      "article": "a",
+      "name": "skullcrusher",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "12000"
+        },
+        {
+          "key": "defense",
+          "value": "20"
+        },
+        {
+          "key": "attack",
+          "value": "51"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "7424",
+      "article": "a",
+      "name": "lunar staff",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "3800"
+        },
+        {
+          "key": "defense",
+          "value": "25"
+        },
+        {
+          "key": "attack",
+          "value": "40"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "7425",
+      "article": "a",
+      "name": "taurus mace",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5100"
+        },
+        {
+          "key": "defense",
+          "value": "18"
+        },
+        {
+          "key": "attack",
+          "value": "30"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "7426",
+      "article": "an",
+      "name": "amber staff",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "3500"
+        },
+        {
+          "key": "defense",
+          "value": "25"
+        },
+        {
+          "key": "attack",
+          "value": "43"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "7427",
+      "article": "a",
+      "name": "chaos mace",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "Only those who have descended to the deepest depths may wield this hammer without it cursing them."
+        },
+        {
+          "key": "weight",
+          "value": "6300"
+        },
+        {
+          "key": "defense",
+          "value": "21"
+        },
+        {
+          "key": "attack",
+          "value": "44"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "7428",
+      "article": "a",
+      "name": "bonebreaker",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "This weapon has to be swung in both hands and requires a lot of strength."
+        },
+        {
+          "key": "weight",
+          "value": "12000"
+        },
+        {
+          "key": "defense",
+          "value": "15"
+        },
+        {
+          "key": "attack",
+          "value": "46"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "7436",
+      "article": "an",
+      "name": "angelic axe",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5600"
+        },
+        {
+          "key": "defense",
+          "value": "24"
+        },
+        {
+          "key": "attack",
+          "value": "44"
+        },
+        {
+          "key": "weaponType",
+          "value": "axe"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
         }
       ]
     },
@@ -59,6 +1469,1334 @@
         {
           "key": "hitChance",
           "value": "5"
+        }
+      ]
+    },
+    {
+      "id": "7449",
+      "article": "a",
+      "name": "crystal sword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "6900"
+        },
+        {
+          "key": "defense",
+          "value": "26"
+        },
+        {
+          "key": "attack",
+          "value": "35"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "7450",
+      "article": "a",
+      "name": "hammer of prophecy",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "11000"
+        },
+        {
+          "key": "defense",
+          "value": "35"
+        },
+        {
+          "key": "attack",
+          "value": "52"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "7452",
+      "article": "a",
+      "name": "spiked squelcher",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "6800"
+        },
+        {
+          "key": "defense",
+          "value": "21"
+        },
+        {
+          "key": "attack",
+          "value": "41"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "7453",
+      "article": "an",
+      "name": "executioner",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "9900"
+        },
+        {
+          "key": "defense",
+          "value": "20"
+        },
+        {
+          "key": "attack",
+          "value": "51"
+        },
+        {
+          "key": "weaponType",
+          "value": "axe"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "7454",
+      "article": "a",
+      "name": "glorious axe",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "9500"
+        },
+        {
+          "key": "defense",
+          "value": "23"
+        },
+        {
+          "key": "attack",
+          "value": "40"
+        },
+        {
+          "key": "weaponType",
+          "value": "axe"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "7747",
+      "article": "a",
+      "name": "fiery blacksteel sword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5900"
+        },
+        {
+          "key": "defense",
+          "value": "22"
+        },
+        {
+          "key": "attack",
+          "value": "35"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementFire",
+          "value": "7"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "7406"
+        }
+      ]
+    },
+    {
+      "id": "7748",
+      "article": "a",
+      "name": "fiery dragon slayer",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "8200"
+        },
+        {
+          "key": "defense",
+          "value": "28"
+        },
+        {
+          "key": "attack",
+          "value": "35"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementFire",
+          "value": "9"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "7402"
+        }
+      ]
+    },
+    {
+      "id": "7752",
+      "article": "a",
+      "name": "fiery headchopper",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "4500"
+        },
+        {
+          "key": "defense",
+          "value": "20"
+        },
+        {
+          "key": "attack",
+          "value": "34"
+        },
+        {
+          "key": "weaponType",
+          "value": "axe"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementFire",
+          "value": "8"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "7380"
+        }
+      ]
+    },
+    {
+      "id": "7753",
+      "article": "a",
+      "name": "fiery war axe",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "6150"
+        },
+        {
+          "key": "defense",
+          "value": "10"
+        },
+        {
+          "key": "attack",
+          "value": "39"
+        },
+        {
+          "key": "weaponType",
+          "value": "axe"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementFire",
+          "value": "9"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "2454"
+        }
+      ]
+    },
+    {
+      "id": "7757",
+      "article": "a",
+      "name": "fiery orcish maul",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5400"
+        },
+        {
+          "key": "defense",
+          "value": "18"
+        },
+        {
+          "key": "attack",
+          "value": "35"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementFire",
+          "value": "7"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "7392"
+        }
+      ]
+    },
+    {
+      "id": "7758",
+      "article": "a",
+      "name": "fiery war hammer",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "8500"
+        },
+        {
+          "key": "defense",
+          "value": "10"
+        },
+        {
+          "key": "attack",
+          "value": "36"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementFire",
+          "value": "9"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "2391"
+        }
+      ]
+    },
+    {
+      "id": "7766",
+      "article": "an",
+      "name": "icy blacksteel sword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5900"
+        },
+        {
+          "key": "defense",
+          "value": "22"
+        },
+        {
+          "key": "attack",
+          "value": "35"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementIce",
+          "value": "7"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "7406"
+        }
+      ]
+    },
+    {
+      "id": "7767",
+      "article": "an",
+      "name": "icy dragon slayer",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "8200"
+        },
+        {
+          "key": "defense",
+          "value": "28"
+        },
+        {
+          "key": "attack",
+          "value": "35"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementIce",
+          "value": "9"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "7402"
+        }
+      ]
+    },
+    {
+      "id": "7771",
+      "article": "an",
+      "name": "icy headchopper",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "4500"
+        },
+        {
+          "key": "defense",
+          "value": "20"
+        },
+        {
+          "key": "attack",
+          "value": "34"
+        },
+        {
+          "key": "weaponType",
+          "value": "axe"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementIce",
+          "value": "8"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "7380"
+        }
+      ]
+    },
+    {
+      "id": "7772",
+      "article": "an",
+      "name": "icy war axe",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "6150"
+        },
+        {
+          "key": "defense",
+          "value": "10"
+        },
+        {
+          "key": "attack",
+          "value": "39"
+        },
+        {
+          "key": "weaponType",
+          "value": "axe"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementIce",
+          "value": "9"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "2454"
+        }
+      ]
+    },
+    {
+      "id": "7776",
+      "article": "an",
+      "name": "icy orcish maul",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5400"
+        },
+        {
+          "key": "defense",
+          "value": "18"
+        },
+        {
+          "key": "attack",
+          "value": "35"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementIce",
+          "value": "7"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "7392"
+        }
+      ]
+    },
+    {
+      "id": "7777",
+      "article": "an",
+      "name": "icy war hammer",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "8500"
+        },
+        {
+          "key": "defense",
+          "value": "10"
+        },
+        {
+          "key": "attack",
+          "value": "36"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementIce",
+          "value": "9"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "2391"
+        }
+      ]
+    },
+    {
+      "id": "7857",
+      "article": "an",
+      "name": "earth blacksteel sword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5900"
+        },
+        {
+          "key": "defense",
+          "value": "22"
+        },
+        {
+          "key": "attack",
+          "value": "35"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementEarth",
+          "value": "7"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "7406"
+        }
+      ]
+    },
+    {
+      "id": "7858",
+      "article": "an",
+      "name": "earth dragon slayer",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "8200"
+        },
+        {
+          "key": "defense",
+          "value": "28"
+        },
+        {
+          "key": "attack",
+          "value": "35"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementEarth",
+          "value": "9"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "7402"
+        }
+      ]
+    },
+    {
+      "id": "7862",
+      "article": "an",
+      "name": "earth headchopper",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "4500"
+        },
+        {
+          "key": "defense",
+          "value": "20"
+        },
+        {
+          "key": "attack",
+          "value": "34"
+        },
+        {
+          "key": "weaponType",
+          "value": "axe"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementEarth",
+          "value": "8"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "7380"
+        }
+      ]
+    },
+    {
+      "id": "7863",
+      "article": "an",
+      "name": "earth war axe",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "6150"
+        },
+        {
+          "key": "defense",
+          "value": "10"
+        },
+        {
+          "key": "attack",
+          "value": "39"
+        },
+        {
+          "key": "weaponType",
+          "value": "axe"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementEarth",
+          "value": "9"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "2454"
+        }
+      ]
+    },
+    {
+      "id": "7867",
+      "article": "an",
+      "name": "earth orcish maul",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5400"
+        },
+        {
+          "key": "defense",
+          "value": "18"
+        },
+        {
+          "key": "attack",
+          "value": "35"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementEarth",
+          "value": "7"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "7392"
+        }
+      ]
+    },
+    {
+      "id": "7868",
+      "article": "an",
+      "name": "earth war hammer",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "8500"
+        },
+        {
+          "key": "defense",
+          "value": "10"
+        },
+        {
+          "key": "attack",
+          "value": "36"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementEarth",
+          "value": "9"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "2391"
+        }
+      ]
+    },
+    {
+      "id": "7872",
+      "article": "an",
+      "name": "energy blacksteel sword",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5900"
+        },
+        {
+          "key": "defense",
+          "value": "22"
+        },
+        {
+          "key": "attack",
+          "value": "35"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementEnergy",
+          "value": "7"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "7406"
+        }
+      ]
+    },
+    {
+      "id": "7873",
+      "article": "an",
+      "name": "energy dragon slayer",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "8200"
+        },
+        {
+          "key": "defense",
+          "value": "28"
+        },
+        {
+          "key": "attack",
+          "value": "35"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementEnergy",
+          "value": "9"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "7402"
+        }
+      ]
+    },
+    {
+      "id": "7877",
+      "article": "an",
+      "name": "energy headchopper",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "4500"
+        },
+        {
+          "key": "defense",
+          "value": "20"
+        },
+        {
+          "key": "attack",
+          "value": "34"
+        },
+        {
+          "key": "weaponType",
+          "value": "axe"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementEnergy",
+          "value": "8"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "7380"
+        }
+      ]
+    },
+    {
+      "id": "7878",
+      "article": "an",
+      "name": "energy war axe",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "6150"
+        },
+        {
+          "key": "defense",
+          "value": "10"
+        },
+        {
+          "key": "attack",
+          "value": "39"
+        },
+        {
+          "key": "weaponType",
+          "value": "axe"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementEnergy",
+          "value": "9"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "2454"
+        }
+      ]
+    },
+    {
+      "id": "7882",
+      "article": "an",
+      "name": "energy orcish maul",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5400"
+        },
+        {
+          "key": "defense",
+          "value": "18"
+        },
+        {
+          "key": "attack",
+          "value": "35"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementEnergy",
+          "value": "7"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "7392"
+        }
+      ]
+    },
+    {
+      "id": "7883",
+      "article": "an",
+      "name": "energy war hammer",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "8500"
+        },
+        {
+          "key": "defense",
+          "value": "10"
+        },
+        {
+          "key": "attack",
+          "value": "36"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementEnergy",
+          "value": "9"
+        },
+        {
+          "key": "charges",
+          "value": "1000"
+        },
+        {
+          "key": "showcharges",
+          "value": "true"
+        },
+        {
+          "key": "decayTo",
+          "value": "2391"
+        }
+      ]
+    },
+    {
+      "id": "8849",
+      "article": "a",
+      "name": "modified crossbow",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "3500"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "weaponType",
+          "value": "distance"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "range",
+          "value": "5"
+        },
+        {
+          "key": "hitChance",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "id": "8850",
+      "article": "a",
+      "name": "chain bolter",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5500"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "weaponType",
+          "value": "distance"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "range",
+          "value": "3"
+        },
+        {
+          "key": "attack",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "id": "8851",
+      "article": "a",
+      "name": "royal crossbow",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "12000"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "weaponType",
+          "value": "distance"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "range",
+          "value": "6"
+        },
+        {
+          "key": "hitChance",
+          "value": "3"
+        },
+        {
+          "key": "attack",
+          "value": "5"
+        }
+      ]
+    },
+    {
+      "id": "8852",
+      "name": "the devileye",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5500"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "weaponType",
+          "value": "distance"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "range",
+          "value": "6"
+        },
+        {
+          "key": "hitChance",
+          "value": "-20"
+        },
+        {
+          "key": "attack",
+          "value": "20"
+        }
+      ]
+    },
+    {
+      "id": "8853",
+      "name": "the ironworker",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5500"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "weaponType",
+          "value": "distance"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "range",
+          "value": "5"
+        },
+        {
+          "key": "attack",
+          "value": "4"
         }
       ]
     },
@@ -224,6 +2962,85 @@
       ]
     },
     {
+      "id": "8926",
+      "article": "a",
+      "name": "demonwing axe",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "12000"
+        },
+        {
+          "key": "defense",
+          "value": "20"
+        },
+        {
+          "key": "attack",
+          "value": "53"
+        },
+        {
+          "key": "weaponType",
+          "value": "axe"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "8929",
+      "name": "the stomper",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "11500"
+        },
+        {
+          "key": "defense",
+          "value": "20"
+        },
+        {
+          "key": "attack",
+          "value": "51"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "8932",
+      "name": "the calamity",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "6800"
+        },
+        {
+          "key": "defense",
+          "value": "35"
+        },
+        {
+          "key": "attack",
+          "value": "51"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
       "id": "10295",
       "article": "a",
       "name": "musician's bow",
@@ -251,6 +3068,255 @@
         {
           "key": "range",
           "value": "4"
+        }
+      ]
+    },
+    {
+      "id": "10301",
+      "article": "a",
+      "name": "scythe of the reaper",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "This scythe has harvested countless souls and still hungers for more."
+        },
+        {
+          "key": "weight",
+          "value": "3000"
+        },
+        {
+          "key": "defense",
+          "value": "6"
+        },
+        {
+          "key": "attack",
+          "value": "16"
+        },
+        {
+          "key": "weaponType",
+          "value": "axe"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "10303",
+      "article": "a",
+      "name": "farmer's avenger",
+      "attributes": [
+        {
+          "key": "description",
+          "value": "A weapon forged to fight oppression of the poor underdogs."
+        },
+        {
+          "key": "weight",
+          "value": "2500"
+        },
+        {
+          "key": "defense",
+          "value": "7"
+        },
+        {
+          "key": "attack",
+          "value": "17"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "11305",
+      "article": "a",
+      "name": "drakinata",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5400"
+        },
+        {
+          "key": "defense",
+          "value": "20"
+        },
+        {
+          "key": "attack",
+          "value": "47"
+        },
+        {
+          "key": "weaponType",
+          "value": "axe"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "11306",
+      "name": "sai",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5000"
+        },
+        {
+          "key": "defense",
+          "value": "27"
+        },
+        {
+          "key": "attack",
+          "value": "45"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "11308",
+      "article": "a",
+      "name": "drachaku",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "6000"
+        },
+        {
+          "key": "defense",
+          "value": "25"
+        },
+        {
+          "key": "attack",
+          "value": "46"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "11309",
+      "name": "twin hooks",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "5000"
+        },
+        {
+          "key": "defense",
+          "value": "22"
+        },
+        {
+          "key": "attack",
+          "value": "32"
+        },
+        {
+          "key": "weaponType",
+          "value": "axe"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "11323",
+      "article": "a",
+      "name": "Zaoan halberd",
+      "attributes": [
+        {
+          "key": "defense",
+          "value": "15"
+        },
+        {
+          "key": "attack",
+          "value": "37"
+        },
+        {
+          "key": "weaponType",
+          "value": "axe"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "weight",
+          "value": "8700"
+        }
+      ]
+    },
+    {
+      "id": "12613",
+      "article": "a",
+      "name": "twiceslicer",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "18000"
+        },
+        {
+          "key": "defense",
+          "value": "30"
+        },
+        {
+          "key": "attack",
+          "value": "47"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "13838",
+      "article": "a",
+      "name": "heavy trident",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "9000"
+        },
+        {
+          "key": "defense",
+          "value": "17"
+        },
+        {
+          "key": "attack",
+          "value": "35"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
         }
       ]
     },
@@ -298,6 +3364,60 @@
       ]
     },
     {
+      "id": "15400",
+      "article": "a",
+      "name": "deepling staff",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "8800"
+        },
+        {
+          "key": "defense",
+          "value": "23"
+        },
+        {
+          "key": "attack",
+          "value": "43"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "15454",
+      "article": "a",
+      "name": "guardian axe",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "11000"
+        },
+        {
+          "key": "attack",
+          "value": "46"
+        },
+        {
+          "key": "defense",
+          "value": "11"
+        },
+        {
+          "key": "weaponType",
+          "value": "axe"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
       "id": "15643",
       "article": "a",
       "name": "hive bow",
@@ -329,6 +3449,111 @@
         {
           "key": "attack",
           "value": "2"
+        }
+      ]
+    },
+    {
+      "id": "15644",
+      "article": "an",
+      "name": "ornate crossbow",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "9100"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "weaponType",
+          "value": "distance"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "range",
+          "value": "6"
+        },
+        {
+          "key": "hitChance",
+          "value": "2"
+        },
+        {
+          "key": "attack",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "id": "16111",
+      "article": "a",
+      "name": "thorn spitter",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "12600"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "weaponType",
+          "value": "distance"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "range",
+          "value": "6"
+        },
+        {
+          "key": "attack",
+          "value": "9"
+        },
+        {
+          "key": "hitChance",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "id": "18453",
+      "article": "a",
+      "name": "crystal crossbow",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "8400"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "weaponType",
+          "value": "distance"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "range",
+          "value": "6"
+        },
+        {
+          "key": "attack",
+          "value": "4"
+        },
+        {
+          "key": "hitChance",
+          "value": "3"
         }
       ]
     },
@@ -368,6 +3593,68 @@
       ]
     },
     {
+      "id": "20108",
+      "article": "a",
+      "name": "pair of iron fists",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "4500"
+        },
+        {
+          "key": "attack",
+          "value": "45"
+        },
+        {
+          "key": "defense",
+          "value": "17"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "21690",
+      "article": "a",
+      "name": "triple bolt crossbow",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "6200"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "weaponType",
+          "value": "distance"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "range",
+          "value": "5"
+        },
+        {
+          "key": "attack",
+          "value": "3"
+        },
+        {
+          "key": "hitChance",
+          "value": "2"
+        }
+      ]
+    },
+    {
       "id": "21696",
       "article": "an",
       "name": "icicle bow",
@@ -399,6 +3686,261 @@
         {
           "key": "hitChance",
           "value": "4"
+        }
+      ]
+    },
+    {
+      "id": "22401",
+      "article": "a",
+      "name": "crude umbral slayer",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "10000"
+        },
+        {
+          "key": "defense",
+          "value": "29"
+        },
+        {
+          "key": "attack",
+          "value": "51"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "22402",
+      "article": "an",
+      "name": "umbral slayer",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "9500"
+        },
+        {
+          "key": "defense",
+          "value": "31"
+        },
+        {
+          "key": "attack",
+          "value": "52"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "22403",
+      "article": "an",
+      "name": "umbral master slayer",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "9000"
+        },
+        {
+          "key": "defense",
+          "value": "35"
+        },
+        {
+          "key": "attack",
+          "value": "54"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "skillSword",
+          "value": "3"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "22407",
+      "article": "a",
+      "name": "crude umbral chopper",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "12000"
+        },
+        {
+          "key": "defense",
+          "value": "27"
+        },
+        {
+          "key": "attack",
+          "value": "51"
+        },
+        {
+          "key": "weaponType",
+          "value": "axe"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "22408",
+      "article": "an",
+      "name": "umbral chopper",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "11500"
+        },
+        {
+          "key": "defense",
+          "value": "30"
+        },
+        {
+          "key": "attack",
+          "value": "52"
+        },
+        {
+          "key": "weaponType",
+          "value": "axe"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "22409",
+      "article": "an",
+      "name": "umbral master chopper",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "11000"
+        },
+        {
+          "key": "defense",
+          "value": "34"
+        },
+        {
+          "key": "attack",
+          "value": "54"
+        },
+        {
+          "key": "weaponType",
+          "value": "axe"
+        },
+        {
+          "key": "skillAxe",
+          "value": "3"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "22413",
+      "article": "a",
+      "name": "crude umbral hammer",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "17000"
+        },
+        {
+          "key": "defense",
+          "value": "27"
+        },
+        {
+          "key": "attack",
+          "value": "51"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "22414",
+      "article": "an",
+      "name": "umbral hammer",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "16500"
+        },
+        {
+          "key": "defense",
+          "value": "30"
+        },
+        {
+          "key": "attack",
+          "value": "53"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "22415",
+      "article": "an",
+      "name": "umbral master hammer",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "16000"
+        },
+        {
+          "key": "defense",
+          "value": "34"
+        },
+        {
+          "key": "attack",
+          "value": "55"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "skillClub",
+          "value": "3"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
         }
       ]
     },
@@ -512,6 +4054,382 @@
       ]
     },
     {
+      "id": "22419",
+      "article": "a",
+      "name": "crude umbral crossbow",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "13000"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "weaponType",
+          "value": "distance"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "range",
+          "value": "5"
+        },
+        {
+          "key": "hitChance",
+          "value": "1"
+        },
+        {
+          "key": "attack",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "id": "22420",
+      "article": "an",
+      "name": "umbral crossbow",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "12500"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "weaponType",
+          "value": "distance"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "range",
+          "value": "5"
+        },
+        {
+          "key": "hitChance",
+          "value": "2"
+        },
+        {
+          "key": "attack",
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "id": "22421",
+      "article": "an",
+      "name": "umbral master crossbow",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "12000"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "weaponType",
+          "value": "distance"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "range",
+          "value": "5"
+        },
+        {
+          "key": "hitChance",
+          "value": "4"
+        },
+        {
+          "key": "attack",
+          "value": "9"
+        },
+        {
+          "key": "skillDist",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "id": "23544",
+      "article": "a",
+      "name": "moohtant cudgel",
+      "attributes": [
+        {
+          "key": "defense",
+          "value": "21"
+        },
+        {
+          "key": "attack",
+          "value": "47"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "weight",
+          "value": "8500"
+        }
+      ]
+    },
+    {
+      "id": "23547",
+      "article": "an",
+      "name": "execowtioner axe",
+      "attributes": [
+        {
+          "key": "defense",
+          "value": "18"
+        },
+        {
+          "key": "attack",
+          "value": "46"
+        },
+        {
+          "key": "weaponType",
+          "value": "axe"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "weight",
+          "value": "8200"
+        }
+      ]
+    },
+    {
+      "id": "23549",
+      "article": "a",
+      "name": "glooth club",
+      "attributes": [
+        {
+          "key": "defense",
+          "value": "1"
+        },
+        {
+          "key": "attack",
+          "value": "39"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementEarth",
+          "value": "26"
+        },
+        {
+          "key": "charges",
+          "value": "2"
+        },
+        {
+          "key": "weight",
+          "value": "1900"
+        }
+      ]
+    },
+    {
+      "id": "23550",
+      "article": "a",
+      "name": "glooth blade",
+      "attributes": [
+        {
+          "key": "defense",
+          "value": "1"
+        },
+        {
+          "key": "attack",
+          "value": "39"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementEarth",
+          "value": "26"
+        },
+        {
+          "key": "charges",
+          "value": "2"
+        },
+        {
+          "key": "weight",
+          "value": "1900"
+        }
+      ]
+    },
+    {
+      "id": "23551",
+      "article": "a",
+      "name": "glooth axe",
+      "attributes": [
+        {
+          "key": "defense",
+          "value": "1"
+        },
+        {
+          "key": "attack",
+          "value": "39"
+        },
+        {
+          "key": "weaponType",
+          "value": "axe"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "elementEarth",
+          "value": "26"
+        },
+        {
+          "key": "charges",
+          "value": "2"
+        },
+        {
+          "key": "weight",
+          "value": "1900"
+        }
+      ]
+    },
+    {
+      "id": "23590",
+      "article": "a",
+      "name": "one hit wonder",
+      "attributes": [
+        {
+          "key": "defense",
+          "value": "22"
+        },
+        {
+          "key": "attack",
+          "value": "49"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "weight",
+          "value": "9600"
+        }
+      ]
+    },
+    {
+      "id": "24827",
+      "article": "an",
+      "name": "ogre klubba",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "7900"
+        },
+        {
+          "key": "defense",
+          "value": "25"
+        },
+        {
+          "key": "attack",
+          "value": "45"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "24828",
+      "article": "an",
+      "name": "ogre choppa",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "7500"
+        },
+        {
+          "key": "defense",
+          "value": "23"
+        },
+        {
+          "key": "attack",
+          "value": "39"
+        },
+        {
+          "key": "weaponType",
+          "value": "axe"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
+      "id": "25383",
+      "article": "a",
+      "name": "rift lance",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "6600"
+        },
+        {
+          "key": "defense",
+          "value": "28"
+        },
+        {
+          "key": "attack",
+          "value": "48"
+        },
+        {
+          "key": "weaponType",
+          "value": "axe"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        }
+      ]
+    },
+    {
       "id": "25522",
       "article": "a",
       "name": "rift bow",
@@ -543,6 +4461,122 @@
         {
           "key": "hitChance",
           "value": "3"
+        }
+      ]
+    },
+    {
+      "id": "25523",
+      "article": "a",
+      "name": "rift crossbow",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "13000"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "weaponType",
+          "value": "distance"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "range",
+          "value": "5"
+        },
+        {
+          "key": "hitChance",
+          "value": "4"
+        },
+        {
+          "key": "attack",
+          "value": "5"
+        }
+      ]
+    },
+    {
+      "id": "25880",
+      "article": "a",
+      "name": "slayer of mayhem",
+      "attributes": [
+        {
+          "key": "defense",
+          "value": "32"
+        },
+        {
+          "key": "attack",
+          "value": "52"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "weight",
+          "value": "7000"
+        }
+      ]
+    },
+    {
+      "id": "25882",
+      "article": "a",
+      "name": "chopper of mayhem",
+      "attributes": [
+        {
+          "key": "defense",
+          "value": "32"
+        },
+        {
+          "key": "attack",
+          "value": "52"
+        },
+        {
+          "key": "weaponType",
+          "value": "axe"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "weight",
+          "value": "7000"
+        }
+      ]
+    },
+    {
+      "id": "25884",
+      "article": "a",
+      "name": "hammer of mayhem",
+      "attributes": [
+        {
+          "key": "defense",
+          "value": "30"
+        },
+        {
+          "key": "attack",
+          "value": "53"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
+        },
+        {
+          "key": "weight",
+          "value": "7000"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
         }
       ]
     },
@@ -582,14 +4616,13 @@
       ]
     },
     {
-      "fromid": "25943",
-      "toid": "25946",
+      "id": "25886",
       "article": "a",
-      "name": "bow of remedy",
+      "name": "crossbow of mayhem",
       "attributes": [
         {
           "key": "weight",
-          "value": "5500"
+          "value": "6500"
         },
         {
           "key": "slotType",
@@ -601,11 +4634,11 @@
         },
         {
           "key": "ammoType",
-          "value": "arrow"
+          "value": "bolt"
         },
         {
           "key": "range",
-          "value": "6"
+          "value": "5"
         },
         {
           "key": "hitChance",
@@ -618,38 +4651,83 @@
       ]
     },
     {
-      "fromid": "25983",
-      "toid": "25986",
+      "id": "30106",
       "article": "a",
-      "name": "bow of carving",
+      "name": "slayer of destruction",
       "attributes": [
         {
           "key": "weight",
-          "value": "5500"
+          "value": "7000"
         },
         {
           "key": "slotType",
           "value": "two-handed"
         },
         {
-          "key": "weaponType",
-          "value": "distance"
-        },
-        {
-          "key": "ammoType",
-          "value": "arrow"
-        },
-        {
-          "key": "range",
-          "value": "6"
-        },
-        {
-          "key": "hitChance",
-          "value": "6"
+          "key": "defense",
+          "value": "30"
         },
         {
           "key": "attack",
-          "value": "6"
+          "value": "52"
+        },
+        {
+          "key": "weaponType",
+          "value": "sword"
+        }
+      ]
+    },
+    {
+      "id": "30108",
+      "article": "a",
+      "name": "chopper of destruction",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "7000"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "defense",
+          "value": "30"
+        },
+        {
+          "key": "attack",
+          "value": "52"
+        },
+        {
+          "key": "weaponType",
+          "value": "axe"
+        }
+      ]
+    },
+    {
+      "id": "30110",
+      "article": "a",
+      "name": "hammer of destruction",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "7000"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "defense",
+          "value": "29"
+        },
+        {
+          "key": "attack",
+          "value": "53"
+        },
+        {
+          "key": "weaponType",
+          "value": "club"
         }
       ]
     },
@@ -677,6 +4755,41 @@
         {
           "key": "range",
           "value": "6"
+        },
+        {
+          "key": "hitChance",
+          "value": "5"
+        },
+        {
+          "key": "attack",
+          "value": "5"
+        }
+      ]
+    },
+    {
+      "id": "30112",
+      "article": "a",
+      "name": "crossbow of destruction",
+      "attributes": [
+        {
+          "key": "weight",
+          "value": "6500"
+        },
+        {
+          "key": "slotType",
+          "value": "two-handed"
+        },
+        {
+          "key": "weaponType",
+          "value": "distance"
+        },
+        {
+          "key": "ammoType",
+          "value": "bolt"
+        },
+        {
+          "key": "range",
+          "value": "5"
         },
         {
           "key": "hitChance",
