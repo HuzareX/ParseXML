@@ -1,11 +1,12 @@
 const fs = require("fs");
 
+// TODO: Add support for fromid/toid
+// TODO: optimization
 
 class ItemFilter {
   constructor(dataPath) {
     this.jsonData = fs.readFileSync(dataPath, "utf-8");
     this.parsedData = JSON.parse(this.jsonData);
-    this.mappedItems = 
   }
 
   _mapArrayToHashMap(array) {
